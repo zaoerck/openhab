@@ -1,0 +1,124 @@
+2016-04-26 14:46:35.015 [INFO ] [.o.core.internal.CoreActivator] - openHAB runtime has been started (v1.6.2).
+2016-04-26 14:46:38.078 [INFO ] [o.o.i.s.i.DiscoveryServiceImpl] - mDNS service has been started
+2016-04-26 14:46:39.071 [INFO ] [o.o.i.s.i.DiscoveryServiceImpl] - Service Discovery initialization completed.
+2016-04-26 14:46:42.712 [INFO ] [penhab.io.rest.RESTApplication] - Started REST API at /rest
+2016-04-26 14:46:46.856 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'demo.sitemap'
+2016-04-26 14:46:47.389 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'demo.script'
+2016-04-26 14:46:47.574 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'db4o.persist'
+2016-04-26 14:46:47.674 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'exec.persist'
+2016-04-26 14:46:47.681 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'logging.persist'
+2016-04-26 14:46:47.703 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'rrd4j.persist'
+2016-04-26 14:46:47.740 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'demo.items'
+2016-04-26 14:46:49.653 [INFO ] [.o.u.w.i.servlet.WebAppServlet] - Started Classic UI at /openhab.app
+2016-04-26 14:46:58.002 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'demo.rules'
+2016-04-26 14:47:01.664 [WARN ] [.o.c.p.e.PersistenceExtensions] - There is no queryable persistence service registered with the name 'rrd4j'
+2016-04-26 14:47:01.667 [ERROR] [m.r.internal.engine.RuleEngine] - Error during the execution of startup rule 'Update max and min temperatures': cannot invoke method public abstract org.openhab.core.types.State org.openhab.core.persistence.HistoricItem.getState() on null
+2016-04-26 14:47:01.713 [WARN ] [.o.c.p.e.PersistenceExtensions] - There is no queryable persistence service registered with the name 'rrd4j'
+2016-04-26 14:47:01.714 [WARN ] [.o.c.p.e.PersistenceExtensions] - There is no queryable persistence service registered with the name 'rrd4j'
+2016-04-26 14:47:02.764 [ERROR] [b.b.i.BTDeviceDiscoveryService] - Error while initializing local bluetooth device.
+javax.bluetooth.BluetoothStateException: BlueCove libraries not available
+	at com.intel.bluetooth.BlueCoveImpl.createDetectorOnWindows(BlueCoveImpl.java:963) ~[na:na]
+	at com.intel.bluetooth.BlueCoveImpl.detectStack(BlueCoveImpl.java:477) ~[na:na]
+	at com.intel.bluetooth.BlueCoveImpl.access$500(BlueCoveImpl.java:70) ~[na:na]
+	at com.intel.bluetooth.BlueCoveImpl$1.run(BlueCoveImpl.java:1085) ~[na:na]
+	at java.security.AccessController.doPrivileged(Native Method) ~[na:1.7.0_79]
+	at com.intel.bluetooth.BlueCoveImpl.detectStackPrivileged(BlueCoveImpl.java:1083) ~[na:na]
+	at com.intel.bluetooth.BlueCoveImpl.getBluetoothStack(BlueCoveImpl.java:1076) ~[na:na]
+	at javax.bluetooth.LocalDevice.getLocalDeviceInstance(LocalDevice.java:75) ~[na:na]
+	at javax.bluetooth.LocalDevice.getLocalDevice(LocalDevice.java:95) ~[na:na]
+	at org.openhab.binding.bluetooth.internal.BTDeviceDiscoveryService.run(BTDeviceDiscoveryService.java:113) ~[na:na]
+2016-04-26 14:47:03.347 [INFO ] [rg.openhab.io.cv.CVApplication] - Started Cometvisu API at /services/cv
+2016-04-26 14:47:08.559 [INFO ] [.service.AbstractActiveService] - HDanywhere Refresh Service has been started
+2016-04-26 14:47:08.595 [INFO ] [t.AbstractSocketChannelBinding] - The maximum buffer will be set to the default value of 1024
+2016-04-26 14:47:08.596 [INFO ] [t.AbstractSocketChannelBinding] - The interval to retry connection setups will be set to the default value of 5
+2016-04-26 14:47:08.597 [INFO ] [t.AbstractSocketChannelBinding] - The cron job to reset connections will be set to the default value of 0 0 0 * * ?
+2016-04-26 14:47:08.598 [INFO ] [t.AbstractSocketChannelBinding] - The setting to queue write operation until a channel gets connected will be set to the default value of true
+2016-04-26 14:47:08.599 [INFO ] [t.AbstractSocketChannelBinding] - The port to listen for incoming connections will be set to the default value of 0
+2016-04-26 14:47:08.600 [INFO ] [t.AbstractSocketChannelBinding] - The setting to share channels within an Item will be set to the default value of true
+2016-04-26 14:47:08.606 [INFO ] [t.AbstractSocketChannelBinding] - The setting to share channels between the items with the same direction will be set to the default value of true
+2016-04-26 14:47:08.608 [INFO ] [t.AbstractSocketChannelBinding] - The setting to share channels between directions will be set to the default value of true
+2016-04-26 14:47:08.609 [INFO ] [t.AbstractSocketChannelBinding] - The setting to use address masks for incoming connections will be set to the default value of true
+2016-04-26 14:47:08.611 [INFO ] [t.protocol.internal.TCPBinding] - The maximum time out for blocking write operations will be set to the default vaulue of 3000
+2016-04-26 14:47:08.611 [INFO ] [.service.AbstractActiveService] - TCP Refresh Service has been started
+2016-04-26 14:47:08.612 [INFO ] [t.protocol.internal.TCPBinding] - The blocking nature of read/write operations will be set to the default vaulue of false
+2016-04-26 14:47:08.614 [INFO ] [t.protocol.internal.TCPBinding] - The preamble for all write operations will be set to the default vaulue of 
+2016-04-26 14:47:08.616 [INFO ] [t.protocol.internal.TCPBinding] - The postamble for all write operations will be set to the default vaulue of 
+
+2016-04-26 14:47:08.617 [INFO ] [t.protocol.internal.TCPBinding] - Updating states with returned values will be set to the default vaulue of true
+2016-04-26 14:47:08.621 [INFO ] [t.protocol.internal.TCPBinding] - The characterset will be set to the default vaulue of ASCII
+2016-04-26 14:47:08.770 [INFO ] [.service.AbstractActiveService] - FritzBox refresh Service has been started
+2016-04-26 14:47:09.081 [INFO ] [.service.AbstractActiveService] - RME Refresh Service has been started
+2016-04-26 14:47:09.651 [INFO ] [.service.AbstractActiveService] - Sonos Refresh Service has been started
+2016-04-26 14:47:09.745 [INFO ] [.service.AbstractActiveService] - Oceanic Refresh Service has been started
+2016-04-26 14:47:10.562 [INFO ] [.b.sonos.internal.SonosBinding] - Querying the network for any other Sonos device
+2016-04-26 14:47:14.832 [INFO ] [.service.AbstractActiveService] - Wemo Refresh Service has been started
+2016-04-26 14:47:14.949 [INFO ] [.service.AbstractActiveService] - HTTP Refresh Service has been started
+2016-04-26 14:47:14.981 [INFO ] [insteonplm.InsteonPLMActivator] - Insteon PLM binding has been started.
+2016-04-26 14:47:16.011 [INFO ] [.o.i.t.xpl.XplTransportService] - xPL Manager source address set to clinique-openhab.openhab
+2016-04-26 14:47:16.026 [INFO ] [.o.i.t.xpl.XplTransportService] - xPL transport has been started
+2016-04-26 14:47:16.033 [INFO ] [.o.i.t.xpl.XplTransportService] - xPL transport configuration
+2016-04-26 14:47:16.343 [WARN ] [o.b.i.i.Iec6205621MeterBinding] - Empty or null configuration. Ignoring.
+2016-04-26 14:47:16.699 [ERROR] [o.o.c.s.ScriptExecutionThread ] - Error during the execution of rule 'Compute humidex': Cannot cast org.openhab.core.types.UnDefType to org.openhab.core.library.types.DecimalType
+2016-04-26 14:47:16.730 [ERROR] [o.o.c.s.ScriptExecutionThread ] - Error during the execution of rule 'Update max and min temperatures': cannot invoke method public java.lang.String org.openhab.core.library.types.DecimalType.toString() on null
+2016-04-26 14:47:16.764 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-04-26 14:47:16.764 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-04-26 14:47:16.883 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-04-26 14:47:16.884 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-04-26 14:47:16.986 [ERROR] [io.gpio.internal.GPIOActivator] - No supported operating system was found, GPIO service won't be available
+2016-04-26 14:47:17.006 [INFO ] [o.b.p.internal.PifaceActivator] - Piface binding has been started.
+2016-04-26 14:47:17.206 [INFO ] [.b.t.internal.TellstickBinding] - Activate Thread[Component Resolve Thread (Bundle 98),10,main]
+2016-04-26 14:47:18.468 [INFO ] [.b.t.internal.TellstickBinding] - Called with config null
+2016-04-26 14:47:18.470 [INFO ] [.b.t.internal.TellstickBinding] - Loading TelldusCore from C:/Program Files/Telldus/;C:/Program Files (x86)/Telldus/
+2016-04-26 14:47:18.471 [WARN ] [.b.t.internal.TellstickBinding] - Will do a reinit of listeners, no message received for 600 seconds
+2016-04-26 14:47:18.473 [INFO ] [.b.t.internal.TellstickBinding] - Listeners removed
+2016-04-26 14:47:18.475 [ERROR] [ellstickGenericBindingProvider] - Failed to remove telldus core listeners
+java.lang.NullPointerException: null
+	at org.openhab.binding.tellstick.internal.TellstickGenericBindingProvider.resetTellstickListener(TellstickGenericBindingProvider.java:152) ~[bundlefile:na]
+	at org.openhab.binding.tellstick.internal.TellstickBinding.resetTelldusProvider(TellstickBinding.java:98) [bundlefile:na]
+	at org.openhab.binding.tellstick.internal.TellstickBinding.resetTellstick(TellstickBinding.java:366) [bundlefile:na]
+	at org.openhab.binding.tellstick.internal.TellstickBinding.updated(TellstickBinding.java:164) [bundlefile:na]
+	at org.eclipse.equinox.internal.cm.ManagedServiceTracker$1.run(ManagedServiceTracker.java:183) [org.eclipse.equinox.cm_1.0.400.v20120522-1841.jar:na]
+	at org.eclipse.equinox.internal.cm.SerializedTaskQueue$1.run(SerializedTaskQueue.java:36) [org.eclipse.equinox.cm_1.0.400.v20120522-1841.jar:na]
+2016-04-26 14:47:18.698 [ERROR] [.jpa.internal.JpaConfiguration] - Got a null properties object!
+2016-04-26 14:47:18.701 [INFO ] [.service.AbstractActiveService] - NTP Refresh Service has been started
+2016-04-26 14:47:18.833 [INFO ] [.service.AbstractActiveService] - XBMC Refresh Service has been started
+2016-04-26 14:47:18.892 [INFO ] [.w.i.api.WithingsAuthenticator] - #########################################################################################
+2016-04-26 14:47:18.893 [INFO ] [.w.i.api.WithingsAuthenticator] - # Withings Binding needs authentication.
+2016-04-26 14:47:18.894 [INFO ] [.w.i.api.WithingsAuthenticator] - # Execute 'withings:startAuthentication' on OSGi console.
+2016-04-26 14:47:18.895 [INFO ] [.w.i.api.WithingsAuthenticator] - #########################################################################################
+2016-04-26 14:47:18.939 [INFO ] [.service.AbstractActiveService] - IRtrans Refresh Service has been started
+2016-04-26 14:47:19.194 [INFO ] [.service.AbstractActiveService] - SNMP Refresh Service has been started
+2016-04-26 14:47:19.273 [WARN ] [io.squeezeserver.SqueezeServer] - Empty or null configuration. Ignoring.
+2016-04-26 14:47:19.410 [INFO ] [b.s.internal.SysteminfoBinding] - Using Sigar version 1.6.4.129
+2016-04-26 14:47:19.412 [ERROR] [b.s.internal.SysteminfoBinding] - System monitor error: {}
+org.hyperic.sigar.SigarException: java.lang.UnsatisfiedLinkError: org.hyperic.sigar.Sigar.getNetInterfaceList()[Ljava/lang/String;
+	at org.hyperic.sigar.SigarProxyCache.invoke(SigarProxyCache.java:220) ~[sigar-1.6.4.jar:na]
+	at com.sun.proxy.$Proxy85.getNetInterfaceList(Unknown Source) ~[na:na]
+	at org.openhab.binding.systeminfo.internal.SysteminfoBinding.initializeSystemMonitor(SysteminfoBinding.java:400) [bundlefile:na]
+	at org.openhab.binding.systeminfo.internal.SysteminfoBinding.updated(SysteminfoBinding.java:384) [bundlefile:na]
+	at org.eclipse.equinox.internal.cm.ManagedServiceTracker$1.run(ManagedServiceTracker.java:183) [org.eclipse.equinox.cm_1.0.400.v20120522-1841.jar:na]
+	at org.eclipse.equinox.internal.cm.SerializedTaskQueue$1.run(SerializedTaskQueue.java:36) [org.eclipse.equinox.cm_1.0.400.v20120522-1841.jar:na]
+2016-04-26 14:47:19.415 [INFO ] [.service.AbstractActiveService] - Systeminfo Refresh Service has been started
+2016-04-26 14:47:19.829 [ERROR] [.o.b.e.internal.EHealthBinding] - Error connecting to serial port 'null'
+org.openhab.binding.ehealth.internal.EHealthException: Serial port 'null' could not be found. Available ports are:
+
+	at org.openhab.binding.ehealth.protocol.SerialConnector.connect(SerialConnector.java:124) ~[na:na]
+	at org.openhab.binding.ehealth.internal.EHealthBinding.updated(EHealthBinding.java:136) ~[na:na]
+	at org.eclipse.equinox.internal.cm.ManagedServiceTracker$1.run(ManagedServiceTracker.java:183) [org.eclipse.equinox.cm_1.0.400.v20120522-1841.jar:na]
+	at org.eclipse.equinox.internal.cm.SerializedTaskQueue$1.run(SerializedTaskQueue.java:36) [org.eclipse.equinox.cm_1.0.400.v20120522-1841.jar:na]
+2016-04-26 14:47:19.851 [INFO ] [.service.AbstractActiveService] - Exec Refresh Service has been started
+2016-04-26 14:47:19.895 [INFO ] [.service.AbstractActiveService] - NetworkHealth Refresh Service has been started
+2016-04-26 14:47:19.994 [INFO ] [.b.knx.internal.bus.KNXBinding] - Calimero library version 2.2.0-alpha
+2016-04-26 14:47:19.997 [INFO ] [b.k.i.connection.KNXConnection] - KNXBinding configuration is not present. Please check your configuration file or if not needed remove the KNX addon.
+2016-04-26 14:47:20.104 [INFO ] [.service.AbstractActiveService] - VDR Monitor Service has been started
+2016-04-26 14:47:20.136 [INFO ] [.service.AbstractActiveService] - Anel NET-PwrCtrl Service has been started
+2016-04-26 14:47:21.465 [INFO ] [.b.s.internal.SamsungAcBinding] - active
+2016-04-26 14:47:24.509 [WARN ] [inding.ntp.internal.NtpBinding] - couldn't establish network connection [host 'ptbtime1.ptb.de'] -> returning current sytem time instead
+2016-04-26 14:48:17.020 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-04-26 14:48:17.021 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-04-26 14:48:17.141 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-04-26 14:48:17.142 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-04-26 14:49:17.264 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-04-26 14:49:17.265 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-04-26 14:49:17.383 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-04-26 14:49:17.384 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
