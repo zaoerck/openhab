@@ -1770,3 +1770,1356 @@ org.openhab.binding.ehealth.internal.EHealthException: Serial port 'null' could 
 2016-05-03 00:08:21.116 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
 2016-05-03 00:08:26.477 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
 2016-05-03 00:08:26.477 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-03 00:09:22.033 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-03 00:09:22.033 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-03 00:09:27.265 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-03 00:09:27.265 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-03 00:10:23.535 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-03 00:10:23.535 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-03 00:10:27.762 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-03 00:10:27.762 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-03 00:11:24.299 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-03 00:11:24.299 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-03 00:11:28.554 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-03 00:11:28.555 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-03 00:12:25.159 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-03 00:12:25.159 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-03 00:12:29.362 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-03 00:12:29.362 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-03 00:13:26.533 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-03 00:13:26.533 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-03 00:13:29.794 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-03 00:13:29.794 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-05 14:43:23.546 [INFO ] [.o.core.internal.CoreActivator] - openHAB runtime has been started (v1.6.2).
+2016-05-05 14:43:28.148 [INFO ] [o.o.i.s.i.DiscoveryServiceImpl] - mDNS service has been started
+2016-05-05 14:43:29.364 [INFO ] [o.o.i.s.i.DiscoveryServiceImpl] - Service Discovery initialization completed.
+2016-05-05 14:43:33.530 [INFO ] [penhab.io.rest.RESTApplication] - Started REST API at /rest
+2016-05-05 14:43:36.369 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'demo.sitemap'
+2016-05-05 14:43:37.024 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'demo.script'
+2016-05-05 14:43:37.258 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'db4o.persist'
+2016-05-05 14:43:37.289 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'exec.persist'
+2016-05-05 14:43:37.305 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'logging.persist'
+2016-05-05 14:43:37.320 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'rrd4j.persist'
+2016-05-05 14:43:37.367 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'demo.items'
+2016-05-05 14:43:40.066 [INFO ] [.o.u.w.i.servlet.WebAppServlet] - Started Classic UI at /openhab.app
+2016-05-05 14:43:47.694 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'demo.rules'
+2016-05-05 14:43:52.374 [WARN ] [.o.c.p.e.PersistenceExtensions] - There is no queryable persistence service registered with the name 'rrd4j'
+2016-05-05 14:43:52.390 [ERROR] [m.r.internal.engine.RuleEngine] - Error during the execution of startup rule 'Update max and min temperatures': cannot invoke method public abstract org.openhab.core.types.State org.openhab.core.persistence.HistoricItem.getState() on null
+2016-05-05 14:43:52.515 [ERROR] [b.b.i.BTDeviceDiscoveryService] - Error while initializing local bluetooth device.
+javax.bluetooth.BluetoothStateException: BlueCove libraries not available
+	at com.intel.bluetooth.BlueCoveImpl.createDetectorOnWindows(BlueCoveImpl.java:963) ~[na:na]
+	at com.intel.bluetooth.BlueCoveImpl.detectStack(BlueCoveImpl.java:477) ~[na:na]
+	at com.intel.bluetooth.BlueCoveImpl.access$500(BlueCoveImpl.java:70) ~[na:na]
+	at com.intel.bluetooth.BlueCoveImpl$1.run(BlueCoveImpl.java:1085) ~[na:na]
+	at java.security.AccessController.doPrivileged(Native Method) ~[na:1.7.0_79]
+	at com.intel.bluetooth.BlueCoveImpl.detectStackPrivileged(BlueCoveImpl.java:1083) ~[na:na]
+	at com.intel.bluetooth.BlueCoveImpl.getBluetoothStack(BlueCoveImpl.java:1076) ~[na:na]
+	at javax.bluetooth.LocalDevice.getLocalDeviceInstance(LocalDevice.java:75) ~[na:na]
+	at javax.bluetooth.LocalDevice.getLocalDevice(LocalDevice.java:95) ~[na:na]
+	at org.openhab.binding.bluetooth.internal.BTDeviceDiscoveryService.run(BTDeviceDiscoveryService.java:113) ~[na:na]
+2016-05-05 14:43:52.998 [INFO ] [rg.openhab.io.cv.CVApplication] - Started Cometvisu API at /services/cv
+2016-05-05 14:43:58.380 [INFO ] [.service.AbstractActiveService] - HDanywhere Refresh Service has been started
+2016-05-05 14:43:58.443 [INFO ] [t.AbstractSocketChannelBinding] - The maximum buffer will be set to the default value of 1024
+2016-05-05 14:43:58.443 [INFO ] [t.AbstractSocketChannelBinding] - The interval to retry connection setups will be set to the default value of 5
+2016-05-05 14:43:58.443 [INFO ] [t.AbstractSocketChannelBinding] - The cron job to reset connections will be set to the default value of 0 0 0 * * ?
+2016-05-05 14:43:58.443 [INFO ] [t.AbstractSocketChannelBinding] - The setting to queue write operation until a channel gets connected will be set to the default value of true
+2016-05-05 14:43:58.443 [INFO ] [t.AbstractSocketChannelBinding] - The port to listen for incoming connections will be set to the default value of 0
+2016-05-05 14:43:58.443 [INFO ] [t.AbstractSocketChannelBinding] - The setting to share channels within an Item will be set to the default value of true
+2016-05-05 14:43:58.443 [INFO ] [t.AbstractSocketChannelBinding] - The setting to share channels between the items with the same direction will be set to the default value of true
+2016-05-05 14:43:58.443 [INFO ] [t.AbstractSocketChannelBinding] - The setting to share channels between directions will be set to the default value of true
+2016-05-05 14:43:58.443 [INFO ] [t.AbstractSocketChannelBinding] - The setting to use address masks for incoming connections will be set to the default value of true
+2016-05-05 14:43:58.443 [INFO ] [t.protocol.internal.TCPBinding] - The maximum time out for blocking write operations will be set to the default vaulue of 3000
+2016-05-05 14:43:58.458 [INFO ] [t.protocol.internal.TCPBinding] - The blocking nature of read/write operations will be set to the default vaulue of false
+2016-05-05 14:43:58.458 [INFO ] [t.protocol.internal.TCPBinding] - The preamble for all write operations will be set to the default vaulue of 
+2016-05-05 14:43:58.458 [INFO ] [t.protocol.internal.TCPBinding] - The postamble for all write operations will be set to the default vaulue of 
+
+2016-05-05 14:43:58.458 [INFO ] [t.protocol.internal.TCPBinding] - Updating states with returned values will be set to the default vaulue of true
+2016-05-05 14:43:58.458 [INFO ] [t.protocol.internal.TCPBinding] - The characterset will be set to the default vaulue of ASCII
+2016-05-05 14:43:58.458 [INFO ] [.service.AbstractActiveService] - TCP Refresh Service has been started
+2016-05-05 14:43:58.661 [INFO ] [.service.AbstractActiveService] - FritzBox refresh Service has been started
+2016-05-05 14:43:59.020 [INFO ] [.service.AbstractActiveService] - RME Refresh Service has been started
+2016-05-05 14:43:59.379 [INFO ] [.service.AbstractActiveService] - Sonos Refresh Service has been started
+2016-05-05 14:43:59.472 [INFO ] [.service.AbstractActiveService] - Oceanic Refresh Service has been started
+2016-05-05 14:43:59.566 [INFO ] [.service.AbstractActiveService] - VDR Monitor Service has been started
+2016-05-05 14:43:59.628 [INFO ] [.service.AbstractActiveService] - SNMP Refresh Service has been started
+2016-05-05 14:43:59.956 [INFO ] [insteonplm.InsteonPLMActivator] - Insteon PLM binding has been started.
+2016-05-05 14:44:00.174 [INFO ] [.b.s.internal.SamsungAcBinding] - active
+2016-05-05 14:44:00.237 [WARN ] [.o.c.p.e.PersistenceExtensions] - There is no queryable persistence service registered with the name 'rrd4j'
+2016-05-05 14:44:00.237 [WARN ] [.o.c.p.e.PersistenceExtensions] - There is no queryable persistence service registered with the name 'rrd4j'
+2016-05-05 14:44:00.315 [WARN ] [i.internal.GenericItemProvider] - Attempted to register a second BindingConfigReader of type 'samsungac'. The primaraly reader will remain active!
+2016-05-05 14:44:00.330 [INFO ] [.service.AbstractActiveService] - XBMC Refresh Service has been started
+2016-05-05 14:44:00.720 [INFO ] [.b.sonos.internal.SonosBinding] - Querying the network for any other Sonos device
+2016-05-05 14:44:01.422 [INFO ] [.b.t.internal.TellstickBinding] - Activate Thread[Component Resolve Thread (Bundle 98),10,main]
+2016-05-05 14:44:06.914 [INFO ] [.service.AbstractActiveService] - HTTP Refresh Service has been started
+2016-05-05 14:44:06.960 [INFO ] [o.b.p.internal.PifaceActivator] - Piface binding has been started.
+2016-05-05 14:44:07.803 [INFO ] [.service.AbstractActiveService] - Exec Refresh Service has been started
+2016-05-05 14:44:08.458 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 14:44:08.458 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 14:44:08.489 [INFO ] [.b.knx.internal.bus.KNXBinding] - Calimero library version 2.2.0-alpha
+2016-05-05 14:44:08.583 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 14:44:08.583 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 14:44:08.692 [ERROR] [o.o.c.s.ScriptExecutionThread ] - Error during the execution of rule 'Compute humidex': Cannot cast org.openhab.core.types.UnDefType to org.openhab.core.library.types.DecimalType
+2016-05-05 14:44:08.692 [ERROR] [o.o.c.s.ScriptExecutionThread ] - Error during the execution of rule 'Update max and min temperatures': cannot invoke method public java.lang.String org.openhab.core.library.types.DecimalType.toString() on null
+2016-05-05 14:44:08.957 [INFO ] [.w.i.api.WithingsAuthenticator] - #########################################################################################
+2016-05-05 14:44:08.957 [INFO ] [.w.i.api.WithingsAuthenticator] - # Withings Binding needs authentication.
+2016-05-05 14:44:08.957 [INFO ] [.w.i.api.WithingsAuthenticator] - # Execute 'withings:startAuthentication' on OSGi console.
+2016-05-05 14:44:08.957 [INFO ] [.w.i.api.WithingsAuthenticator] - #########################################################################################
+2016-05-05 14:44:10.252 [INFO ] [.o.i.t.xpl.XplTransportService] - xPL Manager source address set to clinique-openhab.openhab
+2016-05-05 14:44:10.283 [INFO ] [.o.i.t.xpl.XplTransportService] - xPL transport has been started
+2016-05-05 14:44:11.219 [ERROR] [io.gpio.internal.GPIOActivator] - No supported operating system was found, GPIO service won't be available
+2016-05-05 14:45:09.532 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 14:45:09.532 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 14:45:09.641 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 14:45:09.641 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 14:46:10.591 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 14:46:10.591 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 14:46:10.715 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 14:46:10.715 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 14:47:11.665 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 14:47:11.665 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 14:47:11.774 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 14:47:11.790 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 14:48:12.739 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 14:48:12.739 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 14:48:12.848 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 14:48:12.848 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 14:49:14.156 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 14:49:14.156 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 14:49:14.281 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 14:49:14.281 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 14:50:15.246 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 14:50:15.261 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 14:50:15.386 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 14:50:15.386 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 14:51:16.336 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 14:51:16.351 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 14:51:16.476 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 14:51:16.476 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 14:51:25.930 [ERROR] [.r.i.filter.PollingDelayFilter] - null
+2016-05-05 14:52:17.423 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 14:52:17.423 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 14:52:17.548 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 14:52:17.548 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 14:53:18.499 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 14:53:18.499 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 14:53:18.623 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 14:53:18.639 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 14:54:20.150 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 14:54:20.150 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 14:54:20.275 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 14:54:20.275 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 14:55:21.224 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 14:55:21.240 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 14:55:21.364 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 14:55:21.364 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 14:55:23.439 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'demo.sitemap'
+2016-05-05 14:56:22.329 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 14:56:22.329 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 14:56:22.454 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 14:56:22.454 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 14:57:03.654 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'demo.sitemap'
+2016-05-05 14:57:10.861 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item 'Light_GF_Corridor_Wardobe' for widget org.openhab.model.sitemap.Switch
+2016-05-05 14:57:10.861 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item 'Light_GF_Corridor_Wardobe' for widget org.openhab.model.sitemap.Switch
+2016-05-05 14:57:10.861 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item 'Light_GF_Corridor_Wardobe' for widget org.openhab.model.sitemap.Switch
+2016-05-05 14:57:12.327 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item 'Light_GF_Corridor_Wardobe' for widget org.openhab.model.sitemap.Switch
+2016-05-05 14:57:12.327 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item 'Light_GF_Corridor_Wardobe' for widget org.openhab.model.sitemap.Switch
+2016-05-05 14:57:12.327 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item 'Light_GF_Corridor_Wardobe' for widget org.openhab.model.sitemap.Switch
+2016-05-05 14:57:12.343 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item 'Light_GF_Corridor_Wardobe' for widget org.openhab.model.sitemap.Switch
+2016-05-05 14:57:12.343 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item 'Light_GF_Corridor_Wardobe' for widget org.openhab.model.sitemap.Switch
+2016-05-05 14:57:12.343 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item 'Light_GF_Corridor_Wardobe' for widget org.openhab.model.sitemap.Switch
+2016-05-05 14:57:12.343 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item 'Light_GF_Corridor_Wardobe' for widget org.openhab.model.sitemap.Switch
+2016-05-05 14:57:12.343 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item 'Light_GF_Corridor_Wardobe' for widget org.openhab.model.sitemap.Switch
+2016-05-05 14:57:12.343 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item 'Light_GF_Corridor_Wardobe' for widget org.openhab.model.sitemap.Switch
+2016-05-05 14:57:12.343 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item 'Light_GF_Corridor_Wardobe' for widget org.openhab.model.sitemap.Switch
+2016-05-05 14:57:12.359 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item 'Light_GF_Corridor_Wardobe' for widget org.openhab.model.sitemap.Switch
+2016-05-05 14:57:12.359 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item 'Light_GF_Corridor_Wardobe' for widget org.openhab.model.sitemap.Switch
+2016-05-05 14:57:12.359 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item 'Light_GF_Corridor_Wardobe' for widget org.openhab.model.sitemap.Switch
+2016-05-05 14:57:12.359 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item 'Light_GF_Corridor_Wardobe' for widget org.openhab.model.sitemap.Switch
+2016-05-05 14:57:12.359 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item 'Light_GF_Corridor_Wardobe' for widget org.openhab.model.sitemap.Switch
+2016-05-05 14:57:12.359 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item 'Light_GF_Corridor_Wardobe' for widget org.openhab.model.sitemap.Switch
+2016-05-05 14:57:12.359 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item 'Light_GF_Corridor_Wardobe' for widget org.openhab.model.sitemap.Switch
+2016-05-05 14:57:12.359 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item 'Light_GF_Corridor_Wardobe' for widget org.openhab.model.sitemap.Switch
+2016-05-05 14:57:12.655 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item 'Light_GF_Corridor_Wardobe' for widget org.openhab.model.sitemap.Switch
+2016-05-05 14:57:12.655 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item 'Light_GF_Corridor_Wardobe' for widget org.openhab.model.sitemap.Switch
+2016-05-05 14:57:12.655 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item 'Light_GF_Corridor_Wardobe' for widget org.openhab.model.sitemap.Switch
+2016-05-05 14:57:12.671 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item 'Light_GF_Corridor_Wardobe' for widget org.openhab.model.sitemap.Switch
+2016-05-05 14:57:12.671 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item 'Light_GF_Corridor_Wardobe' for widget org.openhab.model.sitemap.Switch
+2016-05-05 14:57:12.671 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item 'Light_GF_Corridor_Wardobe' for widget org.openhab.model.sitemap.Switch
+2016-05-05 14:57:12.671 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item 'Light_GF_Corridor_Wardobe' for widget org.openhab.model.sitemap.Switch
+2016-05-05 14:57:12.671 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item 'Light_GF_Corridor_Wardobe' for widget org.openhab.model.sitemap.Switch
+2016-05-05 14:57:12.671 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item 'Light_GF_Corridor_Wardobe' for widget org.openhab.model.sitemap.Switch
+2016-05-05 14:57:12.749 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item 'Light_GF_Corridor_Wardobe' for widget org.openhab.model.sitemap.Switch
+2016-05-05 14:57:12.749 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item 'Light_GF_Corridor_Wardobe' for widget org.openhab.model.sitemap.Switch
+2016-05-05 14:57:12.749 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item 'Light_GF_Corridor_Wardobe' for widget org.openhab.model.sitemap.Switch
+2016-05-05 14:57:12.764 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item 'Light_GF_Corridor_Wardobe' for widget org.openhab.model.sitemap.Switch
+2016-05-05 14:57:12.764 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item 'Light_GF_Corridor_Wardobe' for widget org.openhab.model.sitemap.Switch
+2016-05-05 14:57:12.764 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item 'Light_GF_Corridor_Wardobe' for widget org.openhab.model.sitemap.Switch
+2016-05-05 14:57:13.716 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'demo.sitemap'
+2016-05-05 14:57:19.613 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item 'Light_GF_Corridor_Wardobe' for widget org.openhab.model.sitemap.Switch
+2016-05-05 14:57:19.613 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item 'Light_GF_Corridor_Wardobe' for widget org.openhab.model.sitemap.Switch
+2016-05-05 14:57:19.613 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item 'Light_GF_Corridor_Wardobe' for widget org.openhab.model.sitemap.Switch
+2016-05-05 14:57:19.628 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item 'Light_GF_Corridor_Wardobe' for widget org.openhab.model.sitemap.Switch
+2016-05-05 14:57:19.628 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item 'Light_GF_Corridor_Wardobe' for widget org.openhab.model.sitemap.Switch
+2016-05-05 14:57:19.628 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item 'Light_GF_Corridor_Wardobe' for widget org.openhab.model.sitemap.Switch
+2016-05-05 14:57:19.628 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item 'Light_GF_Corridor_Wardobe' for widget org.openhab.model.sitemap.Switch
+2016-05-05 14:57:19.628 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item 'Light_GF_Corridor_Wardobe' for widget org.openhab.model.sitemap.Switch
+2016-05-05 14:57:19.628 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item 'Light_GF_Corridor_Wardobe' for widget org.openhab.model.sitemap.Switch
+2016-05-05 14:57:19.940 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item 'Light_GF_Corridor_Wardobe' for widget org.openhab.model.sitemap.Switch
+2016-05-05 14:57:19.940 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item 'Light_GF_Corridor_Wardobe' for widget org.openhab.model.sitemap.Switch
+2016-05-05 14:57:19.940 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item 'Light_GF_Corridor_Wardobe' for widget org.openhab.model.sitemap.Switch
+2016-05-05 14:57:19.940 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item 'Light_GF_Corridor_Wardobe' for widget org.openhab.model.sitemap.Switch
+2016-05-05 14:57:19.956 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item 'Light_GF_Corridor_Wardobe' for widget org.openhab.model.sitemap.Switch
+2016-05-05 14:57:19.956 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item 'Light_GF_Corridor_Wardobe' for widget org.openhab.model.sitemap.Switch
+2016-05-05 14:57:20.034 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item 'Light_GF_Corridor_Wardobe' for widget org.openhab.model.sitemap.Switch
+2016-05-05 14:57:20.034 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item 'Light_GF_Corridor_Wardobe' for widget org.openhab.model.sitemap.Switch
+2016-05-05 14:57:20.034 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item 'Light_GF_Corridor_Wardobe' for widget org.openhab.model.sitemap.Switch
+2016-05-05 14:57:20.049 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item 'Light_GF_Corridor_Wardobe' for widget org.openhab.model.sitemap.Switch
+2016-05-05 14:57:20.049 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item 'Light_GF_Corridor_Wardobe' for widget org.openhab.model.sitemap.Switch
+2016-05-05 14:57:20.049 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item 'Light_GF_Corridor_Wardobe' for widget org.openhab.model.sitemap.Switch
+2016-05-05 14:57:23.419 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 14:57:23.419 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 14:57:23.544 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 14:57:23.544 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 14:57:34.277 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item 'Light_GF_Corridor_Wardobe' for widget org.openhab.model.sitemap.Switch
+2016-05-05 14:57:34.277 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item 'Light_GF_Corridor_Wardobe' for widget org.openhab.model.sitemap.Switch
+2016-05-05 14:57:34.277 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item 'Light_GF_Corridor_Wardobe' for widget org.openhab.model.sitemap.Switch
+2016-05-05 14:57:34.292 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item 'Light_GF_Corridor_Wardobe' for widget org.openhab.model.sitemap.Switch
+2016-05-05 14:57:34.292 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item 'Light_GF_Corridor_Wardobe' for widget org.openhab.model.sitemap.Switch
+2016-05-05 14:57:34.292 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item 'Light_GF_Corridor_Wardobe' for widget org.openhab.model.sitemap.Switch
+2016-05-05 14:57:34.292 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item 'Light_GF_Corridor_Wardobe' for widget org.openhab.model.sitemap.Switch
+2016-05-05 14:57:34.292 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item 'Light_GF_Corridor_Wardobe' for widget org.openhab.model.sitemap.Switch
+2016-05-05 14:57:34.292 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item 'Light_GF_Corridor_Wardobe' for widget org.openhab.model.sitemap.Switch
+2016-05-05 14:57:34.604 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item 'Light_GF_Corridor_Wardobe' for widget org.openhab.model.sitemap.Switch
+2016-05-05 14:57:34.604 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item 'Light_GF_Corridor_Wardobe' for widget org.openhab.model.sitemap.Switch
+2016-05-05 14:57:34.604 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item 'Light_GF_Corridor_Wardobe' for widget org.openhab.model.sitemap.Switch
+2016-05-05 14:57:34.620 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item 'Light_GF_Corridor_Wardobe' for widget org.openhab.model.sitemap.Switch
+2016-05-05 14:57:34.620 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item 'Light_GF_Corridor_Wardobe' for widget org.openhab.model.sitemap.Switch
+2016-05-05 14:57:34.620 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item 'Light_GF_Corridor_Wardobe' for widget org.openhab.model.sitemap.Switch
+2016-05-05 14:57:40.158 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item 'Light_GF_Corridor_Wardobe' for widget org.openhab.model.sitemap.Switch
+2016-05-05 14:57:40.158 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item 'Light_GF_Corridor_Wardobe' for widget org.openhab.model.sitemap.Switch
+2016-05-05 14:57:40.158 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item 'Light_GF_Corridor_Wardobe' for widget org.openhab.model.sitemap.Switch
+2016-05-05 14:58:01.608 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item 'Light_GF_Corridor_Wardobe' for widget org.openhab.model.sitemap.Switch
+2016-05-05 14:58:01.608 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item 'Light_GF_Corridor_Wardobe' for widget org.openhab.model.sitemap.Switch
+2016-05-05 14:58:01.608 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item 'Light_GF_Corridor_Wardobe' for widget org.openhab.model.sitemap.Switch
+2016-05-05 14:58:03.839 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'demo.sitemap'
+2016-05-05 14:58:24.493 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 14:58:24.493 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 14:58:24.633 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 14:58:24.633 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 14:58:53.962 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'demo.sitemap'
+2016-05-05 14:59:25.988 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 14:59:25.988 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 14:59:26.113 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 14:59:26.113 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:00:04.115 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'demo.sitemap'
+2016-05-05 15:00:27.062 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:00:27.078 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:00:27.203 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:00:27.203 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:01:28.199 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:01:28.199 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:01:28.324 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:01:28.324 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:02:24.390 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'demo.sitemap'
+2016-05-05 15:02:29.289 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:02:29.289 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:02:29.398 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:02:29.398 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:03:30.357 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:03:30.357 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:03:30.482 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:03:30.482 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:04:34.621 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'demo.sitemap'
+2016-05-05 15:04:34.777 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:04:34.777 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:04:34.902 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:04:34.902 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:05:35.793 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:05:35.793 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:05:35.918 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:05:35.918 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:05:44.779 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'demo.sitemap'
+2016-05-05 15:06:36.883 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:06:36.883 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:06:37.008 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:06:37.008 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:07:14.963 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'demo.sitemap'
+2016-05-05 15:07:38.166 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:07:38.167 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:07:38.459 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:07:38.460 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:08:15.080 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'demo.sitemap'
+2016-05-05 15:08:38.588 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:08:38.589 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:08:38.712 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:08:38.713 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:09:40.396 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:09:40.397 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:09:40.523 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:09:40.523 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:09:45.169 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'demo.sitemap'
+2016-05-05 15:10:40.652 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:10:40.653 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:10:40.776 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:10:40.777 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:10:45.244 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'demo.items'
+2016-05-05 15:10:46.495 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-05 15:11:22.391 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-05 15:11:40.903 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:11:40.904 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:11:41.025 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:11:41.026 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:11:58.722 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-05 15:12:30.727 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-05 15:12:41.153 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:12:41.154 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:12:41.276 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:12:41.276 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:13:35.596 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'demo.items'
+2016-05-05 15:13:36.995 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-05 15:13:41.402 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:13:41.402 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:13:41.525 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:13:41.526 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:13:44.804 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-05 15:14:11.481 [INFO ] [.o.core.internal.CoreActivator] - openHAB runtime has been started (v1.6.2).
+2016-05-05 15:14:13.458 [INFO ] [o.o.i.s.i.DiscoveryServiceImpl] - mDNS service has been started
+2016-05-05 15:14:14.821 [INFO ] [o.o.i.s.i.DiscoveryServiceImpl] - Service Discovery initialization completed.
+2016-05-05 15:14:17.891 [INFO ] [penhab.io.rest.RESTApplication] - Started REST API at /rest
+2016-05-05 15:14:22.788 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'demo.sitemap'
+2016-05-05 15:14:23.341 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'demo.script'
+2016-05-05 15:14:23.550 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'db4o.persist'
+2016-05-05 15:14:23.587 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'exec.persist'
+2016-05-05 15:14:23.598 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'logging.persist'
+2016-05-05 15:14:23.612 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'rrd4j.persist'
+2016-05-05 15:14:23.664 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'demo.items'
+2016-05-05 15:14:25.155 [INFO ] [.o.u.w.i.servlet.WebAppServlet] - Started Classic UI at /openhab.app
+2016-05-05 15:14:33.426 [ERROR] [b.b.i.BTDeviceDiscoveryService] - Error while initializing local bluetooth device.
+javax.bluetooth.BluetoothStateException: BlueCove libraries not available
+	at com.intel.bluetooth.BlueCoveImpl.createDetectorOnWindows(BlueCoveImpl.java:963) ~[na:na]
+	at com.intel.bluetooth.BlueCoveImpl.detectStack(BlueCoveImpl.java:477) ~[na:na]
+	at com.intel.bluetooth.BlueCoveImpl.access$500(BlueCoveImpl.java:70) ~[na:na]
+	at com.intel.bluetooth.BlueCoveImpl$1.run(BlueCoveImpl.java:1085) ~[na:na]
+	at java.security.AccessController.doPrivileged(Native Method) ~[na:1.7.0_79]
+	at com.intel.bluetooth.BlueCoveImpl.detectStackPrivileged(BlueCoveImpl.java:1083) ~[na:na]
+	at com.intel.bluetooth.BlueCoveImpl.getBluetoothStack(BlueCoveImpl.java:1076) ~[na:na]
+	at javax.bluetooth.LocalDevice.getLocalDeviceInstance(LocalDevice.java:75) ~[na:na]
+	at javax.bluetooth.LocalDevice.getLocalDevice(LocalDevice.java:95) ~[na:na]
+	at org.openhab.binding.bluetooth.internal.BTDeviceDiscoveryService.run(BTDeviceDiscoveryService.java:113) ~[na:na]
+2016-05-05 15:14:34.011 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'demo.rules'
+2016-05-05 15:14:34.187 [INFO ] [rg.openhab.io.cv.CVApplication] - Started Cometvisu API at /services/cv
+2016-05-05 15:14:37.130 [WARN ] [.o.c.p.e.PersistenceExtensions] - There is no queryable persistence service registered with the name 'rrd4j'
+2016-05-05 15:14:37.133 [ERROR] [m.r.internal.engine.RuleEngine] - Error during the execution of startup rule 'Update max and min temperatures': cannot invoke method public abstract org.openhab.core.types.State org.openhab.core.persistence.HistoricItem.getState() on null
+2016-05-05 15:14:39.754 [INFO ] [.service.AbstractActiveService] - HDanywhere Refresh Service has been started
+2016-05-05 15:14:39.807 [INFO ] [t.AbstractSocketChannelBinding] - The maximum buffer will be set to the default value of 1024
+2016-05-05 15:14:39.810 [INFO ] [t.AbstractSocketChannelBinding] - The interval to retry connection setups will be set to the default value of 5
+2016-05-05 15:14:39.813 [INFO ] [t.AbstractSocketChannelBinding] - The cron job to reset connections will be set to the default value of 0 0 0 * * ?
+2016-05-05 15:14:39.818 [INFO ] [t.AbstractSocketChannelBinding] - The setting to queue write operation until a channel gets connected will be set to the default value of true
+2016-05-05 15:14:39.820 [INFO ] [t.AbstractSocketChannelBinding] - The port to listen for incoming connections will be set to the default value of 0
+2016-05-05 15:14:39.821 [INFO ] [t.AbstractSocketChannelBinding] - The setting to share channels within an Item will be set to the default value of true
+2016-05-05 15:14:39.827 [INFO ] [t.AbstractSocketChannelBinding] - The setting to share channels between the items with the same direction will be set to the default value of true
+2016-05-05 15:14:39.828 [INFO ] [t.AbstractSocketChannelBinding] - The setting to share channels between directions will be set to the default value of true
+2016-05-05 15:14:39.830 [INFO ] [t.AbstractSocketChannelBinding] - The setting to use address masks for incoming connections will be set to the default value of true
+2016-05-05 15:14:39.836 [INFO ] [t.protocol.internal.TCPBinding] - The maximum time out for blocking write operations will be set to the default vaulue of 3000
+2016-05-05 15:14:39.837 [INFO ] [t.protocol.internal.TCPBinding] - The blocking nature of read/write operations will be set to the default vaulue of false
+2016-05-05 15:14:39.852 [INFO ] [.service.AbstractActiveService] - TCP Refresh Service has been started
+2016-05-05 15:14:39.852 [INFO ] [t.protocol.internal.TCPBinding] - The preamble for all write operations will be set to the default vaulue of 
+2016-05-05 15:14:39.858 [INFO ] [t.protocol.internal.TCPBinding] - The postamble for all write operations will be set to the default vaulue of 
+
+2016-05-05 15:14:39.860 [INFO ] [t.protocol.internal.TCPBinding] - Updating states with returned values will be set to the default vaulue of true
+2016-05-05 15:14:39.861 [INFO ] [t.protocol.internal.TCPBinding] - The characterset will be set to the default vaulue of ASCII
+2016-05-05 15:14:40.020 [INFO ] [.service.AbstractActiveService] - FritzBox refresh Service has been started
+2016-05-05 15:14:40.377 [INFO ] [.service.AbstractActiveService] - RME Refresh Service has been started
+2016-05-05 15:14:40.893 [INFO ] [.service.AbstractActiveService] - Sonos Refresh Service has been started
+2016-05-05 15:14:40.994 [INFO ] [.service.AbstractActiveService] - Oceanic Refresh Service has been started
+2016-05-05 15:14:41.392 [INFO ] [.service.AbstractActiveService] - HTTP Refresh Service has been started
+2016-05-05 15:14:41.476 [INFO ] [.service.AbstractActiveService] - SNMP Refresh Service has been started
+2016-05-05 15:14:41.549 [INFO ] [.service.AbstractActiveService] - IRtrans Refresh Service has been started
+2016-05-05 15:14:41.638 [INFO ] [o.b.p.internal.PifaceActivator] - Piface binding has been started.
+2016-05-05 15:14:42.491 [INFO ] [.b.sonos.internal.SonosBinding] - Querying the network for any other Sonos device
+2016-05-05 15:14:42.505 [INFO ] [.service.AbstractActiveService] - VDR Monitor Service has been started
+2016-05-05 15:14:42.790 [INFO ] [.b.knx.internal.bus.KNXBinding] - Calimero library version 2.2.0-alpha
+2016-05-05 15:14:42.943 [INFO ] [.w.i.api.WithingsAuthenticator] - #########################################################################################
+2016-05-05 15:14:42.944 [INFO ] [.w.i.api.WithingsAuthenticator] - # Withings Binding needs authentication.
+2016-05-05 15:14:42.946 [INFO ] [.w.i.api.WithingsAuthenticator] - # Execute 'withings:startAuthentication' on OSGi console.
+2016-05-05 15:14:42.947 [INFO ] [.w.i.api.WithingsAuthenticator] - #########################################################################################
+2016-05-05 15:14:42.975 [ERROR] [io.gpio.internal.GPIOActivator] - No supported operating system was found, GPIO service won't be available
+2016-05-05 15:14:44.051 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:14:44.051 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:14:44.169 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:14:44.171 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:14:45.307 [INFO ] [b.s.internal.SysteminfoBinding] - Using Sigar version 1.6.4.129
+2016-05-05 15:14:45.310 [ERROR] [b.s.internal.SysteminfoBinding] - System monitor error: {}
+org.hyperic.sigar.SigarException: java.lang.UnsatisfiedLinkError: org.hyperic.sigar.Sigar.getNetInterfaceList()[Ljava/lang/String;
+	at org.hyperic.sigar.SigarProxyCache.invoke(SigarProxyCache.java:220) ~[sigar-1.6.4.jar:na]
+	at com.sun.proxy.$Proxy82.getNetInterfaceList(Unknown Source) ~[na:na]
+	at org.openhab.binding.systeminfo.internal.SysteminfoBinding.initializeSystemMonitor(SysteminfoBinding.java:400) [bundlefile:na]
+	at org.openhab.binding.systeminfo.internal.SysteminfoBinding.updated(SysteminfoBinding.java:384) [bundlefile:na]
+	at org.eclipse.equinox.internal.cm.ManagedServiceTracker$1.run(ManagedServiceTracker.java:183) [org.eclipse.equinox.cm_1.0.400.v20120522-1841.jar:na]
+	at org.eclipse.equinox.internal.cm.SerializedTaskQueue$1.run(SerializedTaskQueue.java:36) [org.eclipse.equinox.cm_1.0.400.v20120522-1841.jar:na]
+2016-05-05 15:14:45.313 [INFO ] [.b.k8055.internal.k8055Binding] - No config supplied - using default values
+2016-05-05 15:14:45.313 [INFO ] [.service.AbstractActiveService] - Systeminfo Refresh Service has been started
+2016-05-05 15:14:45.316 [INFO ] [.service.AbstractActiveService] - Anel NET-PwrCtrl Service has been started
+2016-05-05 15:14:45.326 [INFO ] [b.k.i.connection.KNXConnection] - KNXBinding configuration is not present. Please check your configuration file or if not needed remove the KNX addon.
+2016-05-05 15:14:48.245 [INFO ] [.service.AbstractActiveService] - Wemo Refresh Service has been started
+2016-05-05 15:14:48.352 [WARN ] [o.b.i.i.Iec6205621MeterBinding] - Empty or null configuration. Ignoring.
+2016-05-05 15:14:49.066 [ERROR] [.o.b.e.internal.EHealthBinding] - Error connecting to serial port 'null'
+org.openhab.binding.ehealth.internal.EHealthException: Serial port 'null' could not be found. Available ports are:
+
+	at org.openhab.binding.ehealth.protocol.SerialConnector.connect(SerialConnector.java:124) ~[na:na]
+	at org.openhab.binding.ehealth.internal.EHealthBinding.updated(EHealthBinding.java:136) ~[na:na]
+	at org.eclipse.equinox.internal.cm.ManagedServiceTracker$1.run(ManagedServiceTracker.java:183) [org.eclipse.equinox.cm_1.0.400.v20120522-1841.jar:na]
+	at org.eclipse.equinox.internal.cm.SerializedTaskQueue$1.run(SerializedTaskQueue.java:36) [org.eclipse.equinox.cm_1.0.400.v20120522-1841.jar:na]
+2016-05-05 15:14:50.383 [ERROR] [.jpa.internal.JpaConfiguration] - Got a null properties object!
+2016-05-05 15:14:52.103 [INFO ] [.o.i.t.xpl.XplTransportService] - xPL Manager source address set to clinique-openhab.openhab
+2016-05-05 15:14:52.106 [INFO ] [.o.i.t.xpl.XplTransportService] - xPL transport has been started
+2016-05-05 15:14:52.122 [INFO ] [.o.i.t.xpl.XplTransportService] - xPL transport configuration
+2016-05-05 15:14:52.200 [INFO ] [.service.AbstractActiveService] - NetworkHealth Refresh Service has been started
+2016-05-05 15:14:52.564 [INFO ] [.b.t.internal.TellstickBinding] - Activate Thread[Component Resolve Thread (Bundle 98),10,main]
+2016-05-05 15:14:52.581 [INFO ] [.b.t.internal.TellstickBinding] - Called with config null
+2016-05-05 15:14:52.581 [INFO ] [.b.t.internal.TellstickBinding] - Loading TelldusCore from C:/Program Files/Telldus/;C:/Program Files (x86)/Telldus/
+2016-05-05 15:14:52.581 [WARN ] [.b.t.internal.TellstickBinding] - Will do a reinit of listeners, no message received for 600 seconds
+2016-05-05 15:14:52.581 [INFO ] [.b.t.internal.TellstickBinding] - Listeners removed
+2016-05-05 15:14:52.581 [ERROR] [ellstickGenericBindingProvider] - Failed to remove telldus core listeners
+java.lang.NullPointerException: null
+	at org.openhab.binding.tellstick.internal.TellstickGenericBindingProvider.resetTellstickListener(TellstickGenericBindingProvider.java:152) ~[bundlefile:na]
+	at org.openhab.binding.tellstick.internal.TellstickBinding.resetTelldusProvider(TellstickBinding.java:98) [bundlefile:na]
+	at org.openhab.binding.tellstick.internal.TellstickBinding.resetTellstick(TellstickBinding.java:366) [bundlefile:na]
+	at org.openhab.binding.tellstick.internal.TellstickBinding.updated(TellstickBinding.java:164) [bundlefile:na]
+	at org.eclipse.equinox.internal.cm.ManagedServiceTracker$1.run(ManagedServiceTracker.java:183) [org.eclipse.equinox.cm_1.0.400.v20120522-1841.jar:na]
+	at org.eclipse.equinox.internal.cm.SerializedTaskQueue$1.run(SerializedTaskQueue.java:36) [org.eclipse.equinox.cm_1.0.400.v20120522-1841.jar:na]
+2016-05-05 15:14:52.789 [INFO ] [.service.AbstractActiveService] - Exec Refresh Service has been started
+2016-05-05 15:14:52.991 [INFO ] [.service.AbstractActiveService] - XBMC Refresh Service has been started
+2016-05-05 15:14:53.038 [WARN ] [io.squeezeserver.SqueezeServer] - Empty or null configuration. Ignoring.
+2016-05-05 15:14:54.696 [INFO ] [insteonplm.InsteonPLMActivator] - Insteon PLM binding has been started.
+2016-05-05 15:14:54.879 [INFO ] [.b.s.internal.SamsungAcBinding] - active
+2016-05-05 15:14:55.202 [ERROR] [o.o.c.s.ScriptExecutionThread ] - Error during the execution of rule 'Compute humidex': Cannot cast org.openhab.core.types.UnDefType to org.openhab.core.library.types.DecimalType
+2016-05-05 15:14:55.218 [INFO ] [g.openhab.model.script.Weather] - Temperature evolved of 0 degrees.
+2016-05-05 15:15:44.610 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:15:44.610 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:15:44.722 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:15:44.722 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:15:57.212 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'demo.sitemap'
+2016-05-05 15:16:44.926 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:16:44.927 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:16:45.043 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:16:45.044 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:17:07.304 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'demo.sitemap'
+2016-05-05 15:17:45.166 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:17:45.167 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:17:45.283 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:17:45.284 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:18:45.405 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:18:45.406 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:18:45.524 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:18:45.525 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:18:47.394 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'demo.sitemap'
+2016-05-05 15:19:46.691 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:19:46.692 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:19:46.805 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:19:46.806 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:19:57.475 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'demo.sitemap'
+2016-05-05 15:20:46.927 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:20:46.928 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:20:47.048 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:20:47.049 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:21:17.549 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'demo.sitemap'
+2016-05-05 15:21:37.621 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'demo.sitemap'
+2016-05-05 15:21:47.168 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:21:47.169 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:21:47.286 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:21:47.287 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:22:56.414 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:22:56.415 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:22:56.538 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:22:56.539 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:23:57.668 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:23:57.669 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:23:57.805 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:23:57.806 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:24:58.324 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:24:58.325 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:24:58.448 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:24:58.449 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:25:37.749 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'demo.sitemap'
+2016-05-05 15:25:58.577 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:25:58.578 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:25:58.700 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:25:58.701 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:26:07.817 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'demo.sitemap'
+2016-05-05 15:26:27.880 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'demo.sitemap'
+2016-05-05 15:26:58.955 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:26:58.971 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:26:59.097 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:26:59.097 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:27:47.993 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'demo.sitemap'
+2016-05-05 15:27:58.069 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'demo.sitemap'
+2016-05-05 15:27:59.629 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:27:59.629 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:27:59.753 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:27:59.753 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:28:18.143 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'demo.sitemap'
+2016-05-05 15:28:48.628 [INFO ] [.b.sonos.internal.SonosBinding] - A non-Sonos device (Microsoft Corporation Windows Media Player Sharing 12.0) is found and will be ignored
+2016-05-05 15:29:00.306 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:29:00.306 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:29:00.431 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:29:00.431 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:30:01.096 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:30:01.096 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:30:01.220 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:30:01.220 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:31:01.681 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:31:01.681 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:31:01.806 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:31:01.806 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:32:02.286 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:32:02.302 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:32:02.411 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:32:02.427 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:33:02.901 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:33:02.901 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:33:03.031 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:33:03.031 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:34:03.548 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:34:03.548 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:34:03.660 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:34:03.660 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:35:04.508 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:35:04.508 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:35:04.635 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:35:04.635 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:36:05.097 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:36:05.097 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:36:05.222 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:36:05.222 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:37:05.546 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:37:05.547 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:37:05.671 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:37:05.672 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:38:06.142 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:38:06.142 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:38:06.267 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:38:06.267 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:39:06.561 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:39:06.562 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:39:06.685 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:39:06.686 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:40:08.403 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:40:08.404 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:40:08.526 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:40:08.527 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:41:08.731 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:41:08.733 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:41:08.863 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:41:08.865 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:41:18.741 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'demo.sitemap'
+2016-05-05 15:41:18.789 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'demo.items'
+2016-05-05 15:42:09.314 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:42:09.314 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:42:09.454 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:42:09.454 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:43:09.190 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'demo.sitemap'
+2016-05-05 15:43:09.846 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:43:09.846 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:43:09.971 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:43:09.971 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:43:39.270 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'demo.sitemap'
+2016-05-05 15:44:10.426 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:44:10.426 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:44:10.551 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:44:10.551 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:44:38.392 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-05 15:45:11.408 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:45:11.408 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:45:11.533 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:45:11.533 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:45:49.429 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'demo.sitemap'
+2016-05-05 15:46:11.941 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:46:11.941 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:46:12.066 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:46:12.066 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:46:39.521 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'demo.sitemap'
+2016-05-05 15:47:09.600 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'demo.sitemap'
+2016-05-05 15:47:12.516 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:47:12.516 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:47:12.642 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:47:12.642 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:48:13.045 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:48:13.045 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:48:13.171 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:48:13.171 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:49:13.565 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:49:13.565 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:49:13.689 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:49:13.689 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:50:16.557 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:50:16.557 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:50:16.671 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:50:16.671 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:51:17.025 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:51:17.025 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:51:17.166 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:51:17.166 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:51:19.822 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'demo.sitemap'
+2016-05-05 15:51:39.889 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'demo.items'
+2016-05-05 15:52:00.146 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'demo.sitemap'
+2016-05-05 15:52:17.250 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-05 15:52:17.638 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:52:17.639 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:52:17.767 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:52:17.768 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:53:18.062 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:53:18.063 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:53:18.187 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:53:18.188 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:54:10.248 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'demo.items'
+2016-05-05 15:54:18.336 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:54:18.337 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:54:18.463 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:54:18.464 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:54:50.532 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'demo.sitemap'
+2016-05-05 15:54:51.488 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-05 15:55:13.070 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-05 15:55:19.348 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:55:19.348 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:55:19.474 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:55:19.475 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:56:19.976 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:56:19.976 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:56:20.101 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:56:20.101 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:57:20.592 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:57:20.608 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:57:20.718 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:57:20.734 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:58:07.260 [WARN ] [i.s.ScaleTransformationService] - Scale transform can only work with numeric values, '-' is not 
+2016-05-05 15:58:21.164 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:58:21.164 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:58:21.289 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:58:21.289 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:59:10.736 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'demo.sitemap'
+2016-05-05 15:59:21.676 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:59:21.676 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:59:21.801 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 15:59:21.801 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 15:59:50.820 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'demo.sitemap'
+2016-05-05 16:00:22.696 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:00:22.696 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:00:22.820 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:00:22.820 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:00:30.895 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'demo.sitemap'
+2016-05-05 16:01:10.969 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'demo.sitemap'
+2016-05-05 16:01:21.002 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'demo.sitemap'
+2016-05-05 16:01:23.378 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:01:23.378 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:01:23.502 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:01:23.502 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:02:23.949 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:02:23.949 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:02:24.073 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:02:24.073 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:02:51.125 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'demo.sitemap'
+2016-05-05 16:03:24.509 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:03:24.509 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:03:24.634 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:03:24.634 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:03:31.211 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'demo.sitemap'
+2016-05-05 16:03:41.252 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'demo.sitemap'
+2016-05-05 16:04:01.325 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'demo.sitemap'
+2016-05-05 16:04:25.211 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:04:25.211 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:04:25.336 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:04:25.336 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:04:31.393 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'demo.sitemap'
+2016-05-05 16:05:27.328 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:05:27.328 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:05:27.438 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:05:27.438 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:06:27.952 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:06:27.952 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:06:28.077 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:06:28.077 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:06:40.041 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-05 16:07:28.534 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:07:28.534 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:07:28.658 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:07:28.658 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:07:34.878 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-05 16:08:18.547 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-05 16:08:29.125 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:08:29.125 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:08:29.235 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:08:29.250 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:08:33.318 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-05 16:09:29.793 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:09:29.793 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:09:29.917 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:09:29.917 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:10:00.021 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-05 16:10:00.037 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-05 16:10:00.068 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-05 16:10:00.084 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-05 16:10:00.099 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-05 16:10:00.115 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-05 16:10:00.147 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-05 16:10:00.163 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-05 16:10:00.334 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-05 16:10:00.382 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-05 16:10:00.413 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-05 16:10:00.476 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-05 16:10:00.476 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-05 16:10:00.617 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-05 16:10:30.881 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:10:30.897 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:10:31.006 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:10:31.006 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:11:31.499 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:11:31.514 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:11:31.625 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:11:31.625 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:12:32.238 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:12:32.238 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:12:32.364 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:12:32.364 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:13:32.851 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:13:32.851 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:13:32.977 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:13:32.977 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:14:33.430 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:14:33.430 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:14:33.555 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:14:33.555 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:15:00.096 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-05 16:15:00.112 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-05 16:15:00.397 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-05 16:15:36.518 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:15:36.518 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:15:36.643 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:15:36.643 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:16:37.089 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:16:37.089 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:16:37.214 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:16:37.214 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:17:37.833 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:17:37.833 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:17:37.959 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:17:37.959 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:18:38.364 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:18:38.364 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:18:38.489 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:18:38.489 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:19:38.915 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:19:38.930 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:19:39.055 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:19:39.055 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:20:39.676 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:20:39.676 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:20:39.802 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:20:39.802 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:21:40.242 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:21:40.242 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:21:40.366 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:21:40.366 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:22:41.020 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:22:41.020 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:22:41.146 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:22:41.146 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:23:41.601 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:23:41.601 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:23:41.727 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:23:41.727 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:24:42.192 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:24:42.192 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:24:42.316 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:24:42.316 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:25:43.440 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:25:43.440 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:25:43.565 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:25:43.565 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:26:44.096 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:26:44.096 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:26:44.205 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:26:44.221 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:27:44.832 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:27:44.832 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:27:44.957 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:27:44.957 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:28:48.417 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:28:48.417 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:28:48.542 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:28:48.542 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:29:48.905 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:29:48.907 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:29:49.021 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:29:49.021 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:30:49.621 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:30:49.621 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:30:49.746 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:30:49.746 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:31:50.219 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:31:50.219 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:31:50.343 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:31:50.343 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:32:51.342 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:32:51.342 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:32:51.466 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:32:51.466 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:33:52.001 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:33:52.002 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:33:52.111 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:33:52.127 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:34:52.595 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:34:52.595 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:34:52.729 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:34:52.729 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:35:53.162 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:35:53.162 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:35:53.287 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:35:53.287 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:36:53.690 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:36:53.706 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:36:53.815 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:36:53.815 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:37:54.712 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:37:54.712 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:37:54.837 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:37:54.837 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:38:55.386 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:38:55.386 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:38:55.495 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:38:55.511 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:39:55.934 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:39:55.934 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:39:56.059 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:39:56.059 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:40:56.527 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:40:56.542 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:40:56.657 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:40:56.657 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:41:57.244 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:41:57.259 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:41:57.384 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:41:57.385 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:42:58.490 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:42:58.490 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:42:58.615 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:42:58.615 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:43:59.060 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:43:59.060 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:43:59.186 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:43:59.186 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:44:59.623 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:44:59.623 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:44:59.748 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:44:59.748 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:46:00.143 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:46:00.143 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:46:00.267 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:46:00.267 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:47:00.734 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:47:00.734 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:47:00.859 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:47:00.859 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:48:02.895 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:48:02.895 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:48:03.020 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:48:03.020 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:49:03.534 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:49:03.534 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:49:03.659 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:49:03.659 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:50:04.145 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:50:04.145 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:50:04.270 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:50:04.270 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:51:04.766 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:51:04.766 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:51:04.891 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:51:04.906 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:52:05.320 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:52:05.320 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:52:05.461 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:52:05.461 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:53:08.461 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:53:08.461 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:53:08.586 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:53:08.586 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:54:09.055 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:54:09.071 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:54:09.181 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:54:09.181 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:55:09.570 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:55:09.586 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:55:09.711 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:55:09.711 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:56:10.250 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:56:10.250 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:56:10.375 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:56:10.375 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:57:10.768 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:57:10.768 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:57:10.893 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:57:10.893 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:58:11.642 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:58:11.642 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:58:11.767 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:58:11.767 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:59:12.284 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:59:12.284 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 16:59:12.393 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 16:59:12.409 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 17:00:12.846 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 17:00:12.862 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 17:00:12.971 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 17:00:12.986 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 17:01:13.408 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 17:01:13.408 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 17:01:13.533 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 17:01:13.533 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 17:02:14.013 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 17:02:14.028 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 17:02:14.138 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 17:02:14.154 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 17:03:14.955 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 17:03:14.955 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 17:03:15.080 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 17:03:15.080 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 17:04:15.566 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 17:04:15.566 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 17:04:15.691 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 17:04:15.691 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 17:05:16.221 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 17:05:16.221 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 17:05:16.330 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 17:05:16.346 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 17:06:16.845 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 17:06:16.845 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 17:06:16.970 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 17:06:16.970 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 17:07:17.412 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 17:07:17.412 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 17:07:17.536 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 17:07:17.536 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 17:08:19.500 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 17:08:19.500 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 17:08:19.627 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 17:08:19.642 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 17:09:20.065 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 17:09:20.065 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 17:09:20.191 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 17:09:20.206 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 17:10:20.752 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 17:10:20.752 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 17:10:20.877 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 17:10:20.877 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 17:11:21.342 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 17:11:21.342 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 17:11:21.467 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 17:11:21.467 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 17:12:21.922 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 17:12:21.922 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 17:12:22.047 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 17:12:22.047 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 17:13:23.071 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 17:13:23.071 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 17:13:23.196 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 17:13:23.196 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 17:14:23.641 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 17:14:23.641 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 17:14:23.781 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 17:14:23.781 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 17:15:24.294 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 17:15:24.294 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 17:15:24.420 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 17:15:24.420 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 17:16:25.848 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 17:16:25.849 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 17:16:25.961 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 17:16:25.961 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 17:17:26.383 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 17:17:26.383 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 17:17:26.508 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 17:17:26.508 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 17:18:27.533 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 17:18:27.533 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 17:18:27.658 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 17:18:27.658 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 17:19:28.019 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 17:19:28.019 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 17:19:28.145 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 17:19:28.145 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 17:20:28.487 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 17:20:28.487 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 17:20:28.613 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 17:20:28.628 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 17:21:29.045 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 17:21:29.061 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 17:21:29.171 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 17:21:29.171 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 17:22:29.679 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 17:22:29.679 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 17:22:29.804 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 17:22:29.804 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 17:23:30.773 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 17:23:30.773 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 17:23:30.884 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 17:23:30.884 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 17:24:31.303 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 17:24:31.303 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 17:24:31.427 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 17:24:31.443 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 17:25:31.908 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 17:25:31.908 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 17:25:32.033 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 17:25:32.033 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 17:26:32.537 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 17:26:32.553 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 17:26:32.663 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 17:26:32.663 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 17:27:33.158 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 17:27:33.158 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 17:27:33.283 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 17:27:33.283 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 17:28:34.054 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 17:28:34.054 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 17:28:34.180 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 17:28:34.180 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 17:29:34.615 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 17:29:34.615 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 17:29:34.742 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 17:29:34.742 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 17:30:35.221 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 17:30:35.221 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 17:30:35.346 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 17:30:35.346 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 17:31:35.728 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 17:31:35.728 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 17:31:35.874 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 17:31:35.874 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 17:32:36.260 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 17:32:36.260 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 17:32:36.386 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 17:32:36.386 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 17:33:38.176 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 17:33:38.176 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 17:33:38.300 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 17:33:38.300 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 17:34:38.703 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 17:34:38.703 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 17:34:38.828 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 17:34:38.844 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 17:35:39.340 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 17:35:39.355 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 17:35:39.481 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 17:35:39.481 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 17:36:39.938 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 17:36:39.953 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 17:36:40.078 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 17:36:40.078 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 17:37:40.502 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 17:37:40.502 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 17:37:40.628 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 17:37:40.628 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 17:38:41.502 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 17:38:41.502 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 17:38:41.627 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 17:38:41.627 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 17:39:42.100 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 17:39:42.101 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 17:39:42.209 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 17:39:42.209 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 17:40:42.674 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 17:40:42.674 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 17:40:42.799 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 17:40:42.799 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 17:41:43.243 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 17:41:43.243 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 17:41:43.368 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 17:41:43.368 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 17:42:43.862 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 17:42:43.862 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 17:42:43.988 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 17:42:43.988 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 17:43:44.989 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 17:43:45.004 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 17:43:45.115 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 17:43:45.115 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 17:44:45.547 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 17:44:45.547 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 17:44:45.672 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 17:44:45.672 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 17:45:46.090 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 17:45:46.090 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 17:45:46.215 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 17:45:46.215 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 17:46:46.662 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 17:46:46.662 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 17:46:46.786 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 17:46:46.786 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 17:47:47.176 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 17:47:47.176 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 17:47:47.301 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-05 17:47:47.301 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 20:27:56.010 [INFO ] [.o.core.internal.CoreActivator] - openHAB runtime has been started (v1.6.2).
+2016-05-05 20:27:58.153 [INFO ] [o.o.i.s.i.DiscoveryServiceImpl] - mDNS service has been started
+2016-05-05 20:27:59.027 [INFO ] [o.o.i.s.i.DiscoveryServiceImpl] - Service Discovery initialization completed.
+2016-05-05 20:28:02.375 [INFO ] [penhab.io.rest.RESTApplication] - Started REST API at /rest
+2016-05-05 20:28:07.609 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'demo.sitemap'
+2016-05-05 20:28:08.132 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'demo.script'
+2016-05-05 20:28:08.320 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'db4o.persist'
+2016-05-05 20:28:08.364 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'exec.persist'
+2016-05-05 20:28:08.367 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'logging.persist'
+2016-05-05 20:28:08.382 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'rrd4j.persist'
+2016-05-05 20:28:08.429 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'demo.items'
+2016-05-05 20:28:09.529 [INFO ] [.o.u.w.i.servlet.WebAppServlet] - Started Classic UI at /openhab.app
+2016-05-05 20:28:17.511 [ERROR] [b.b.i.BTDeviceDiscoveryService] - Error while initializing local bluetooth device.
+javax.bluetooth.BluetoothStateException: BlueCove libraries not available
+	at com.intel.bluetooth.BlueCoveImpl.createDetectorOnWindows(BlueCoveImpl.java:963) ~[na:na]
+	at com.intel.bluetooth.BlueCoveImpl.detectStack(BlueCoveImpl.java:477) ~[na:na]
+	at com.intel.bluetooth.BlueCoveImpl.access$500(BlueCoveImpl.java:70) ~[na:na]
+	at com.intel.bluetooth.BlueCoveImpl$1.run(BlueCoveImpl.java:1085) ~[na:na]
+	at java.security.AccessController.doPrivileged(Native Method) ~[na:1.7.0_79]
+	at com.intel.bluetooth.BlueCoveImpl.detectStackPrivileged(BlueCoveImpl.java:1083) ~[na:na]
+	at com.intel.bluetooth.BlueCoveImpl.getBluetoothStack(BlueCoveImpl.java:1076) ~[na:na]
+	at javax.bluetooth.LocalDevice.getLocalDeviceInstance(LocalDevice.java:75) ~[na:na]
+	at javax.bluetooth.LocalDevice.getLocalDevice(LocalDevice.java:95) ~[na:na]
+	at org.openhab.binding.bluetooth.internal.BTDeviceDiscoveryService.run(BTDeviceDiscoveryService.java:113) ~[na:na]
+2016-05-05 20:28:18.187 [INFO ] [rg.openhab.io.cv.CVApplication] - Started Cometvisu API at /services/cv
+2016-05-05 20:28:18.879 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'demo.rules'
+2016-05-05 20:28:22.326 [WARN ] [.o.c.p.e.PersistenceExtensions] - There is no queryable persistence service registered with the name 'rrd4j'
+2016-05-05 20:28:22.342 [ERROR] [m.r.internal.engine.RuleEngine] - Error during the execution of startup rule 'Update max and min temperatures': cannot invoke method public abstract org.openhab.core.types.State org.openhab.core.persistence.HistoricItem.getState() on null
+2016-05-05 20:28:23.742 [INFO ] [.service.AbstractActiveService] - HDanywhere Refresh Service has been started
+2016-05-05 20:28:23.790 [INFO ] [t.AbstractSocketChannelBinding] - The maximum buffer will be set to the default value of 1024
+2016-05-05 20:28:23.790 [INFO ] [t.AbstractSocketChannelBinding] - The interval to retry connection setups will be set to the default value of 5
+2016-05-05 20:28:23.790 [INFO ] [t.AbstractSocketChannelBinding] - The cron job to reset connections will be set to the default value of 0 0 0 * * ?
+2016-05-05 20:28:23.790 [INFO ] [t.AbstractSocketChannelBinding] - The setting to queue write operation until a channel gets connected will be set to the default value of true
+2016-05-05 20:28:23.790 [INFO ] [t.AbstractSocketChannelBinding] - The port to listen for incoming connections will be set to the default value of 0
+2016-05-05 20:28:23.790 [INFO ] [t.AbstractSocketChannelBinding] - The setting to share channels within an Item will be set to the default value of true
+2016-05-05 20:28:23.790 [INFO ] [t.AbstractSocketChannelBinding] - The setting to share channels between the items with the same direction will be set to the default value of true
+2016-05-05 20:28:23.790 [INFO ] [t.AbstractSocketChannelBinding] - The setting to share channels between directions will be set to the default value of true
+2016-05-05 20:28:23.790 [INFO ] [t.AbstractSocketChannelBinding] - The setting to use address masks for incoming connections will be set to the default value of true
+2016-05-05 20:28:23.805 [INFO ] [t.protocol.internal.TCPBinding] - The maximum time out for blocking write operations will be set to the default vaulue of 3000
+2016-05-05 20:28:23.805 [INFO ] [t.protocol.internal.TCPBinding] - The blocking nature of read/write operations will be set to the default vaulue of false
+2016-05-05 20:28:23.805 [INFO ] [t.protocol.internal.TCPBinding] - The preamble for all write operations will be set to the default vaulue of 
+2016-05-05 20:28:23.805 [INFO ] [t.protocol.internal.TCPBinding] - The postamble for all write operations will be set to the default vaulue of 
+
+2016-05-05 20:28:23.805 [INFO ] [t.protocol.internal.TCPBinding] - Updating states with returned values will be set to the default vaulue of true
+2016-05-05 20:28:23.824 [INFO ] [t.protocol.internal.TCPBinding] - The characterset will be set to the default vaulue of ASCII
+2016-05-05 20:28:23.831 [INFO ] [.service.AbstractActiveService] - TCP Refresh Service has been started
+2016-05-05 20:28:24.010 [INFO ] [.service.AbstractActiveService] - FritzBox refresh Service has been started
+2016-05-05 20:28:24.329 [INFO ] [.service.AbstractActiveService] - RME Refresh Service has been started
+2016-05-05 20:28:24.705 [INFO ] [.service.AbstractActiveService] - Sonos Refresh Service has been started
+2016-05-05 20:28:24.811 [INFO ] [.service.AbstractActiveService] - Oceanic Refresh Service has been started
+2016-05-05 20:28:25.093 [INFO ] [.service.AbstractActiveService] - Exec Refresh Service has been started
+2016-05-05 20:28:25.195 [ERROR] [io.gpio.internal.GPIOActivator] - No supported operating system was found, GPIO service won't be available
+2016-05-05 20:28:25.594 [INFO ] [.b.sonos.internal.SonosBinding] - Querying the network for any other Sonos device
+2016-05-05 20:28:25.813 [INFO ] [o.b.p.internal.PifaceActivator] - Piface binding has been started.
+2016-05-05 20:28:25.844 [INFO ] [b.s.internal.SysteminfoBinding] - Using Sigar version 1.6.4.129
+2016-05-05 20:28:25.844 [ERROR] [b.s.internal.SysteminfoBinding] - System monitor error: {}
+org.hyperic.sigar.SigarException: java.lang.UnsatisfiedLinkError: org.hyperic.sigar.Sigar.getNetInterfaceList()[Ljava/lang/String;
+	at org.hyperic.sigar.SigarProxyCache.invoke(SigarProxyCache.java:220) ~[sigar-1.6.4.jar:na]
+	at com.sun.proxy.$Proxy80.getNetInterfaceList(Unknown Source) ~[na:na]
+	at org.openhab.binding.systeminfo.internal.SysteminfoBinding.initializeSystemMonitor(SysteminfoBinding.java:400) [bundlefile:na]
+	at org.openhab.binding.systeminfo.internal.SysteminfoBinding.updated(SysteminfoBinding.java:384) [bundlefile:na]
+	at org.eclipse.equinox.internal.cm.ManagedServiceTracker$1.run(ManagedServiceTracker.java:183) [org.eclipse.equinox.cm_1.0.400.v20120522-1841.jar:na]
+	at org.eclipse.equinox.internal.cm.SerializedTaskQueue$1.run(SerializedTaskQueue.java:36) [org.eclipse.equinox.cm_1.0.400.v20120522-1841.jar:na]
+2016-05-05 20:28:25.860 [INFO ] [.service.AbstractActiveService] - Systeminfo Refresh Service has been started
+2016-05-05 20:28:26.185 [INFO ] [.b.t.internal.TellstickBinding] - Activate Thread[Component Resolve Thread (Bundle 98),10,main]
+2016-05-05 20:28:26.195 [INFO ] [.b.t.internal.TellstickBinding] - Called with config null
+2016-05-05 20:28:26.232 [INFO ] [.b.t.internal.TellstickBinding] - Loading TelldusCore from C:/Program Files/Telldus/;C:/Program Files (x86)/Telldus/
+2016-05-05 20:28:26.232 [WARN ] [.b.t.internal.TellstickBinding] - Will do a reinit of listeners, no message received for 600 seconds
+2016-05-05 20:28:26.232 [INFO ] [.b.t.internal.TellstickBinding] - Listeners removed
+2016-05-05 20:28:26.232 [ERROR] [ellstickGenericBindingProvider] - Failed to remove telldus core listeners
+java.lang.NullPointerException: null
+	at org.openhab.binding.tellstick.internal.TellstickGenericBindingProvider.resetTellstickListener(TellstickGenericBindingProvider.java:152) ~[bundlefile:na]
+	at org.openhab.binding.tellstick.internal.TellstickBinding.resetTelldusProvider(TellstickBinding.java:98) [bundlefile:na]
+	at org.openhab.binding.tellstick.internal.TellstickBinding.resetTellstick(TellstickBinding.java:366) [bundlefile:na]
+	at org.openhab.binding.tellstick.internal.TellstickBinding.updated(TellstickBinding.java:164) [bundlefile:na]
+	at org.eclipse.equinox.internal.cm.ManagedServiceTracker$1.run(ManagedServiceTracker.java:183) [org.eclipse.equinox.cm_1.0.400.v20120522-1841.jar:na]
+	at org.eclipse.equinox.internal.cm.SerializedTaskQueue$1.run(SerializedTaskQueue.java:36) [org.eclipse.equinox.cm_1.0.400.v20120522-1841.jar:na]
+2016-05-05 20:28:26.232 [INFO ] [.w.i.api.WithingsAuthenticator] - #########################################################################################
+2016-05-05 20:28:26.247 [INFO ] [.w.i.api.WithingsAuthenticator] - # Withings Binding needs authentication.
+2016-05-05 20:28:26.247 [INFO ] [.w.i.api.WithingsAuthenticator] - # Execute 'withings:startAuthentication' on OSGi console.
+2016-05-05 20:28:26.247 [INFO ] [.w.i.api.WithingsAuthenticator] - #########################################################################################
+2016-05-05 20:28:27.629 [INFO ] [.b.knx.internal.bus.KNXBinding] - Calimero library version 2.2.0-alpha
+2016-05-05 20:28:27.639 [INFO ] [insteonplm.InsteonPLMActivator] - Insteon PLM binding has been started.
+2016-05-05 20:28:28.859 [INFO ] [.service.AbstractActiveService] - HTTP Refresh Service has been started
+2016-05-05 20:28:28.992 [INFO ] [.service.AbstractActiveService] - SNMP Refresh Service has been started
+2016-05-05 20:28:29.238 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-05 20:28:29.239 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-05 20:28:29.256 [INFO ] [b.k.i.connection.KNXConnection] - KNXBinding configuration is not present. Please check your configuration file or if not needed remove the KNX addon.
+2016-05-05 20:28:29.308 [INFO ] [.service.AbstractActiveService] - IRtrans Refresh Service has been started
+2016-05-05 20:28:29.308 [INFO ] [.service.AbstractActiveService] - NetworkHealth Refresh Service has been started
+2016-05-05 20:28:29.313 [INFO ] [.service.AbstractActiveService] - Anel NET-PwrCtrl Service has been started
+2016-05-05 20:28:29.313 [WARN ] [o.b.i.i.Iec6205621MeterBinding] - Empty or null configuration. Ignoring.
+2016-05-05 20:28:29.317 [INFO ] [.service.AbstractActiveService] - NTP Refresh Service has been started
+2016-05-05 20:28:29.564 [ERROR] [.jpa.internal.JpaConfiguration] - Got a null properties object!
+2016-05-05 20:28:31.205 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-05 20:28:31.205 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-05 20:28:34.408 [WARN ] [inding.ntp.internal.NtpBinding] - couldn't establish network connection [host 'ptbtime1.ptb.de'] -> returning current sytem time instead
+2016-05-05 20:28:34.634 [INFO ] [.service.AbstractActiveService] - Wemo Refresh Service has been started
+2016-05-05 20:28:34.958 [WARN ] [io.squeezeserver.SqueezeServer] - Empty or null configuration. Ignoring.
+2016-05-05 20:28:35.212 [INFO ] [.service.AbstractActiveService] - XBMC Refresh Service has been started
+2016-05-05 20:28:36.538 [ERROR] [o.o.c.s.ScriptExecutionThread ] - Error during the execution of rule 'Compute humidex': Cannot cast org.openhab.core.types.UnDefType to org.openhab.core.library.types.DecimalType
+2016-05-05 20:28:36.546 [ERROR] [o.o.c.s.ScriptExecutionThread ] - Error during the execution of rule 'Update max and min temperatures': cannot invoke method public java.lang.String org.openhab.core.library.types.DecimalType.toString() on null
+2016-05-05 20:28:36.721 [INFO ] [.o.i.t.xpl.XplTransportService] - xPL Manager source address set to clinique-openhab.openhab
+2016-05-05 20:28:36.742 [INFO ] [.o.i.t.xpl.XplTransportService] - xPL transport has been started
+2016-05-05 20:28:36.814 [INFO ] [.service.AbstractActiveService] - VDR Monitor Service has been started
+2016-05-05 20:28:37.456 [INFO ] [.b.s.internal.SamsungAcBinding] - active
+2016-05-05 20:29:22.010 [INFO ] [.b.sonos.internal.SonosBinding] - A non-Sonos device (Microsoft Corporation Windows Media Player Sharing 12.0) is found and will be ignored
+2016-05-05 20:29:31.832 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-05 20:29:31.832 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-05 20:29:32.051 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-05 20:29:32.051 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-05 20:30:32.441 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'demo.items'
+2016-05-05 20:30:32.772 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-05 20:30:32.772 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-05 20:30:33.043 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-05 20:30:33.043 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-05 20:31:33.805 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-05 20:31:33.805 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-05 20:31:34.040 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-05 20:31:34.040 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-05 20:32:34.247 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-05 20:32:34.249 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-05 20:32:34.458 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-05 20:32:34.460 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-05 20:32:42.419 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-05 20:32:42.422 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-05 20:32:42.908 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'demo.items'
+2016-05-05 20:32:56.349 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-05 20:32:56.353 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-05 20:33:34.706 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-05 20:33:34.709 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-05 20:33:35.196 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-05 20:33:35.197 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-05 20:34:03.353 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'demo.items'
+2016-05-05 20:34:06.501 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-05 20:34:08.910 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-05 20:34:08.915 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-05 20:34:16.198 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-05 20:34:26.705 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-05 20:34:26.708 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-05 20:34:35.407 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-05 20:34:35.408 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-05 20:34:35.600 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-05 20:34:35.601 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-05 20:34:51.642 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-05 20:34:51.642 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-05 20:34:51.645 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-05 20:34:51.645 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-05 20:34:53.721 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-05 20:34:53.724 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-05 20:34:55.237 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-05 20:34:55.239 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-05 20:35:00.251 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-05 20:35:00.253 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-05 20:35:35.818 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-05 20:35:35.819 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-05 20:35:36.026 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-05 20:35:36.027 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-05 20:35:39.560 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-05 20:36:00.255 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-05 20:36:13.751 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'demo.items'
+2016-05-05 20:36:23.794 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-05 20:36:36.952 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-05 20:36:36.953 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-05 20:36:37.172 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-05 20:36:37.173 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-05 20:36:47.534 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-05 20:37:04.062 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'demo.items'
+2016-05-05 20:37:37.393 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-05 20:37:37.394 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-05 20:37:37.593 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-05 20:37:37.639 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-05 20:38:07.142 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-05 20:38:26.437 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-05 20:38:26.440 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-05 20:38:37.838 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-05 20:38:37.839 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-05 20:38:38.036 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-05 20:38:38.038 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-05 20:39:38.252 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-05 20:39:38.254 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-05 20:39:38.441 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-05 20:39:38.442 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-05 20:40:00.169 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-05 20:40:00.171 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-05 20:40:39.087 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-05 20:40:39.087 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-05 20:40:39.295 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-05 20:40:39.296 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-05 20:41:40.026 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-05 20:41:40.042 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-05 20:41:40.230 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-05 20:41:40.245 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-05 20:42:38.144 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-05 20:42:38.144 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-05 20:42:41.548 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-05 20:42:41.548 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-05 20:42:41.800 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-05 20:42:41.800 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-05 20:43:09.359 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-05 20:43:09.361 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-05 20:43:14.969 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-05 20:43:14.969 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-05 20:43:39.427 [WARN ] [inding.ntp.internal.NtpBinding] - couldn't establish network connection [host 'ptbtime1.ptb.de'] -> returning current sytem time instead
+2016-05-05 20:43:42.054 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.UnknownHostException: weather.yahooapis.com
+2016-05-05 20:43:42.054 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 20:43:42.054 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.UnknownHostException: weather.yahooapis.com
+2016-05-05 20:43:42.054 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 20:44:14.551 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'demo.items'
+2016-05-05 20:44:49.518 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-05 20:44:49.518 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-05 20:44:50.036 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-05 20:44:50.036 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-05 20:44:54.424 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.UnknownHostException: weather.yahooapis.com
+2016-05-05 20:44:54.424 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 20:44:54.424 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.UnknownHostException: weather.yahooapis.com
+2016-05-05 20:44:54.424 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 20:45:00.284 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-05 20:45:00.284 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-05 20:45:56.569 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-05 20:45:56.585 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-05 20:45:56.786 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-05 20:45:56.786 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-05 20:46:57.318 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-05 20:46:57.318 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-05 20:46:57.506 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-05 20:46:57.506 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-05 20:47:58.160 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-05 20:47:58.160 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-05 20:47:58.348 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-05 20:47:58.348 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-05 20:48:02.759 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-05 20:48:02.759 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-05 20:48:58.951 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-05 20:48:58.951 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-05 20:48:59.139 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-05 20:48:59.139 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-05 20:49:59.627 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-05 20:49:59.627 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-05 20:50:00.472 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-05 20:50:00.472 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-05 20:50:01.150 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-05 20:50:01.150 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-05 20:50:05.524 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-05 20:50:05.524 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-05 20:50:18.629 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-05 20:50:18.632 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-05 20:50:22.198 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-05 20:50:22.198 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-05 20:50:25.237 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-05 20:50:25.237 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-05 20:51:02.047 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-05 20:51:02.047 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-05 20:51:02.235 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-05 20:51:02.235 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-05 20:52:02.504 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.UnknownHostException: weather.yahooapis.com
+2016-05-05 20:52:02.504 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 20:52:02.504 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.UnknownHostException: weather.yahooapis.com
+2016-05-05 20:52:02.504 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 20:53:02.802 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.UnknownHostException: weather.yahooapis.com
+2016-05-05 20:53:02.802 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-05 20:53:02.802 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.UnknownHostException: weather.yahooapis.com
+2016-05-05 20:53:02.802 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'

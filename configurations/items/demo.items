@@ -9,10 +9,10 @@ Group Status 	(All)
 
 Group GF_Living 	"客    厅" 	<video> 	(gGF)
 Group GF_Kitchen 	"厨    房" 		<kitchen> 	(gGF)
-Group GF_Toilet 	"厕所" 		<bath> 		(gGF)
+Group GF_Toilet 	"卫生间" 		<bath> 		(gGF)
 Group GF_Corridor 	"走廊" 		<corridor> 	(gGF)
 
-Group FF_Bath 		"浴室" 		<bath> 		(gFF)
+Group FF_Bath 		"卫生间" 		<bath> 		(gFF)
 Group FF_Office 	"办公室" 		<office> 	(gFF)
 Group FF_Child 		"儿童卧室" 	<boy1> 		(gFF)
 Group FF_Bed 		"卧室" 		<bedroom> 	(gFF)
@@ -26,6 +26,7 @@ Group:Contact:OR(OPEN, CLOSED) 	Windows 	"门窗情况 [(%d)]"				<contact>		(Al
 
 /* Lights */
 Dimmer Light_GF_Living_Table 		"桌子" 		(GF_Living, Lights)
+Switch Light_GF_Living_Ceiling   	"天花板"		(GF_Living, Lights)
 Switch Light_GF_Corridor_Ceiling 	"天花板" 		(GF_Corridor, Lights)
 Switch Light_GF_Kitchen_Ceiling 	"天花板" 		(GF_Kitchen, Lights)
 Switch Light_GF_Kitchen_Table 		"桌子" 		(GF_Kitchen, Lights)
@@ -43,34 +44,34 @@ Switch Light_FF_Bed_Ceiling 		"天花板" 		(FF_Bed, Lights)
 Switch Light_C_Corridor_Ceiling 	"天花板" 		(gC, Lights)
 Switch Light_C_Staircase 			"楼梯" 	(gC, Lights)
 Switch Light_C_Washing_Ceiling 		"洗衣间" 		(gC, Lights)
-Switch Light_C_Workshop 			"工作室" 		(gC, Lights)
+Switch Light_C_Workshop 			"工作间" 		(gC, Lights)
 
 Switch Light_Outdoor_Garage 		"车库" 		(Outdoor, Lights)
-Switch Light_Outdoor_Terrace 		"阳台" 		(Outdoor, Lights)
+//Switch Light_Outdoor_Terrace 		"阳台" 		(Outdoor, Lights)
 Switch Light_Outdoor_Frontdoor 		"前门"		(Outdoor, Lights)
 
 /* Heating */
-Switch Heating_GF_Corridor 	"一楼走廊" 	<heating>	(GF_Corridor, Heating)
-Switch Heating_GF_Toilet 	"厕所"	 	<heating>	(GF_Toilet, Heating)
-Switch Heating_GF_Living 	"客厅" 	<heating>	(GF_Living, Heating)
-Switch Heating_GF_Kitchen 	"厨房" 		<heating>	(GF_Kitchen, Heating)
+Switch Heating_GF_Corridor 	"空调" 	<heating>	(GF_Corridor, Heating)
+Switch Heating_GF_Toilet 	"热水器"	 	<heating>	(GF_Toilet, Heating)
+Switch Heating_GF_Living 	"空调" 	<heating>	(GF_Living, Heating)
+Switch Heating_GF_Kitchen 	"空调" 		<heating>	(GF_Kitchen, Heating)
 
-Switch Heating_FF_Bath 		"浴室" 			<heating>	(FF_Bath, Heating)
-Switch Heating_FF_Office 	"办公室" 		<heating>	(FF_Office, Heating)
-Switch Heating_FF_Child 	"儿童卧室" 	<heating>	(FF_Child, Heating)
-Switch Heating_FF_Bed 		"卧室" 		<heating>	(FF_Bed, Heating)
+Switch Heating_FF_Bath 		"热水器" 			<heating>	(FF_Bath, Heating)
+Switch Heating_FF_Office 	"空调" 		<heating>	(FF_Office, Heating)
+Switch Heating_FF_Child 	"空调" 	<heating>	(FF_Child, Heating)
+Switch Heating_FF_Bed 		"空调" 		<heating>	(FF_Bed, Heating)
 
 /* Rollershutters */
 Switch Shutter_all (Shutters)
 
-Rollershutter Shutter_GF_Toilet 		"厕所"		(GF_Toilet, Shutters)
-Rollershutter Shutter_GF_Kitchen 		"厨房"		(GF_Kitchen, Shutters)
-Rollershutter Shutter_GF_Living 		"客厅"	(GF_Living, Shutters)
+Rollershutter Shutter_GF_Toilet 		"百叶窗"		(GF_Toilet, Shutters)
+Rollershutter Shutter_GF_Kitchen 		"百叶窗"		(GF_Kitchen, Shutters)
+Rollershutter Shutter_GF_Living 		"百叶窗"	(GF_Living, Shutters)
 
-Rollershutter Shutter_FF_Bed 			"卧室"		(FF_Bed, Shutters)
-Rollershutter Shutter_FF_Bath 			"浴室"			(FF_Bath, Shutters)
-Rollershutter Shutter_FF_Office_Window	"办公室窗户"	(FF_Office, Shutters)
-Rollershutter Shutter_FF_Office_Door 	"办公室门"	(FF_Office, Shutters)
+Rollershutter Shutter_FF_Bed 			"百叶窗"		(FF_Bed, Shutters)
+Rollershutter Shutter_FF_Bath 			"百叶窗"			(FF_Bath, Shutters)
+Rollershutter Shutter_FF_Office_Window	"窗户百叶窗"	(FF_Office, Shutters)
+Rollershutter Shutter_FF_Office_Door 	"门百叶窗"	(FF_Office, Shutters)
 
 /* Indoor Temperatures */
 Number Temperature_GF_Corridor 	"温度 [%.1f °C]"	<temperature>	(Temperature, GF_Corridor)
@@ -83,15 +84,15 @@ Number Temperature_FF_Child 	"温度 [%.1f °C]"	<temperature>	(Temperature, FF_
 Number Temperature_FF_Bed 		"温度 [%.1f °C]"	<temperature>	(Temperature, FF_Bed)
 
 /* Windows */
-Contact Window_GF_Frontdoor 	"前门 [MAP(en.map):%s]"		(GF_Corridor, Windows)
-Contact Window_GF_Kitchen 		"厨房 [MAP(en.map):%s]"			(GF_Kitchen, Windows)
-Contact Window_GF_Living 		"阳台门 [MAP(en.map):%s]"		(GF_Living, Windows)
-Contact Window_GF_Toilet 		"厕所 [MAP(en.map):%s]"			(GF_Toilet, Windows)
+Contact Window_GF_Frontdoor 	"前门窗户 [MAP(en.map):%s]"		(GF_Corridor, Windows)
+Contact Window_GF_Kitchen 		"窗户 [MAP(en.map):%s]"			(GF_Kitchen, Windows)
+Contact Window_GF_Living 		"窗户 [MAP(en.map):%s]"		(GF_Living, Windows)
+Contact Window_GF_Toilet 		"窗户 [MAP(en.map):%s]"			(GF_Toilet, Windows)
 
-Contact Window_FF_Bath 			"浴室 [MAP(en.map):%s]"				(FF_Bath, Windows)
-Contact Window_FF_Bed 			"卧室 [MAP(en.map):%s]"			(FF_Bed, Windows)
-Contact Window_FF_Office_Window "办公室窗户 [MAP(en.map):%s]"	(FF_Office, Windows)
-Contact Window_FF_Office_Door 	"办公室凉台门 [MAP(en.map):%s]"		(FF_Office, Windows)
+Contact Window_FF_Bath 			"窗户 [MAP(en.map):%s]"				(FF_Bath, Windows)
+Contact Window_FF_Bed 			"窗户 [MAP(en.map):%s]"			(FF_Bed, Windows)
+Contact Window_FF_Office_Window "窗户 [MAP(en.map):%s]"	(FF_Office, Windows)
+Contact Window_FF_Office_Door 	"凉台门 [MAP(en.map):%s]"		(FF_Office, Windows)
 
 Contact Garage_Door 			"车库门 [MAP(en.map):%s]"		(Outdoor, Windows)
 

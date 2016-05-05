@@ -2049,3 +2049,995 @@
 
 2016-05-03 00:08:26 - Weather_Temperature state updated to 
 
+2016-05-03 00:09:22 - Weather_Humidity state updated to 
+
+2016-05-03 00:09:27 - Weather_Temperature state updated to 
+
+2016-05-03 00:10:00 - Temperature_GF_Corridor state updated to 17.80000000
+2016-05-03 00:10:00 - Temperature_GF_Toilet state updated to 18.20000000
+2016-05-03 00:10:00 - Temperature_GF_Living state updated to 20.40000000
+2016-05-03 00:10:00 - Temperature_GF_Kitchen state updated to 17.60000000
+2016-05-03 00:10:00 - Temperature_FF_Bath state updated to 19.50000000
+2016-05-03 00:10:00 - Temperature_FF_Office state updated to 21.00000000
+2016-05-03 00:10:00 - Temperature_FF_Child state updated to 17.80000000
+2016-05-03 00:10:00 - Temperature_FF_Bed state updated to 21.40000000
+2016-05-03 00:10:23 - Weather_Humidity state updated to 
+
+2016-05-03 00:10:27 - Weather_Temperature state updated to 
+
+2016-05-03 00:11:24 - Weather_Humidity state updated to 
+
+2016-05-03 00:11:28 - Weather_Temperature state updated to 
+
+2016-05-03 00:12:25 - Weather_Humidity state updated to 
+
+2016-05-03 00:12:29 - Weather_Temperature state updated to 
+
+2016-05-03 00:12:49 - Volume received command 10
+2016-05-03 00:12:49 - Volume state updated to 10.000763
+2016-05-03 00:12:53 - Volume received command 20
+2016-05-03 00:12:53 - Volume state updated to 20.0
+2016-05-03 00:12:56 - Volume received command 40
+2016-05-03 00:12:56 - Volume state updated to 40.0
+2016-05-03 00:12:57 - Volume received command 30
+2016-05-03 00:12:57 - Volume state updated to 30.000765
+2016-05-03 00:13:02 - Volume received command 40
+2016-05-03 00:13:02 - Volume state updated to 40.0
+2016-05-03 00:13:02 - Volume received command 50
+2016-05-03 00:13:02 - Volume state updated to 50.000763
+2016-05-03 00:13:02 - Volume received command 60
+2016-05-03 00:13:02 - Volume state updated to 60.000004
+2016-05-03 00:13:26 - Weather_Humidity state updated to 
+
+2016-05-03 00:13:29 - Weather_Temperature state updated to 
+
+2016-05-05 14:43:50 - Light_GF_Living_Table state updated to OFF
+2016-05-05 14:43:50 - Light_GF_Corridor_Ceiling state updated to OFF
+2016-05-05 14:43:50 - Light_GF_Kitchen_Ceiling state updated to OFF
+2016-05-05 14:43:50 - Light_GF_Kitchen_Table state updated to OFF
+2016-05-05 14:43:50 - Light_GF_Corridor_Wardrobe state updated to ON
+2016-05-05 14:43:50 - Light_GF_Toilet_Ceiling state updated to OFF
+2016-05-05 14:43:50 - Light_GF_Toilet_Mirror state updated to OFF
+2016-05-05 14:43:50 - Light_FF_Bath_Ceiling state updated to OFF
+2016-05-05 14:43:50 - Light_FF_Bath_Mirror state updated to OFF
+2016-05-05 14:43:50 - Light_FF_Corridor_Ceiling state updated to OFF
+2016-05-05 14:43:50 - Light_FF_Office_Ceiling state updated to OFF
+2016-05-05 14:43:50 - Light_FF_Child_Ceiling state updated to ON
+2016-05-05 14:43:50 - Light_FF_Bed_Ceiling state updated to ON
+2016-05-05 14:43:50 - Light_C_Corridor_Ceiling state updated to OFF
+2016-05-05 14:43:50 - Light_C_Staircase state updated to OFF
+2016-05-05 14:43:50 - Light_C_Washing_Ceiling state updated to OFF
+2016-05-05 14:43:50 - Light_C_Workshop state updated to OFF
+2016-05-05 14:43:50 - Light_Outdoor_Garage state updated to ON
+2016-05-05 14:43:50 - Light_Outdoor_Terrace state updated to OFF
+2016-05-05 14:43:50 - Light_Outdoor_Frontdoor state updated to ON
+2016-05-05 14:43:50 - Heating_GF_Corridor state updated to OFF
+2016-05-05 14:43:50 - Heating_GF_Toilet state updated to OFF
+2016-05-05 14:43:50 - Heating_GF_Living state updated to OFF
+2016-05-05 14:43:50 - Heating_GF_Kitchen state updated to OFF
+2016-05-05 14:43:50 - Heating_FF_Bath state updated to OFF
+2016-05-05 14:43:50 - Heating_FF_Office state updated to OFF
+2016-05-05 14:43:50 - Heating_FF_Child state updated to ON
+2016-05-05 14:43:50 - Heating_FF_Bed state updated to OFF
+2016-05-05 14:43:50 - Temperature_Setpoint state updated to 22
+2016-05-05 14:43:51 - Window_GF_Frontdoor state updated to OPEN
+2016-05-05 14:43:51 - Window_GF_Kitchen state updated to CLOSED
+2016-05-05 14:43:51 - Window_GF_Living state updated to CLOSED
+2016-05-05 14:43:51 - Window_GF_Toilet state updated to CLOSED
+2016-05-05 14:43:51 - Window_FF_Bath state updated to OPEN
+2016-05-05 14:43:51 - Window_FF_Bed state updated to CLOSED
+2016-05-05 14:43:51 - Window_FF_Office_Window state updated to CLOSED
+2016-05-05 14:43:51 - Window_FF_Office_Door state updated to CLOSED
+2016-05-05 14:43:51 - Garage_Door state updated to OPEN
+2016-05-05 14:43:52 - Temperature_GF_Corridor state updated to 19.40000000
+2016-05-05 14:43:52 - Temperature_GF_Toilet state updated to 21.90000000
+2016-05-05 14:43:52 - Temperature_GF_Living state updated to 17.70000000
+2016-05-05 14:43:52 - Temperature_GF_Kitchen state updated to 21.00000000
+2016-05-05 14:43:52 - Temperature_FF_Bath state updated to 20.50000000
+2016-05-05 14:43:52 - Temperature_FF_Office state updated to 18.00000000
+2016-05-05 14:43:52 - Temperature_FF_Child state updated to 22.30000000
+2016-05-05 14:43:52 - Temperature_FF_Bed state updated to 19.10000000
+2016-05-05 14:44:08 - Weather_Temp_Max state updated to 2
+2016-05-05 14:44:08 - Weather_LastUpdate state updated to 2016-05-05T14:44:08
+2016-05-05 14:44:08 - Weather_Temp_Min state updated to 2
+2016-05-05 14:45:00 - Temperature_GF_Corridor state updated to 19.90000000
+2016-05-05 14:45:00 - Temperature_GF_Toilet state updated to 22.10000000
+2016-05-05 14:45:00 - Temperature_GF_Living state updated to 19.30000000
+2016-05-05 14:45:00 - Temperature_GF_Kitchen state updated to 18.80000000
+2016-05-05 14:45:00 - Temperature_FF_Bath state updated to 19.90000000
+2016-05-05 14:45:00 - Temperature_FF_Office state updated to 19.40000000
+2016-05-05 14:45:00 - Temperature_FF_Child state updated to 19.20000000
+2016-05-05 14:45:00 - Temperature_FF_Bed state updated to 18.20000000
+2016-05-05 14:48:37 - Light_GF_Corridor_Ceiling received command ON
+2016-05-05 14:48:47 - Light_GF_Corridor_Ceiling received command OFF
+2016-05-05 14:48:51 - Light_GF_Corridor_Ceiling received command ON
+2016-05-05 14:49:01 - Light_GF_Corridor_Ceiling received command OFF
+2016-05-05 14:49:29 - Light_GF_Corridor_Ceiling received command ON
+2016-05-05 14:49:39 - Light_GF_Corridor_Ceiling received command OFF
+2016-05-05 14:49:47 - Light_GF_Corridor_Wardrobe received command OFF
+2016-05-05 14:49:54 - Light_GF_Corridor_Wardrobe received command ON
+2016-05-05 14:50:00 - Temperature_GF_Corridor state updated to 17.70000000
+2016-05-05 14:50:00 - Temperature_GF_Toilet state updated to 18.90000000
+2016-05-05 14:50:00 - Temperature_GF_Living state updated to 19.30000000
+2016-05-05 14:50:00 - Temperature_GF_Kitchen state updated to 22.40000000
+2016-05-05 14:50:00 - Temperature_FF_Bath state updated to 18.90000000
+2016-05-05 14:50:00 - Temperature_FF_Office state updated to 21.70000000
+2016-05-05 14:50:00 - Temperature_FF_Child state updated to 21.10000000
+2016-05-05 14:50:00 - Temperature_FF_Bed state updated to 22.10000000
+2016-05-05 14:50:06 - Light_GF_Corridor_Ceiling received command ON
+2016-05-05 14:50:16 - Light_GF_Corridor_Ceiling received command OFF
+2016-05-05 14:51:22 - Light_GF_Toilet_Ceiling received command ON
+2016-05-05 14:51:22 - Light_GF_Toilet_Mirror received command ON
+2016-05-05 14:51:23 - Heating_GF_Toilet received command ON
+2016-05-05 14:51:24 - Light_GF_Toilet_Mirror received command OFF
+2016-05-05 14:51:24 - Heating_GF_Toilet received command OFF
+2016-05-05 14:51:24 - Light_GF_Toilet_Ceiling received command OFF
+2016-05-05 14:51:25 - Light_GF_Toilet_Mirror received command ON
+2016-05-05 14:51:25 - Heating_GF_Toilet received command ON
+2016-05-05 14:51:25 - Light_GF_Toilet_Mirror received command OFF
+2016-05-05 14:51:26 - Light_GF_Toilet_Ceiling received command ON
+2016-05-05 14:51:26 - Heating_GF_Toilet received command OFF
+2016-05-05 14:51:27 - Light_GF_Toilet_Mirror received command ON
+2016-05-05 14:51:27 - Heating_GF_Toilet received command ON
+2016-05-05 14:51:38 - Lights received command OFF
+2016-05-05 14:51:38 - Light_GF_Living_Table received command OFF
+2016-05-05 14:51:38 - Light_GF_Corridor_Ceiling received command OFF
+2016-05-05 14:51:38 - Light_GF_Kitchen_Ceiling received command OFF
+2016-05-05 14:51:38 - Light_GF_Kitchen_Table received command OFF
+2016-05-05 14:51:38 - Light_GF_Corridor_Wardrobe received command OFF
+2016-05-05 14:51:38 - Light_GF_Toilet_Ceiling received command OFF
+2016-05-05 14:51:38 - Light_GF_Toilet_Mirror received command OFF
+2016-05-05 14:51:38 - Light_FF_Bath_Ceiling received command OFF
+2016-05-05 14:51:38 - Light_FF_Bath_Mirror received command OFF
+2016-05-05 14:51:38 - Light_FF_Corridor_Ceiling received command OFF
+2016-05-05 14:51:38 - Light_FF_Office_Ceiling received command OFF
+2016-05-05 14:51:38 - Light_FF_Child_Ceiling received command OFF
+2016-05-05 14:51:38 - Light_FF_Bed_Ceiling received command OFF
+2016-05-05 14:51:38 - Light_C_Corridor_Ceiling received command OFF
+2016-05-05 14:51:38 - Light_C_Staircase received command OFF
+2016-05-05 14:51:38 - Light_C_Washing_Ceiling received command OFF
+2016-05-05 14:51:38 - Light_C_Workshop received command OFF
+2016-05-05 14:51:38 - Light_Outdoor_Garage received command OFF
+2016-05-05 14:51:38 - Light_Outdoor_Terrace received command OFF
+2016-05-05 14:51:38 - Light_Outdoor_Frontdoor received command OFF
+2016-05-05 14:51:41 - Lights received command OFF
+2016-05-05 14:51:41 - Light_GF_Living_Table received command OFF
+2016-05-05 14:51:41 - Light_GF_Corridor_Ceiling received command OFF
+2016-05-05 14:51:41 - Light_GF_Kitchen_Ceiling received command OFF
+2016-05-05 14:51:41 - Light_GF_Kitchen_Table received command OFF
+2016-05-05 14:51:41 - Light_GF_Corridor_Wardrobe received command OFF
+2016-05-05 14:51:41 - Light_GF_Toilet_Ceiling received command OFF
+2016-05-05 14:51:41 - Light_GF_Toilet_Mirror received command OFF
+2016-05-05 14:51:41 - Light_FF_Bath_Ceiling received command OFF
+2016-05-05 14:51:41 - Light_FF_Bath_Mirror received command OFF
+2016-05-05 14:51:41 - Light_FF_Corridor_Ceiling received command OFF
+2016-05-05 14:51:41 - Light_FF_Office_Ceiling received command OFF
+2016-05-05 14:51:41 - Light_FF_Child_Ceiling received command OFF
+2016-05-05 14:51:41 - Light_FF_Bed_Ceiling received command OFF
+2016-05-05 14:51:41 - Light_C_Corridor_Ceiling received command OFF
+2016-05-05 14:51:41 - Light_C_Staircase received command OFF
+2016-05-05 14:51:41 - Light_C_Washing_Ceiling received command OFF
+2016-05-05 14:51:41 - Light_C_Workshop received command OFF
+2016-05-05 14:51:41 - Light_Outdoor_Garage received command OFF
+2016-05-05 14:51:41 - Light_Outdoor_Terrace received command OFF
+2016-05-05 14:51:41 - Light_Outdoor_Frontdoor received command OFF
+2016-05-05 14:55:00 - Temperature_GF_Corridor state updated to 18.90000000
+2016-05-05 14:55:00 - Temperature_GF_Toilet state updated to 19.00000000
+2016-05-05 14:55:00 - Temperature_GF_Living state updated to 18.50000000
+2016-05-05 14:55:00 - Temperature_GF_Kitchen state updated to 18.30000000
+2016-05-05 14:55:00 - Temperature_FF_Bath state updated to 20.10000000
+2016-05-05 14:55:00 - Temperature_FF_Office state updated to 21.40000000
+2016-05-05 14:55:00 - Temperature_FF_Child state updated to 18.00000000
+2016-05-05 14:55:00 - Temperature_FF_Bed state updated to 18.90000000
+2016-05-05 14:55:25 - Light_GF_Corridor_Ceiling received command ON
+2016-05-05 14:55:35 - Light_GF_Corridor_Ceiling received command OFF
+2016-05-05 14:57:12 - Light_GF_Corridor_Ceiling received command ON
+2016-05-05 14:57:19 - Light_GF_Corridor_Ceiling received command OFF
+2016-05-05 14:57:34 - Light_GF_Corridor_Wardrobe received command ON
+2016-05-05 14:58:49 - Light_GF_Corridor_Wardrobe received command OFF
+2016-05-05 14:58:51 - Light_GF_Corridor_Wardrobe received command ON
+2016-05-05 14:58:53 - Light_GF_Corridor_Ceiling received command ON
+2016-05-05 14:59:03 - Light_GF_Corridor_Ceiling received command OFF
+2016-05-05 15:00:00 - Temperature_GF_Corridor state updated to 20.10000000
+2016-05-05 15:00:00 - Temperature_GF_Toilet state updated to 17.60000000
+2016-05-05 15:00:00 - Temperature_GF_Living state updated to 17.80000000
+2016-05-05 15:00:00 - Temperature_GF_Kitchen state updated to 18.60000000
+2016-05-05 15:00:00 - Temperature_FF_Bath state updated to 20.30000000
+2016-05-05 15:00:00 - Temperature_FF_Office state updated to 19.20000000
+2016-05-05 15:00:00 - Temperature_FF_Child state updated to 19.00000000
+2016-05-05 15:00:00 - Temperature_FF_Bed state updated to 17.70000000
+2016-05-05 15:00:05 - Light_GF_Kitchen_Ceiling received command ON
+2016-05-05 15:02:35 - Light_GF_Corridor_Ceiling received command ON
+2016-05-05 15:02:35 - Light_GF_Kitchen_Table received command ON
+2016-05-05 15:02:36 - Light_GF_Kitchen_Table received command ON
+2016-05-05 15:02:37 - Light_GF_Kitchen_Table received command ON
+2016-05-05 15:02:38 - Light_GF_Toilet_Ceiling received command ON
+2016-05-05 15:02:38 - Light_GF_Toilet_Ceiling received command OFF
+2016-05-05 15:02:40 - Light_GF_Toilet_Mirror received command ON
+2016-05-05 15:02:40 - Light_FF_Bath_Ceiling received command ON
+2016-05-05 15:02:41 - Light_FF_Bath_Mirror received command ON
+2016-05-05 15:02:43 - Light_FF_Corridor_Ceiling received command ON
+2016-05-05 15:02:43 - Light_FF_Office_Ceiling received command ON
+2016-05-05 15:02:44 - Light_FF_Office_Ceiling received command OFF
+2016-05-05 15:02:45 - Light_FF_Office_Ceiling received command ON
+2016-05-05 15:02:45 - Light_GF_Corridor_Ceiling received command OFF
+2016-05-05 15:02:45 - Light_FF_Child_Ceiling received command ON
+2016-05-05 15:02:47 - Light_FF_Bed_Ceiling received command ON
+2016-05-05 15:02:47 - Light_C_Corridor_Ceiling received command ON
+2016-05-05 15:02:49 - Light_C_Staircase received command ON
+2016-05-05 15:02:50 - Light_C_Washing_Ceiling received command ON
+2016-05-05 15:02:50 - Light_C_Workshop received command ON
+2016-05-05 15:02:52 - Light_Outdoor_Garage received command ON
+2016-05-05 15:02:53 - Light_Outdoor_Terrace received command ON
+2016-05-05 15:02:53 - Light_Outdoor_Frontdoor received command ON
+2016-05-05 15:02:57 - Light_GF_Corridor_Ceiling received command ON
+2016-05-05 15:02:59 - Light_GF_Toilet_Ceiling received command ON
+2016-05-05 15:03:07 - Light_GF_Corridor_Ceiling received command OFF
+2016-05-05 15:04:55 - Light_GF_Living_Table received command 100
+2016-05-05 15:04:57 - Light_GF_Living_Table received command 50
+2016-05-05 15:04:59 - Light_GF_Living_Table received command 25
+2016-05-05 15:05:00 - Temperature_GF_Corridor state updated to 20.00000000
+2016-05-05 15:05:00 - Temperature_GF_Toilet state updated to 21.80000000
+2016-05-05 15:05:00 - Temperature_GF_Living state updated to 22.40000000
+2016-05-05 15:05:00 - Temperature_GF_Kitchen state updated to 21.90000000
+2016-05-05 15:05:00 - Temperature_FF_Bath state updated to 18.20000000
+2016-05-05 15:05:00 - Temperature_FF_Office state updated to 20.90000000
+2016-05-05 15:05:00 - Temperature_FF_Child state updated to 20.40000000
+2016-05-05 15:05:00 - Temperature_FF_Bed state updated to 21.00000000
+2016-05-05 15:05:01 - Light_GF_Living_Table received command 0
+2016-05-05 15:08:26 - Light_GF_Kitchen_Ceiling received command OFF
+2016-05-05 15:08:28 - Light_GF_Kitchen_Ceiling received command ON
+2016-05-05 15:10:00 - Temperature_GF_Corridor state updated to 21.80000000
+2016-05-05 15:10:00 - Temperature_GF_Toilet state updated to 22.50000000
+2016-05-05 15:10:00 - Temperature_GF_Living state updated to 17.90000000
+2016-05-05 15:10:00 - Temperature_GF_Kitchen state updated to 20.30000000
+2016-05-05 15:10:00 - Temperature_FF_Bath state updated to 20.00000000
+2016-05-05 15:10:00 - Temperature_FF_Office state updated to 20.80000000
+2016-05-05 15:10:00 - Temperature_FF_Child state updated to 19.70000000
+2016-05-05 15:10:00 - Temperature_FF_Bed state updated to 17.80000000
+2016-05-05 15:10:48 - Light_GF_Living_Ceiling received command ON
+2016-05-05 15:10:53 - Light_GF_Living_Ceiling received command OFF
+2016-05-05 15:11:14 - Light_GF_Living_Ceiling received command ON
+2016-05-05 15:11:15 - Light_GF_Living_Ceiling received command OFF
+2016-05-05 15:11:23 - Light_GF_Living_Ceiling received command ON
+2016-05-05 15:11:31 - Light_GF_Living_Ceiling received command OFF
+2016-05-05 15:11:33 - Light_GF_Living_Ceiling received command ON
+2016-05-05 15:11:42 - Light_GF_Corridor_Ceiling received command ON
+2016-05-05 15:11:43 - Light_GF_Corridor_Ceiling received command OFF
+2016-05-05 15:11:44 - Light_GF_Corridor_Wardrobe received command ON
+2016-05-05 15:11:45 - Light_GF_Corridor_Wardrobe received command OFF
+2016-05-05 15:11:45 - Light_GF_Corridor_Ceiling received command ON
+2016-05-05 15:11:46 - Light_GF_Corridor_Ceiling received command OFF
+2016-05-05 15:11:47 - Light_GF_Kitchen_Table received command ON
+2016-05-05 15:11:48 - Light_GF_Kitchen_Table received command OFF
+2016-05-05 15:12:00 - Light_GF_Living_Ceiling received command OFF
+2016-05-05 15:12:09 - Light_GF_Corridor_Wardrobe received command ON
+2016-05-05 15:12:11 - Light_GF_Corridor_Ceiling received command ON
+2016-05-05 15:12:13 - Lights received command OFF
+2016-05-05 15:12:13 - Light_GF_Living_Table received command OFF
+2016-05-05 15:12:13 - Light_GF_Living_Ceiling received command OFF
+2016-05-05 15:12:13 - Light_GF_Corridor_Ceiling received command OFF
+2016-05-05 15:12:13 - Light_GF_Kitchen_Ceiling received command OFF
+2016-05-05 15:12:13 - Light_GF_Kitchen_Table received command OFF
+2016-05-05 15:12:13 - Light_GF_Corridor_Wardrobe received command OFF
+2016-05-05 15:12:13 - Light_GF_Toilet_Ceiling received command OFF
+2016-05-05 15:12:13 - Light_GF_Toilet_Mirror received command OFF
+2016-05-05 15:12:13 - Light_FF_Bath_Ceiling received command OFF
+2016-05-05 15:12:13 - Light_FF_Bath_Mirror received command OFF
+2016-05-05 15:12:13 - Light_FF_Corridor_Ceiling received command OFF
+2016-05-05 15:12:13 - Light_FF_Office_Ceiling received command OFF
+2016-05-05 15:12:13 - Light_FF_Child_Ceiling received command OFF
+2016-05-05 15:12:13 - Light_FF_Bed_Ceiling received command OFF
+2016-05-05 15:12:13 - Light_C_Corridor_Ceiling received command OFF
+2016-05-05 15:12:13 - Light_C_Staircase received command OFF
+2016-05-05 15:12:13 - Light_C_Washing_Ceiling received command OFF
+2016-05-05 15:12:13 - Light_C_Workshop received command OFF
+2016-05-05 15:12:13 - Light_Outdoor_Garage received command OFF
+2016-05-05 15:12:13 - Light_Outdoor_Terrace received command OFF
+2016-05-05 15:12:13 - Light_Outdoor_Frontdoor received command OFF
+2016-05-05 15:12:31 - Light_GF_Living_Ceiling received command ON
+2016-05-05 15:13:38 - Light_GF_Living_Ceiling received command ON
+2016-05-05 15:13:46 - Light_GF_Living_Ceiling received command OFF
+2016-05-05 15:14:32 - Light_GF_Corridor_Wardrobe received command ON
+2016-05-05 15:14:35 - Light_GF_Corridor_Wardrobe received command OFF
+2016-05-05 15:14:37 - Light_GF_Living_Table state updated to OFF
+2016-05-05 15:14:37 - Light_GF_Living_Ceiling state updated to OFF
+2016-05-05 15:14:37 - Light_GF_Corridor_Ceiling state updated to ON
+2016-05-05 15:14:37 - Light_GF_Kitchen_Ceiling state updated to OFF
+2016-05-05 15:14:37 - Light_GF_Kitchen_Table state updated to OFF
+2016-05-05 15:14:37 - Light_GF_Corridor_Wardrobe state updated to OFF
+2016-05-05 15:14:37 - Light_GF_Toilet_Ceiling state updated to OFF
+2016-05-05 15:14:37 - Light_GF_Toilet_Mirror state updated to OFF
+2016-05-05 15:14:37 - Light_FF_Bath_Ceiling state updated to OFF
+2016-05-05 15:14:37 - Light_FF_Bath_Mirror state updated to OFF
+2016-05-05 15:14:37 - Light_FF_Corridor_Ceiling state updated to ON
+2016-05-05 15:14:37 - Light_FF_Office_Ceiling state updated to OFF
+2016-05-05 15:14:37 - Light_FF_Child_Ceiling state updated to OFF
+2016-05-05 15:14:37 - Light_FF_Bed_Ceiling state updated to OFF
+2016-05-05 15:14:37 - Light_C_Corridor_Ceiling state updated to OFF
+2016-05-05 15:14:37 - Light_C_Staircase state updated to ON
+2016-05-05 15:14:37 - Light_C_Washing_Ceiling state updated to OFF
+2016-05-05 15:14:37 - Light_C_Workshop state updated to OFF
+2016-05-05 15:14:37 - Light_Outdoor_Garage state updated to OFF
+2016-05-05 15:14:37 - Light_Outdoor_Terrace state updated to ON
+2016-05-05 15:14:37 - Light_Outdoor_Frontdoor state updated to OFF
+2016-05-05 15:14:37 - Heating_GF_Corridor state updated to OFF
+2016-05-05 15:14:37 - Heating_GF_Toilet state updated to ON
+2016-05-05 15:14:37 - Heating_GF_Living state updated to OFF
+2016-05-05 15:14:37 - Heating_GF_Kitchen state updated to OFF
+2016-05-05 15:14:37 - Heating_FF_Bath state updated to OFF
+2016-05-05 15:14:37 - Heating_FF_Office state updated to OFF
+2016-05-05 15:14:38 - Heating_FF_Child state updated to OFF
+2016-05-05 15:14:38 - Heating_FF_Bed state updated to OFF
+2016-05-05 15:14:38 - Temperature_Setpoint state updated to 22
+2016-05-05 15:14:38 - Window_GF_Frontdoor state updated to CLOSED
+2016-05-05 15:14:38 - Window_GF_Kitchen state updated to OPEN
+2016-05-05 15:14:38 - Window_GF_Living state updated to OPEN
+2016-05-05 15:14:38 - Window_GF_Toilet state updated to OPEN
+2016-05-05 15:14:38 - Window_FF_Bath state updated to OPEN
+2016-05-05 15:14:38 - Window_FF_Bed state updated to OPEN
+2016-05-05 15:14:38 - Window_FF_Office_Window state updated to CLOSED
+2016-05-05 15:14:38 - Window_FF_Office_Door state updated to OPEN
+2016-05-05 15:14:38 - Garage_Door state updated to OPEN
+2016-05-05 15:14:38 - Temperature_GF_Corridor state updated to 19.10000000
+2016-05-05 15:14:38 - Temperature_GF_Toilet state updated to 21.90000000
+2016-05-05 15:14:38 - Temperature_GF_Living state updated to 17.60000000
+2016-05-05 15:14:38 - Temperature_GF_Kitchen state updated to 21.50000000
+2016-05-05 15:14:38 - Temperature_FF_Bath state updated to 20.90000000
+2016-05-05 15:14:38 - Temperature_FF_Office state updated to 21.20000000
+2016-05-05 15:14:38 - Temperature_FF_Child state updated to 22.10000000
+2016-05-05 15:14:38 - Temperature_FF_Bed state updated to 20.10000000
+2016-05-05 15:14:54 - Weather_Temp_Max state updated to 2
+2016-05-05 15:14:54 - Weather_LastUpdate state updated to 2016-05-05T15:14:54
+2016-05-05 15:14:55 - Weather_Temp_Min state updated to 2
+2016-05-05 15:14:58 - Light_GF_Living_Ceiling received command ON
+2016-05-05 15:15:00 - Temperature_GF_Corridor state updated to 19.60000000
+2016-05-05 15:15:00 - Temperature_GF_Toilet state updated to 18.50000000
+2016-05-05 15:15:00 - Temperature_GF_Living state updated to 19.90000000
+2016-05-05 15:15:00 - Temperature_GF_Kitchen state updated to 19.80000000
+2016-05-05 15:15:00 - Temperature_FF_Bath state updated to 20.30000000
+2016-05-05 15:15:00 - Temperature_FF_Office state updated to 22.00000000
+2016-05-05 15:15:00 - Temperature_FF_Child state updated to 18.30000000
+2016-05-05 15:15:00 - Light_GF_Living_Ceiling received command OFF
+2016-05-05 15:15:00 - Temperature_FF_Bed state updated to 18.30000000
+2016-05-05 15:15:10 - Light_GF_Corridor_Wardrobe received command ON
+2016-05-05 15:16:20 - Light_GF_Living_Ceiling received command ON
+2016-05-05 15:17:26 - Light_GF_Corridor_Wardrobe received command OFF
+2016-05-05 15:17:28 - Light_GF_Corridor_Wardrobe received command ON
+2016-05-05 15:19:07 - Light_GF_Living_Ceiling received command OFF
+2016-05-05 15:19:35 - Light_GF_Living_Table received command ON
+2016-05-05 15:19:36 - Light_GF_Living_Table received command OFF
+2016-05-05 15:20:00 - Temperature_GF_Corridor state updated to 19.50000000
+2016-05-05 15:20:00 - Temperature_GF_Toilet state updated to 22.00000000
+2016-05-05 15:20:00 - Temperature_GF_Living state updated to 22.30000000
+2016-05-05 15:20:00 - Temperature_GF_Kitchen state updated to 18.60000000
+2016-05-05 15:20:00 - Temperature_FF_Bath state updated to 20.30000000
+2016-05-05 15:20:00 - Temperature_FF_Office state updated to 18.30000000
+2016-05-05 15:20:00 - Temperature_FF_Child state updated to 20.80000000
+2016-05-05 15:20:00 - Temperature_FF_Bed state updated to 21.50000000
+2016-05-05 15:24:55 - Light_GF_Living_Table received command ON
+2016-05-05 15:24:56 - Light_GF_Living_Table received command OFF
+2016-05-05 15:25:00 - Temperature_GF_Corridor state updated to 20.90000000
+2016-05-05 15:25:00 - Temperature_GF_Toilet state updated to 20.50000000
+2016-05-05 15:25:00 - Temperature_GF_Living state updated to 18.30000000
+2016-05-05 15:25:00 - Temperature_GF_Kitchen state updated to 22.40000000
+2016-05-05 15:25:00 - Temperature_FF_Bath state updated to 18.00000000
+2016-05-05 15:25:00 - Temperature_FF_Office state updated to 20.90000000
+2016-05-05 15:25:00 - Temperature_FF_Child state updated to 18.90000000
+2016-05-05 15:25:00 - Temperature_FF_Bed state updated to 22.50000000
+2016-05-05 15:26:39 - Light_GF_Living_Table received command INCREASE
+2016-05-05 15:26:39 - Light_GF_Living_Table received command INCREASE
+2016-05-05 15:26:39 - Light_GF_Living_Table received command INCREASE
+2016-05-05 15:26:40 - Light_GF_Living_Table received command INCREASE
+2016-05-05 15:26:40 - Light_GF_Living_Table received command INCREASE
+2016-05-05 15:26:41 - Light_GF_Living_Table received command DECREASE
+2016-05-05 15:26:42 - Light_GF_Living_Table received command DECREASE
+2016-05-05 15:26:43 - Light_GF_Living_Table received command INCREASE
+2016-05-05 15:26:43 - Light_GF_Living_Table received command INCREASE
+2016-05-05 15:26:44 - Light_GF_Living_Table received command DECREASE
+2016-05-05 15:26:44 - Light_GF_Living_Table received command DECREASE
+2016-05-05 15:30:00 - Temperature_GF_Corridor state updated to 19.30000000
+2016-05-05 15:30:00 - Temperature_GF_Toilet state updated to 18.60000000
+2016-05-05 15:30:00 - Temperature_GF_Living state updated to 19.60000000
+2016-05-05 15:30:00 - Temperature_GF_Kitchen state updated to 19.10000000
+2016-05-05 15:30:00 - Temperature_FF_Bath state updated to 20.40000000
+2016-05-05 15:30:00 - Temperature_FF_Office state updated to 22.30000000
+2016-05-05 15:30:00 - Temperature_FF_Child state updated to 21.60000000
+2016-05-05 15:30:00 - Temperature_FF_Bed state updated to 18.50000000
+2016-05-05 15:35:00 - Temperature_GF_Corridor state updated to 19.10000000
+2016-05-05 15:35:00 - Temperature_GF_Toilet state updated to 20.50000000
+2016-05-05 15:35:00 - Temperature_GF_Living state updated to 22.10000000
+2016-05-05 15:35:00 - Temperature_GF_Kitchen state updated to 18.40000000
+2016-05-05 15:35:00 - Temperature_FF_Bath state updated to 19.80000000
+2016-05-05 15:35:00 - Temperature_FF_Office state updated to 20.10000000
+2016-05-05 15:35:00 - Temperature_FF_Child state updated to 21.10000000
+2016-05-05 15:35:00 - Temperature_FF_Bed state updated to 20.90000000
+2016-05-05 15:37:45 - Light_GF_Kitchen_Ceiling received command ON
+2016-05-05 15:37:47 - Light_GF_Kitchen_Ceiling received command OFF
+2016-05-05 15:37:48 - Light_GF_Kitchen_Table received command ON
+2016-05-05 15:37:49 - Light_GF_Living_Ceiling received command ON
+2016-05-05 15:38:01 - Light_GF_Living_Ceiling received command OFF
+2016-05-05 15:38:02 - Light_GF_Kitchen_Table received command OFF
+2016-05-05 15:38:03 - Light_GF_Kitchen_Ceiling received command ON
+2016-05-05 15:40:00 - Temperature_GF_Corridor state updated to 20.40000000
+2016-05-05 15:40:00 - Temperature_GF_Toilet state updated to 17.70000000
+2016-05-05 15:40:00 - Temperature_GF_Living state updated to 20.90000000
+2016-05-05 15:40:00 - Temperature_GF_Kitchen state updated to 20.00000000
+2016-05-05 15:40:00 - Temperature_FF_Bath state updated to 21.00000000
+2016-05-05 15:40:00 - Temperature_FF_Office state updated to 18.80000000
+2016-05-05 15:40:00 - Temperature_FF_Child state updated to 18.10000000
+2016-05-05 15:40:00 - Temperature_FF_Bed state updated to 18.40000000
+2016-05-05 15:41:46 - Light_GF_Living_Table received command OFF
+2016-05-05 15:41:46 - Light_GF_Living_Ceiling received command OFF
+2016-05-05 15:41:46 - Light_GF_Corridor_Ceiling received command OFF
+2016-05-05 15:41:46 - Light_GF_Kitchen_Ceiling received command OFF
+2016-05-05 15:41:46 - Light_GF_Kitchen_Table received command OFF
+2016-05-05 15:41:46 - Light_GF_Corridor_Wardrobe received command OFF
+2016-05-05 15:41:46 - Light_GF_Toilet_Ceiling received command OFF
+2016-05-05 15:41:46 - Light_GF_Toilet_Mirror received command OFF
+2016-05-05 15:41:46 - Light_FF_Bath_Ceiling received command OFF
+2016-05-05 15:41:46 - Light_FF_Bath_Mirror received command OFF
+2016-05-05 15:41:46 - Light_FF_Corridor_Ceiling received command OFF
+2016-05-05 15:41:46 - Light_FF_Office_Ceiling received command OFF
+2016-05-05 15:41:46 - Light_FF_Child_Ceiling received command OFF
+2016-05-05 15:41:46 - Light_FF_Bed_Ceiling received command OFF
+2016-05-05 15:41:46 - Light_C_Corridor_Ceiling received command OFF
+2016-05-05 15:41:46 - Light_C_Staircase received command OFF
+2016-05-05 15:41:46 - Light_C_Washing_Ceiling received command OFF
+2016-05-05 15:41:46 - Light_C_Workshop received command OFF
+2016-05-05 15:41:46 - Light_Outdoor_Garage received command OFF
+2016-05-05 15:41:46 - Light_Outdoor_Terrace received command OFF
+2016-05-05 15:41:46 - Light_Outdoor_Frontdoor received command OFF
+2016-05-05 15:41:46 - Lights received command OFF
+2016-05-05 15:41:47 - Light_GF_Corridor_Ceiling received command ON
+2016-05-05 15:41:49 - Light_GF_Living_Table received command OFF
+2016-05-05 15:41:49 - Light_GF_Living_Ceiling received command OFF
+2016-05-05 15:41:49 - Light_GF_Corridor_Ceiling received command OFF
+2016-05-05 15:41:49 - Light_GF_Kitchen_Ceiling received command OFF
+2016-05-05 15:41:49 - Light_GF_Kitchen_Table received command OFF
+2016-05-05 15:41:49 - Light_GF_Corridor_Wardrobe received command OFF
+2016-05-05 15:41:49 - Light_GF_Toilet_Ceiling received command OFF
+2016-05-05 15:41:49 - Light_GF_Toilet_Mirror received command OFF
+2016-05-05 15:41:49 - Light_FF_Bath_Ceiling received command OFF
+2016-05-05 15:41:49 - Light_FF_Bath_Mirror received command OFF
+2016-05-05 15:41:49 - Light_FF_Corridor_Ceiling received command OFF
+2016-05-05 15:41:49 - Light_FF_Office_Ceiling received command OFF
+2016-05-05 15:41:49 - Light_FF_Child_Ceiling received command OFF
+2016-05-05 15:41:49 - Light_FF_Bed_Ceiling received command OFF
+2016-05-05 15:41:49 - Light_C_Corridor_Ceiling received command OFF
+2016-05-05 15:41:49 - Light_C_Staircase received command OFF
+2016-05-05 15:41:49 - Light_C_Washing_Ceiling received command OFF
+2016-05-05 15:41:49 - Light_C_Workshop received command OFF
+2016-05-05 15:41:49 - Light_Outdoor_Garage received command OFF
+2016-05-05 15:41:49 - Light_Outdoor_Terrace received command OFF
+2016-05-05 15:41:49 - Light_Outdoor_Frontdoor received command OFF
+2016-05-05 15:41:49 - Lights received command OFF
+2016-05-05 15:41:51 - Light_GF_Living_Table received command OFF
+2016-05-05 15:41:51 - Light_GF_Living_Ceiling received command OFF
+2016-05-05 15:41:51 - Light_GF_Corridor_Ceiling received command OFF
+2016-05-05 15:41:51 - Light_GF_Kitchen_Ceiling received command OFF
+2016-05-05 15:41:51 - Light_GF_Kitchen_Table received command OFF
+2016-05-05 15:41:51 - Light_GF_Corridor_Wardrobe received command OFF
+2016-05-05 15:41:51 - Light_GF_Toilet_Ceiling received command OFF
+2016-05-05 15:41:51 - Light_GF_Toilet_Mirror received command OFF
+2016-05-05 15:41:51 - Light_FF_Bath_Ceiling received command OFF
+2016-05-05 15:41:51 - Light_FF_Bath_Mirror received command OFF
+2016-05-05 15:41:51 - Light_FF_Corridor_Ceiling received command OFF
+2016-05-05 15:41:51 - Light_FF_Office_Ceiling received command OFF
+2016-05-05 15:41:51 - Light_FF_Child_Ceiling received command OFF
+2016-05-05 15:41:51 - Light_FF_Bed_Ceiling received command OFF
+2016-05-05 15:41:51 - Light_C_Corridor_Ceiling received command OFF
+2016-05-05 15:41:51 - Light_C_Staircase received command OFF
+2016-05-05 15:41:51 - Light_C_Washing_Ceiling received command OFF
+2016-05-05 15:41:51 - Light_C_Workshop received command OFF
+2016-05-05 15:41:51 - Light_Outdoor_Garage received command OFF
+2016-05-05 15:41:51 - Light_Outdoor_Terrace received command OFF
+2016-05-05 15:41:51 - Light_Outdoor_Frontdoor received command OFF
+2016-05-05 15:41:51 - Lights received command OFF
+2016-05-05 15:41:53 - Light_GF_Corridor_Wardrobe received command ON
+2016-05-05 15:43:40 - Light_GF_Kitchen_Ceiling received command ON
+2016-05-05 15:43:43 - Light_GF_Corridor_Wardrobe received command OFF
+2016-05-05 15:43:44 - Light_GF_Kitchen_Ceiling received command ON
+2016-05-05 15:43:53 - Light_GF_Kitchen_Ceiling received command ON
+2016-05-05 15:43:55 - Light_GF_Kitchen_Ceiling received command ON
+2016-05-05 15:43:56 - Light_GF_Kitchen_Ceiling received command OFF
+2016-05-05 15:44:11 - Light_GF_Kitchen_Ceiling received command ON
+2016-05-05 15:44:16 - Light_GF_Kitchen_Ceiling received command ON
+2016-05-05 15:45:00 - Temperature_GF_Corridor state updated to 19.50000000
+2016-05-05 15:45:00 - Temperature_GF_Toilet state updated to 20.90000000
+2016-05-05 15:45:00 - Temperature_GF_Living state updated to 19.80000000
+2016-05-05 15:45:00 - Temperature_GF_Kitchen state updated to 20.40000000
+2016-05-05 15:45:00 - Temperature_FF_Bath state updated to 20.20000000
+2016-05-05 15:45:00 - Temperature_FF_Office state updated to 17.90000000
+2016-05-05 15:45:00 - Temperature_FF_Child state updated to 19.70000000
+2016-05-05 15:45:00 - Temperature_FF_Bed state updated to 20.60000000
+2016-05-05 15:50:00 - Temperature_GF_Corridor state updated to 17.90000000
+2016-05-05 15:50:00 - Temperature_GF_Toilet state updated to 21.70000000
+2016-05-05 15:50:00 - Temperature_GF_Living state updated to 21.90000000
+2016-05-05 15:50:00 - Temperature_GF_Kitchen state updated to 20.40000000
+2016-05-05 15:50:00 - Temperature_FF_Bath state updated to 18.50000000
+2016-05-05 15:50:00 - Temperature_FF_Office state updated to 17.90000000
+2016-05-05 15:50:00 - Temperature_FF_Child state updated to 20.70000000
+2016-05-05 15:50:00 - Temperature_FF_Bed state updated to 19.30000000
+2016-05-05 15:55:00 - Temperature_GF_Corridor state updated to 21.60000000
+2016-05-05 15:55:00 - Temperature_GF_Toilet state updated to 18.10000000
+2016-05-05 15:55:00 - Temperature_GF_Living state updated to 19.40000000
+2016-05-05 15:55:00 - Temperature_GF_Kitchen state updated to 18.80000000
+2016-05-05 15:55:00 - Temperature_FF_Bath state updated to 20.40000000
+2016-05-05 15:55:00 - Temperature_FF_Office state updated to 20.00000000
+2016-05-05 15:55:00 - Temperature_FF_Child state updated to 21.00000000
+2016-05-05 15:55:00 - Temperature_FF_Bed state updated to 22.30000000
+2016-05-05 15:55:09 - Light_GF_Living_Table received command DECREASE
+2016-05-05 15:55:09 - Light_GF_Living_Table received command DECREASE
+2016-05-05 15:55:10 - Light_GF_Living_Table received command DECREASE
+2016-05-05 15:55:10 - Light_GF_Living_Table received command DECREASE
+2016-05-05 15:55:10 - Light_GF_Living_Table received command DECREASE
+2016-05-05 15:55:10 - Light_GF_Living_Table received command DECREASE
+2016-05-05 15:55:10 - Light_GF_Living_Table received command DECREASE
+2016-05-05 15:55:12 - Light_GF_Living_Table received command OFF
+2016-05-05 15:55:12 - Light_GF_Living_Ceiling received command OFF
+2016-05-05 15:55:12 - Light_GF_Corridor_Ceiling received command OFF
+2016-05-05 15:55:12 - Light_GF_Kitchen_Ceiling received command OFF
+2016-05-05 15:55:12 - Light_GF_Kitchen_Table received command OFF
+2016-05-05 15:55:12 - Light_GF_Corridor_Wardrobe received command OFF
+2016-05-05 15:55:12 - Light_GF_Toilet_Ceiling received command OFF
+2016-05-05 15:55:12 - Light_GF_Toilet_Mirror received command OFF
+2016-05-05 15:55:12 - Light_FF_Bath_Ceiling received command OFF
+2016-05-05 15:55:12 - Light_FF_Bath_Mirror received command OFF
+2016-05-05 15:55:12 - Light_FF_Corridor_Ceiling received command OFF
+2016-05-05 15:55:12 - Light_FF_Office_Ceiling received command OFF
+2016-05-05 15:55:12 - Light_FF_Child_Ceiling received command OFF
+2016-05-05 15:55:12 - Light_FF_Bed_Ceiling received command OFF
+2016-05-05 15:55:12 - Light_C_Corridor_Ceiling received command OFF
+2016-05-05 15:55:12 - Light_C_Staircase received command OFF
+2016-05-05 15:55:12 - Light_C_Washing_Ceiling received command OFF
+2016-05-05 15:55:12 - Light_C_Workshop received command OFF
+2016-05-05 15:55:12 - Light_Outdoor_Garage received command OFF
+2016-05-05 15:55:12 - Light_Outdoor_Frontdoor received command OFF
+2016-05-05 15:55:12 - Lights received command OFF
+2016-05-05 15:55:15 - Light_GF_Corridor_Ceiling received command ON
+2016-05-05 15:55:17 - Light_GF_Corridor_Wardrobe received command ON
+2016-05-05 15:55:18 - Light_GF_Kitchen_Ceiling received command ON
+2016-05-05 15:55:19 - Light_GF_Kitchen_Table received command ON
+2016-05-05 15:55:25 - Light_GF_Corridor_Ceiling received command OFF
+2016-05-05 15:55:25 - Light_GF_Living_Ceiling received command ON
+2016-05-05 15:55:33 - Light_GF_Toilet_Ceiling received command ON
+2016-05-05 15:55:39 - Light_GF_Living_Table received command OFF
+2016-05-05 15:55:39 - Light_GF_Living_Ceiling received command OFF
+2016-05-05 15:55:39 - Light_GF_Corridor_Ceiling received command OFF
+2016-05-05 15:55:39 - Light_GF_Kitchen_Ceiling received command OFF
+2016-05-05 15:55:39 - Light_GF_Kitchen_Table received command OFF
+2016-05-05 15:55:39 - Light_GF_Corridor_Wardrobe received command OFF
+2016-05-05 15:55:39 - Light_GF_Toilet_Ceiling received command OFF
+2016-05-05 15:55:39 - Light_GF_Toilet_Mirror received command OFF
+2016-05-05 15:55:39 - Light_FF_Bath_Ceiling received command OFF
+2016-05-05 15:55:39 - Light_FF_Bath_Mirror received command OFF
+2016-05-05 15:55:39 - Light_FF_Corridor_Ceiling received command OFF
+2016-05-05 15:55:39 - Light_FF_Office_Ceiling received command OFF
+2016-05-05 15:55:39 - Light_FF_Child_Ceiling received command OFF
+2016-05-05 15:55:39 - Light_FF_Bed_Ceiling received command OFF
+2016-05-05 15:55:39 - Light_C_Corridor_Ceiling received command OFF
+2016-05-05 15:55:39 - Light_C_Staircase received command OFF
+2016-05-05 15:55:39 - Light_C_Washing_Ceiling received command OFF
+2016-05-05 15:55:39 - Light_C_Workshop received command OFF
+2016-05-05 15:55:40 - Light_Outdoor_Garage received command OFF
+2016-05-05 15:55:40 - Light_Outdoor_Frontdoor received command OFF
+2016-05-05 15:55:40 - Lights received command OFF
+2016-05-05 15:55:42 - Light_GF_Corridor_Ceiling received command ON
+2016-05-05 15:55:52 - Light_GF_Corridor_Ceiling received command OFF
+2016-05-05 15:56:03 - Light_GF_Living_Ceiling received command ON
+2016-05-05 15:56:33 - Light_GF_Toilet_Ceiling received command ON
+2016-05-05 15:56:34 - Light_GF_Living_Table received command OFF
+2016-05-05 15:56:34 - Light_GF_Living_Ceiling received command OFF
+2016-05-05 15:56:34 - Light_GF_Corridor_Ceiling received command OFF
+2016-05-05 15:56:34 - Light_GF_Kitchen_Ceiling received command OFF
+2016-05-05 15:56:34 - Light_GF_Kitchen_Table received command OFF
+2016-05-05 15:56:34 - Light_GF_Corridor_Wardrobe received command OFF
+2016-05-05 15:56:35 - Light_GF_Toilet_Ceiling received command OFF
+2016-05-05 15:56:35 - Light_GF_Toilet_Mirror received command OFF
+2016-05-05 15:56:35 - Light_FF_Bath_Ceiling received command OFF
+2016-05-05 15:56:35 - Light_FF_Bath_Mirror received command OFF
+2016-05-05 15:56:35 - Light_FF_Corridor_Ceiling received command OFF
+2016-05-05 15:56:35 - Light_FF_Office_Ceiling received command OFF
+2016-05-05 15:56:35 - Light_FF_Child_Ceiling received command OFF
+2016-05-05 15:56:35 - Light_FF_Bed_Ceiling received command OFF
+2016-05-05 15:56:35 - Light_C_Corridor_Ceiling received command OFF
+2016-05-05 15:56:35 - Light_C_Staircase received command OFF
+2016-05-05 15:56:35 - Light_C_Washing_Ceiling received command OFF
+2016-05-05 15:56:35 - Light_C_Workshop received command OFF
+2016-05-05 15:56:35 - Light_Outdoor_Garage received command OFF
+2016-05-05 15:56:35 - Light_Outdoor_Frontdoor received command OFF
+2016-05-05 15:56:35 - Lights received command OFF
+2016-05-05 15:56:38 - Light_GF_Corridor_Ceiling received command ON
+2016-05-05 15:56:48 - Light_GF_Corridor_Ceiling received command OFF
+2016-05-05 16:00:00 - Temperature_GF_Corridor state updated to 20.90000000
+2016-05-05 16:00:00 - Temperature_GF_Toilet state updated to 21.50000000
+2016-05-05 16:00:00 - Temperature_GF_Living state updated to 21.50000000
+2016-05-05 16:00:00 - Temperature_GF_Kitchen state updated to 17.70000000
+2016-05-05 16:00:00 - Temperature_FF_Bath state updated to 18.80000000
+2016-05-05 16:00:00 - Temperature_FF_Office state updated to 19.60000000
+2016-05-05 16:00:00 - Temperature_FF_Child state updated to 21.30000000
+2016-05-05 16:00:00 - Temperature_FF_Bed state updated to 19.30000000
+2016-05-05 16:04:51 - Light_GF_Corridor_Ceiling received command ON
+2016-05-05 16:05:00 - Temperature_GF_Corridor state updated to 20.20000000
+2016-05-05 16:05:00 - Temperature_GF_Toilet state updated to 19.70000000
+2016-05-05 16:05:00 - Temperature_GF_Living state updated to 21.40000000
+2016-05-05 16:05:00 - Temperature_GF_Kitchen state updated to 22.00000000
+2016-05-05 16:05:00 - Temperature_FF_Bath state updated to 18.60000000
+2016-05-05 16:05:00 - Temperature_FF_Office state updated to 19.40000000
+2016-05-05 16:05:00 - Temperature_FF_Child state updated to 19.10000000
+2016-05-05 16:05:00 - Temperature_FF_Bed state updated to 22.20000000
+2016-05-05 16:05:01 - Light_GF_Corridor_Ceiling received command OFF
+2016-05-05 16:05:12 - Light_GF_Kitchen_Ceiling received command ON
+2016-05-05 16:05:16 - Light_GF_Living_Table received command OFF
+2016-05-05 16:05:16 - Light_GF_Living_Ceiling received command OFF
+2016-05-05 16:05:16 - Light_GF_Corridor_Ceiling received command OFF
+2016-05-05 16:05:16 - Light_GF_Kitchen_Ceiling received command OFF
+2016-05-05 16:05:16 - Light_GF_Kitchen_Table received command OFF
+2016-05-05 16:05:16 - Light_GF_Corridor_Wardrobe received command OFF
+2016-05-05 16:05:16 - Light_GF_Toilet_Ceiling received command OFF
+2016-05-05 16:05:16 - Light_GF_Toilet_Mirror received command OFF
+2016-05-05 16:05:16 - Light_FF_Bath_Ceiling received command OFF
+2016-05-05 16:05:16 - Light_FF_Bath_Mirror received command OFF
+2016-05-05 16:05:16 - Light_FF_Corridor_Ceiling received command OFF
+2016-05-05 16:05:16 - Light_FF_Office_Ceiling received command OFF
+2016-05-05 16:05:16 - Light_FF_Child_Ceiling received command OFF
+2016-05-05 16:05:16 - Light_FF_Bed_Ceiling received command OFF
+2016-05-05 16:05:16 - Light_C_Corridor_Ceiling received command OFF
+2016-05-05 16:05:16 - Light_C_Staircase received command OFF
+2016-05-05 16:05:16 - Light_C_Washing_Ceiling received command OFF
+2016-05-05 16:05:16 - Light_C_Workshop received command OFF
+2016-05-05 16:05:16 - Light_Outdoor_Garage received command OFF
+2016-05-05 16:05:16 - Light_Outdoor_Frontdoor received command OFF
+2016-05-05 16:05:16 - Lights received command OFF
+2016-05-05 16:05:18 - Light_GF_Corridor_Ceiling received command ON
+2016-05-05 16:05:28 - Light_GF_Corridor_Ceiling received command OFF
+2016-05-05 16:10:00 - Temperature_GF_Corridor state updated to 22.40000000
+2016-05-05 16:10:00 - Temperature_GF_Toilet state updated to 19.00000000
+2016-05-05 16:10:00 - Temperature_GF_Living state updated to 18.30000000
+2016-05-05 16:10:00 - Temperature_GF_Kitchen state updated to 20.50000000
+2016-05-05 16:10:00 - Temperature_FF_Bath state updated to 18.40000000
+2016-05-05 16:10:00 - Temperature_FF_Office state updated to 17.70000000
+2016-05-05 16:10:00 - Temperature_FF_Child state updated to 19.00000000
+2016-05-05 16:10:00 - Temperature_FF_Bed state updated to 21.30000000
+2016-05-05 16:15:00 - Temperature_GF_Corridor state updated to 17.90000000
+2016-05-05 16:15:00 - Temperature_GF_Toilet state updated to 20.10000000
+2016-05-05 16:15:00 - Temperature_GF_Living state updated to 18.50000000
+2016-05-05 16:15:00 - Temperature_GF_Kitchen state updated to 20.50000000
+2016-05-05 16:15:00 - Temperature_FF_Bath state updated to 20.50000000
+2016-05-05 16:15:00 - Temperature_FF_Office state updated to 18.10000000
+2016-05-05 16:15:00 - Temperature_FF_Child state updated to 21.70000000
+2016-05-05 16:15:00 - Temperature_FF_Bed state updated to 18.50000000
+2016-05-05 16:20:00 - Temperature_GF_Corridor state updated to 20.30000000
+2016-05-05 16:20:00 - Temperature_GF_Toilet state updated to 19.90000000
+2016-05-05 16:20:00 - Temperature_GF_Living state updated to 18.20000000
+2016-05-05 16:20:00 - Temperature_GF_Kitchen state updated to 18.80000000
+2016-05-05 16:20:00 - Temperature_FF_Bath state updated to 20.00000000
+2016-05-05 16:20:00 - Temperature_FF_Office state updated to 19.00000000
+2016-05-05 16:20:00 - Temperature_FF_Child state updated to 22.40000000
+2016-05-05 16:20:00 - Temperature_FF_Bed state updated to 20.40000000
+2016-05-05 16:25:00 - Temperature_GF_Corridor state updated to 18.30000000
+2016-05-05 16:25:00 - Temperature_GF_Toilet state updated to 20.60000000
+2016-05-05 16:25:00 - Temperature_GF_Living state updated to 20.10000000
+2016-05-05 16:25:00 - Temperature_GF_Kitchen state updated to 19.10000000
+2016-05-05 16:25:00 - Temperature_FF_Bath state updated to 20.70000000
+2016-05-05 16:25:00 - Temperature_FF_Office state updated to 18.30000000
+2016-05-05 16:25:00 - Temperature_FF_Child state updated to 21.80000000
+2016-05-05 16:25:00 - Temperature_FF_Bed state updated to 20.00000000
+2016-05-05 16:30:00 - Temperature_GF_Corridor state updated to 21.30000000
+2016-05-05 16:30:00 - Temperature_GF_Toilet state updated to 20.80000000
+2016-05-05 16:30:00 - Temperature_GF_Living state updated to 19.50000000
+2016-05-05 16:30:00 - Temperature_GF_Kitchen state updated to 21.80000000
+2016-05-05 16:30:00 - Temperature_FF_Bath state updated to 22.30000000
+2016-05-05 16:30:00 - Temperature_FF_Office state updated to 21.10000000
+2016-05-05 16:30:00 - Temperature_FF_Child state updated to 18.00000000
+2016-05-05 16:30:00 - Temperature_FF_Bed state updated to 17.80000000
+2016-05-05 16:35:00 - Temperature_GF_Corridor state updated to 21.00000000
+2016-05-05 16:35:00 - Temperature_GF_Toilet state updated to 17.80000000
+2016-05-05 16:35:00 - Temperature_GF_Living state updated to 18.10000000
+2016-05-05 16:35:00 - Temperature_GF_Kitchen state updated to 18.30000000
+2016-05-05 16:35:00 - Temperature_FF_Bath state updated to 18.80000000
+2016-05-05 16:35:00 - Temperature_FF_Office state updated to 21.20000000
+2016-05-05 16:35:00 - Temperature_FF_Child state updated to 18.50000000
+2016-05-05 16:35:00 - Temperature_FF_Bed state updated to 18.50000000
+2016-05-05 16:40:00 - Temperature_GF_Corridor state updated to 20.70000000
+2016-05-05 16:40:00 - Temperature_GF_Toilet state updated to 17.80000000
+2016-05-05 16:40:00 - Temperature_GF_Living state updated to 19.50000000
+2016-05-05 16:40:00 - Temperature_GF_Kitchen state updated to 18.20000000
+2016-05-05 16:40:00 - Temperature_FF_Bath state updated to 18.60000000
+2016-05-05 16:40:00 - Temperature_FF_Office state updated to 20.50000000
+2016-05-05 16:40:00 - Temperature_FF_Child state updated to 19.40000000
+2016-05-05 16:40:00 - Temperature_FF_Bed state updated to 21.30000000
+2016-05-05 16:45:00 - Temperature_GF_Corridor state updated to 20.50000000
+2016-05-05 16:45:00 - Temperature_GF_Toilet state updated to 21.60000000
+2016-05-05 16:45:00 - Temperature_GF_Living state updated to 17.60000000
+2016-05-05 16:45:00 - Temperature_GF_Kitchen state updated to 18.50000000
+2016-05-05 16:45:00 - Temperature_FF_Bath state updated to 20.70000000
+2016-05-05 16:45:00 - Temperature_FF_Office state updated to 19.30000000
+2016-05-05 16:45:00 - Temperature_FF_Child state updated to 18.10000000
+2016-05-05 16:45:00 - Temperature_FF_Bed state updated to 17.70000000
+2016-05-05 16:50:00 - Temperature_GF_Corridor state updated to 21.60000000
+2016-05-05 16:50:00 - Temperature_GF_Toilet state updated to 18.60000000
+2016-05-05 16:50:00 - Temperature_GF_Living state updated to 18.30000000
+2016-05-05 16:50:00 - Temperature_GF_Kitchen state updated to 17.70000000
+2016-05-05 16:50:00 - Temperature_FF_Bath state updated to 19.00000000
+2016-05-05 16:50:00 - Temperature_FF_Office state updated to 19.60000000
+2016-05-05 16:50:00 - Temperature_FF_Child state updated to 18.80000000
+2016-05-05 16:50:00 - Temperature_FF_Bed state updated to 22.20000000
+2016-05-05 16:55:00 - Temperature_GF_Corridor state updated to 18.60000000
+2016-05-05 16:55:00 - Temperature_GF_Toilet state updated to 21.00000000
+2016-05-05 16:55:00 - Temperature_GF_Living state updated to 19.00000000
+2016-05-05 16:55:00 - Temperature_GF_Kitchen state updated to 18.70000000
+2016-05-05 16:55:00 - Temperature_FF_Bath state updated to 21.20000000
+2016-05-05 16:55:00 - Temperature_FF_Office state updated to 21.60000000
+2016-05-05 16:55:00 - Temperature_FF_Child state updated to 20.50000000
+2016-05-05 16:55:00 - Temperature_FF_Bed state updated to 22.00000000
+2016-05-05 17:00:00 - Temperature_GF_Corridor state updated to 18.30000000
+2016-05-05 17:00:00 - Temperature_GF_Toilet state updated to 21.50000000
+2016-05-05 17:00:00 - Temperature_GF_Living state updated to 18.60000000
+2016-05-05 17:00:00 - Temperature_GF_Kitchen state updated to 22.00000000
+2016-05-05 17:00:00 - Temperature_FF_Bath state updated to 18.00000000
+2016-05-05 17:00:00 - Temperature_FF_Office state updated to 18.80000000
+2016-05-05 17:00:00 - Temperature_FF_Child state updated to 18.30000000
+2016-05-05 17:00:00 - Temperature_FF_Bed state updated to 19.70000000
+2016-05-05 17:05:00 - Temperature_GF_Corridor state updated to 20.70000000
+2016-05-05 17:05:00 - Temperature_GF_Toilet state updated to 20.50000000
+2016-05-05 17:05:00 - Temperature_GF_Living state updated to 19.70000000
+2016-05-05 17:05:00 - Temperature_GF_Kitchen state updated to 22.50000000
+2016-05-05 17:05:00 - Temperature_FF_Bath state updated to 20.40000000
+2016-05-05 17:05:00 - Temperature_FF_Office state updated to 18.00000000
+2016-05-05 17:05:00 - Temperature_FF_Child state updated to 20.10000000
+2016-05-05 17:05:00 - Temperature_FF_Bed state updated to 21.20000000
+2016-05-05 17:10:00 - Temperature_GF_Corridor state updated to 20.00000000
+2016-05-05 17:10:00 - Temperature_GF_Toilet state updated to 17.90000000
+2016-05-05 17:10:00 - Temperature_GF_Living state updated to 18.70000000
+2016-05-05 17:10:00 - Temperature_GF_Kitchen state updated to 20.30000000
+2016-05-05 17:10:00 - Temperature_FF_Bath state updated to 19.30000000
+2016-05-05 17:10:00 - Temperature_FF_Office state updated to 17.80000000
+2016-05-05 17:10:00 - Temperature_FF_Child state updated to 18.70000000
+2016-05-05 17:10:00 - Temperature_FF_Bed state updated to 21.10000000
+2016-05-05 17:15:00 - Temperature_GF_Corridor state updated to 18.80000000
+2016-05-05 17:15:00 - Temperature_GF_Toilet state updated to 18.10000000
+2016-05-05 17:15:00 - Temperature_GF_Living state updated to 17.70000000
+2016-05-05 17:15:00 - Temperature_GF_Kitchen state updated to 19.30000000
+2016-05-05 17:15:00 - Temperature_FF_Bath state updated to 21.80000000
+2016-05-05 17:15:00 - Temperature_FF_Office state updated to 20.40000000
+2016-05-05 17:15:00 - Temperature_FF_Child state updated to 21.90000000
+2016-05-05 17:15:00 - Temperature_FF_Bed state updated to 20.20000000
+2016-05-05 17:20:00 - Temperature_GF_Corridor state updated to 18.80000000
+2016-05-05 17:20:00 - Temperature_GF_Toilet state updated to 21.10000000
+2016-05-05 17:20:00 - Temperature_GF_Living state updated to 21.10000000
+2016-05-05 17:20:00 - Temperature_GF_Kitchen state updated to 19.90000000
+2016-05-05 17:20:00 - Temperature_FF_Bath state updated to 21.50000000
+2016-05-05 17:20:00 - Temperature_FF_Office state updated to 21.20000000
+2016-05-05 17:20:00 - Temperature_FF_Child state updated to 18.70000000
+2016-05-05 17:20:00 - Temperature_FF_Bed state updated to 19.60000000
+2016-05-05 17:25:00 - Temperature_GF_Corridor state updated to 20.50000000
+2016-05-05 17:25:00 - Temperature_GF_Toilet state updated to 19.70000000
+2016-05-05 17:25:00 - Temperature_GF_Living state updated to 19.40000000
+2016-05-05 17:25:00 - Temperature_GF_Kitchen state updated to 17.60000000
+2016-05-05 17:25:00 - Temperature_FF_Bath state updated to 19.50000000
+2016-05-05 17:25:00 - Temperature_FF_Office state updated to 19.00000000
+2016-05-05 17:25:00 - Temperature_FF_Child state updated to 22.50000000
+2016-05-05 17:25:00 - Temperature_FF_Bed state updated to 19.40000000
+2016-05-05 17:30:00 - Temperature_GF_Corridor state updated to 22.40000000
+2016-05-05 17:30:00 - Temperature_GF_Toilet state updated to 19.60000000
+2016-05-05 17:30:00 - Temperature_GF_Living state updated to 18.90000000
+2016-05-05 17:30:00 - Temperature_GF_Kitchen state updated to 21.80000000
+2016-05-05 17:30:00 - Temperature_FF_Bath state updated to 21.00000000
+2016-05-05 17:30:00 - Temperature_FF_Office state updated to 19.00000000
+2016-05-05 17:30:00 - Temperature_FF_Child state updated to 21.00000000
+2016-05-05 17:30:00 - Temperature_FF_Bed state updated to 17.60000000
+2016-05-05 17:35:00 - Temperature_GF_Corridor state updated to 19.00000000
+2016-05-05 17:35:00 - Temperature_GF_Toilet state updated to 19.70000000
+2016-05-05 17:35:00 - Temperature_GF_Living state updated to 19.20000000
+2016-05-05 17:35:00 - Temperature_GF_Kitchen state updated to 17.90000000
+2016-05-05 17:35:00 - Temperature_FF_Bath state updated to 21.70000000
+2016-05-05 17:35:00 - Temperature_FF_Office state updated to 19.70000000
+2016-05-05 17:35:00 - Temperature_FF_Child state updated to 21.50000000
+2016-05-05 17:35:00 - Temperature_FF_Bed state updated to 20.40000000
+2016-05-05 17:40:00 - Temperature_GF_Corridor state updated to 21.70000000
+2016-05-05 17:40:00 - Temperature_GF_Toilet state updated to 21.00000000
+2016-05-05 17:40:00 - Temperature_GF_Living state updated to 18.20000000
+2016-05-05 17:40:00 - Temperature_GF_Kitchen state updated to 20.60000000
+2016-05-05 17:40:00 - Temperature_FF_Bath state updated to 20.80000000
+2016-05-05 17:40:00 - Temperature_FF_Office state updated to 21.60000000
+2016-05-05 17:40:00 - Temperature_FF_Child state updated to 18.80000000
+2016-05-05 17:40:00 - Temperature_FF_Bed state updated to 18.10000000
+2016-05-05 17:45:00 - Temperature_GF_Corridor state updated to 18.10000000
+2016-05-05 17:45:00 - Temperature_GF_Toilet state updated to 18.60000000
+2016-05-05 17:45:00 - Temperature_GF_Living state updated to 18.90000000
+2016-05-05 17:45:00 - Temperature_GF_Kitchen state updated to 18.20000000
+2016-05-05 17:45:00 - Temperature_FF_Bath state updated to 18.80000000
+2016-05-05 17:45:00 - Temperature_FF_Office state updated to 22.20000000
+2016-05-05 17:45:00 - Temperature_FF_Child state updated to 22.00000000
+2016-05-05 17:45:00 - Temperature_FF_Bed state updated to 17.70000000
+2016-05-05 20:28:23 - Light_GF_Living_Table state updated to OFF
+2016-05-05 20:28:23 - Light_GF_Living_Ceiling state updated to ON
+2016-05-05 20:28:23 - Light_GF_Corridor_Ceiling state updated to OFF
+2016-05-05 20:28:23 - Light_GF_Kitchen_Ceiling state updated to OFF
+2016-05-05 20:28:23 - Light_GF_Kitchen_Table state updated to OFF
+2016-05-05 20:28:23 - Light_GF_Corridor_Wardrobe state updated to OFF
+2016-05-05 20:28:23 - Light_GF_Toilet_Ceiling state updated to OFF
+2016-05-05 20:28:23 - Light_GF_Toilet_Mirror state updated to OFF
+2016-05-05 20:28:23 - Light_FF_Bath_Ceiling state updated to OFF
+2016-05-05 20:28:23 - Light_FF_Bath_Mirror state updated to ON
+2016-05-05 20:28:23 - Light_FF_Corridor_Ceiling state updated to ON
+2016-05-05 20:28:23 - Light_FF_Office_Ceiling state updated to ON
+2016-05-05 20:28:23 - Light_FF_Child_Ceiling state updated to ON
+2016-05-05 20:28:23 - Light_FF_Bed_Ceiling state updated to OFF
+2016-05-05 20:28:23 - Light_C_Corridor_Ceiling state updated to OFF
+2016-05-05 20:28:23 - Light_C_Staircase state updated to OFF
+2016-05-05 20:28:23 - Light_C_Washing_Ceiling state updated to OFF
+2016-05-05 20:28:23 - Light_C_Workshop state updated to OFF
+2016-05-05 20:28:23 - Light_Outdoor_Garage state updated to OFF
+2016-05-05 20:28:23 - Light_Outdoor_Frontdoor state updated to ON
+2016-05-05 20:28:23 - Heating_GF_Corridor state updated to OFF
+2016-05-05 20:28:23 - Heating_GF_Toilet state updated to OFF
+2016-05-05 20:28:23 - Heating_GF_Living state updated to ON
+2016-05-05 20:28:23 - Heating_GF_Kitchen state updated to OFF
+2016-05-05 20:28:23 - Heating_FF_Bath state updated to OFF
+2016-05-05 20:28:23 - Heating_FF_Office state updated to OFF
+2016-05-05 20:28:23 - Heating_FF_Child state updated to OFF
+2016-05-05 20:28:23 - Heating_FF_Bed state updated to OFF
+2016-05-05 20:28:23 - Temperature_Setpoint state updated to 22
+2016-05-05 20:28:23 - Window_GF_Frontdoor state updated to CLOSED
+2016-05-05 20:28:23 - Window_GF_Kitchen state updated to CLOSED
+2016-05-05 20:28:23 - Window_GF_Living state updated to OPEN
+2016-05-05 20:28:23 - Window_GF_Toilet state updated to OPEN
+2016-05-05 20:28:23 - Window_FF_Bath state updated to OPEN
+2016-05-05 20:28:23 - Window_FF_Bed state updated to CLOSED
+2016-05-05 20:28:23 - Window_FF_Office_Window state updated to CLOSED
+2016-05-05 20:28:23 - Window_FF_Office_Door state updated to OPEN
+2016-05-05 20:28:23 - Garage_Door state updated to CLOSED
+2016-05-05 20:28:23 - Temperature_GF_Corridor state updated to 17.70000000
+2016-05-05 20:28:23 - Temperature_GF_Toilet state updated to 18.60000000
+2016-05-05 20:28:23 - Temperature_GF_Living state updated to 18.90000000
+2016-05-05 20:28:23 - Temperature_GF_Kitchen state updated to 19.60000000
+2016-05-05 20:28:23 - Temperature_FF_Bath state updated to 17.60000000
+2016-05-05 20:28:23 - Temperature_FF_Office state updated to 21.90000000
+2016-05-05 20:28:23 - Temperature_FF_Child state updated to 19.30000000
+2016-05-05 20:28:23 - Temperature_FF_Bed state updated to 20.90000000
+2016-05-05 20:28:31 - Weather_Humidity state updated to 
+
+2016-05-05 20:28:34 - Weather_Temperature state updated to 
+
+2016-05-05 20:28:34 - Date state updated to 2016-05-05T20:28:34
+2016-05-05 20:28:35 - Weather_Temp_Max state updated to 2
+2016-05-05 20:28:36 - Weather_LastUpdate state updated to 2016-05-05T20:28:36
+2016-05-05 20:28:36 - Weather_Temp_Min state updated to 2
+2016-05-05 20:29:31 - Weather_Humidity state updated to 
+
+2016-05-05 20:29:32 - Weather_Temperature state updated to 
+
+2016-05-05 20:30:00 - Temperature_GF_Corridor state updated to 18.80000000
+2016-05-05 20:30:00 - Temperature_GF_Toilet state updated to 21.70000000
+2016-05-05 20:30:00 - Temperature_GF_Living state updated to 19.20000000
+2016-05-05 20:30:00 - Temperature_GF_Kitchen state updated to 21.30000000
+2016-05-05 20:30:00 - Temperature_FF_Bath state updated to 20.40000000
+2016-05-05 20:30:00 - Temperature_FF_Office state updated to 17.80000000
+2016-05-05 20:30:00 - Temperature_FF_Child state updated to 21.40000000
+2016-05-05 20:30:00 - Temperature_FF_Bed state updated to 22.20000000
+2016-05-05 20:30:32 - Weather_Humidity state updated to 
+
+2016-05-05 20:30:33 - Weather_Temperature state updated to 
+
+2016-05-05 20:31:33 - Weather_Humidity state updated to 
+
+2016-05-05 20:31:34 - Weather_Temperature state updated to 
+
+2016-05-05 20:32:34 - Weather_Humidity state updated to 
+
+2016-05-05 20:32:34 - Weather_Temperature state updated to 
+
+2016-05-05 20:33:34 - Weather_Humidity state updated to 
+
+2016-05-05 20:33:35 - Weather_Temperature state updated to 
+
+2016-05-05 20:34:35 - Weather_Humidity state updated to 
+
+2016-05-05 20:34:35 - Weather_Temperature state updated to 
+
+2016-05-05 20:34:51 - Shutter_FF_Office_Window received command UP
+2016-05-05 20:34:53 - Shutter_FF_Office_Window received command DOWN
+2016-05-05 20:34:54 - Shutter_FF_Office_Door received command DOWN
+2016-05-05 20:35:00 - Temperature_GF_Corridor state updated to 20.00000000
+2016-05-05 20:35:00 - Temperature_GF_Toilet state updated to 22.50000000
+2016-05-05 20:35:00 - Temperature_GF_Living state updated to 22.30000000
+2016-05-05 20:35:00 - Temperature_GF_Kitchen state updated to 22.10000000
+2016-05-05 20:35:00 - Temperature_FF_Bath state updated to 18.90000000
+2016-05-05 20:35:00 - Temperature_FF_Office state updated to 19.20000000
+2016-05-05 20:35:00 - Temperature_FF_Child state updated to 21.60000000
+2016-05-05 20:35:00 - Temperature_FF_Bed state updated to 19.50000000
+2016-05-05 20:35:35 - Weather_Humidity state updated to 
+
+2016-05-05 20:35:36 - Weather_Temperature state updated to 
+
+2016-05-05 20:36:36 - Weather_Humidity state updated to 
+
+2016-05-05 20:36:37 - Weather_Temperature state updated to 
+
+2016-05-05 20:37:37 - Weather_Humidity state updated to 
+
+2016-05-05 20:37:37 - Weather_Temperature state updated to 
+
+2016-05-05 20:38:37 - Weather_Humidity state updated to 
+
+2016-05-05 20:38:38 - Weather_Temperature state updated to 
+
+2016-05-05 20:39:38 - Weather_Humidity state updated to 
+
+2016-05-05 20:39:38 - Weather_Temperature state updated to 
+
+2016-05-05 20:40:00 - Temperature_GF_Corridor state updated to 19.30000000
+2016-05-05 20:40:00 - Temperature_GF_Toilet state updated to 17.80000000
+2016-05-05 20:40:00 - Temperature_GF_Living state updated to 21.80000000
+2016-05-05 20:40:00 - Temperature_GF_Kitchen state updated to 21.30000000
+2016-05-05 20:40:00 - Temperature_FF_Bath state updated to 20.10000000
+2016-05-05 20:40:00 - Temperature_FF_Office state updated to 17.80000000
+2016-05-05 20:40:00 - Temperature_FF_Child state updated to 21.80000000
+2016-05-05 20:40:00 - Temperature_FF_Bed state updated to 19.40000000
+2016-05-05 20:40:39 - Weather_Humidity state updated to 
+
+2016-05-05 20:40:39 - Weather_Temperature state updated to 
+
+2016-05-05 20:41:40 - Weather_Humidity state updated to 
+
+2016-05-05 20:41:40 - Weather_Temperature state updated to 
+
+2016-05-05 20:42:37 - Heating_FF_Office received command ON
+2016-05-05 20:42:41 - Weather_Humidity state updated to 
+
+2016-05-05 20:42:41 - Weather_Temperature state updated to 
+
+2016-05-05 20:43:09 - Heating_FF_Office received command OFF
+2016-05-05 20:43:14 - Heating_FF_Office received command ON
+2016-05-05 20:43:39 - Date state updated to 2016-05-05T20:43:39
+2016-05-05 20:44:49 - Heating_FF_Office received command OFF
+2016-05-05 20:44:50 - Heating_FF_Office received command ON
+2016-05-05 20:45:00 - Temperature_GF_Corridor state updated to 19.00000000
+2016-05-05 20:45:00 - Temperature_GF_Toilet state updated to 19.40000000
+2016-05-05 20:45:00 - Temperature_GF_Living state updated to 19.50000000
+2016-05-05 20:45:00 - Temperature_GF_Kitchen state updated to 21.10000000
+2016-05-05 20:45:00 - Temperature_FF_Bath state updated to 19.20000000
+2016-05-05 20:45:00 - Temperature_FF_Office state updated to 20.60000000
+2016-05-05 20:45:00 - Temperature_FF_Child state updated to 19.90000000
+2016-05-05 20:45:00 - Temperature_FF_Bed state updated to 22.50000000
+2016-05-05 20:45:56 - Weather_Humidity state updated to 
+
+2016-05-05 20:45:56 - Weather_Temperature state updated to 
+
+2016-05-05 20:46:57 - Weather_Humidity state updated to 
+
+2016-05-05 20:46:57 - Weather_Temperature state updated to 
+
+2016-05-05 20:47:49 - Heating_FF_Office received command OFF
+2016-05-05 20:47:58 - Weather_Humidity state updated to 
+
+2016-05-05 20:47:58 - Weather_Temperature state updated to 
+
+2016-05-05 20:48:02 - Heating_FF_Office received command ON
+2016-05-05 20:48:58 - Weather_Humidity state updated to 
+
+2016-05-05 20:48:59 - Weather_Temperature state updated to 
+
+2016-05-05 20:49:59 - Weather_Humidity state updated to 
+
+2016-05-05 20:50:00 - Temperature_GF_Corridor state updated to 19.50000000
+2016-05-05 20:50:00 - Temperature_GF_Toilet state updated to 20.60000000
+2016-05-05 20:50:00 - Temperature_GF_Living state updated to 21.50000000
+2016-05-05 20:50:00 - Temperature_GF_Kitchen state updated to 18.30000000
+2016-05-05 20:50:00 - Temperature_FF_Bath state updated to 20.90000000
+2016-05-05 20:50:00 - Temperature_FF_Office state updated to 21.10000000
+2016-05-05 20:50:00 - Temperature_FF_Child state updated to 20.40000000
+2016-05-05 20:50:00 - Temperature_FF_Bed state updated to 22.40000000
+2016-05-05 20:50:01 - Weather_Temperature state updated to 
+
+2016-05-05 20:50:05 - Shutter_FF_Office_Door received command UP
+2016-05-05 20:50:18 - Heating_FF_Office received command OFF
+2016-05-05 20:50:21 - Heating_FF_Office received command ON
+2016-05-05 20:50:24 - Heating_FF_Office received command OFF
+2016-05-05 20:51:02 - Weather_Humidity state updated to 
+
+2016-05-05 20:51:02 - Weather_Temperature state updated to 
+

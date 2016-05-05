@@ -31,7 +31,43 @@ sitemap demo label="主菜单"
 	Frame label="控制系统" {
 		/*照明控制 */
 		Text label="照明系统" icon="light-on" {
-			Switch item=Lights mappings=[OFF="ALL off"]
+			Switch item=Lights label="总开关 [(%d)]" mappings=[OFF="ALL off"]
+			/*一楼照明设施 */
+			Text label="一楼" icon="light-on" {
+				Switch item=Light_GF_Corridor_Ceiling label="一楼走廊天花板"
+				Switch item=Light_GF_Corridor_Wardrobe label="一楼走廊衣柜"
+				Switch item=Light_GF_Kitchen_Ceiling label="一楼厨房天花板"
+				Switch item=Light_GF_Kitchen_Table label="一楼厨房台面"
+				Switch item=Light_GF_Living_Ceiling label="一楼客厅天花板"
+				Slider item=Light_GF_Living_Table label="一楼客厅桌子"
+				Switch item=Light_GF_Toilet_Ceiling label="一楼卫生间天花板"
+				Switch item=Light_GF_Toilet_Mirror label="一楼卫生间镜子"
+			}
+			
+			/*二楼照明设施 */
+			Text label="二楼 " icon="light-on" {
+				Switch item=Light_FF_Bath_Ceiling label="二楼卫生间天花板"
+				Switch item=Light_FF_Bath_Mirror label="二楼卫生间镜子"
+				Switch item=Light_FF_Bed_Ceiling label="二楼卧室天花板"
+				Switch item=Light_FF_Child_Ceiling label="二楼儿童卧室天花板"
+				Switch item=Light_FF_Office_Ceiling label="二楼办公室天花板"
+				Switch item=Light_FF_Corridor_Ceiling label="二楼走廊"
+			}
+			
+			/*地下室 */
+			Text label="地下室" icon="light-on" {
+				Switch item=Light_C_Corridor_Ceiling label="地下室走廊"
+				Switch item=Light_C_Staircase label="地下室楼梯"
+				Switch item=Light_C_Washing_Ceiling label="地下室洗衣房"
+				Switch item=Light_C_Workshop label="地下室工作间"
+			}
+			
+			Text label="室外" icon="light-on" {
+				Switch item=Light_Outdoor_Garage label="车库"
+				Switch item=Light_Outdoor_Frontdoor label="门口"
+			}
+			
+			
 		}
 		
 		/*门窗控制 */
