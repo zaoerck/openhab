@@ -92,9 +92,9 @@ Contact Window_GF_Toilet 		"窗户 [MAP(en.map):%s]"			(GF_Toilet, Windows)
 Contact Window_FF_Bath 			"窗户 [MAP(en.map):%s]"				(FF_Bath, Windows)
 Contact Window_FF_Bed 			"窗户 [MAP(en.map):%s]"			(FF_Bed, Windows)
 Contact Window_FF_Office_Window "窗户 [MAP(en.map):%s]"	(FF_Office, Windows)
-Contact Window_FF_Office_Door 	"凉台门 [MAP(en.map):%s]"		(FF_Office, Windows)
+Contact Window_FF_Office_Door 	"凉台门 [MAP(en.map):%s]"	<door>		(FF_Office, Windows)
 
-Contact Garage_Door 			"车库门 [MAP(en.map):%s]"		(Outdoor, Windows)
+Contact Garage_Door 			"车库门 [MAP(en.map):%s]"	<door>		(Outdoor, Windows)
 
 Group Weather_Chart													(Weather)
 Number Weather_Temperature 		"室外温度 [%.1f °C]"	<temperature> (Weather_Chart) { http="<[http://weather.yahooapis.com/forecastrss?w=638242&u=c:60000:XSLT(yahoo_weather_temperature.xsl)]" }

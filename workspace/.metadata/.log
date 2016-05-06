@@ -2007,3 +2007,516 @@ java.lang.UnsatisfiedLinkError: Unable to load library 'TelldusCore': Native lib
 
 !ENTRY org.eclipse.equinox.ds 4 0 2016-05-05 20:28:28.047
 !MESSAGE Could not bind a reference of component Dmx Service. The reference is: Reference[name = DmxConnection, interface = org.openhab.binding.dmx.DmxConnection, policy = dynamic, cardinality = 0..1, target = null, bind = setConnection, unbind = unsetConnection]
+!SESSION 2016-05-06 15:21:12.132 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.7.0_79
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=zh_CN
+Command-line arguments:  -console
+
+!ENTRY org.eclipse.equinox.ds 4 0 2016-05-06 15:21:30.256
+!MESSAGE Could not bind a reference of component org.openhab.core.itemregistry. The reference is: Reference[name = ItemProvider, interface = org.openhab.core.items.ItemProvider, policy = dynamic, cardinality = 0..n, target = null, bind = addItemProvider, unbind = removeItemProvider]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2016-05-06 15:21:30.257
+!MESSAGE Could not bind a reference of component org.openhab.core.itemregistry. The reference is: Reference[name = ItemProvider, interface = org.openhab.core.items.ItemProvider, policy = dynamic, cardinality = 0..n, target = null, bind = addItemProvider, unbind = removeItemProvider]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2016-05-06 15:21:30.451
+!MESSAGE Could not bind a reference of component org.openhab.core.persistence.extensions. The reference is: Reference[name = PersistenceService, interface = org.openhab.core.persistence.PersistenceService, policy = dynamic, cardinality = 0..n, target = null, bind = addPersistenceService, unbind = removePersistenceService]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2016-05-06 15:21:30.452
+!MESSAGE Could not bind a reference of component org.openhab.core.persistence.extensions. The reference is: Reference[name = PersistenceService, interface = org.openhab.core.persistence.PersistenceService, policy = dynamic, cardinality = 0..n, target = null, bind = addPersistenceService, unbind = removePersistenceService]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2016-05-06 15:21:37.366
+!MESSAGE Could not bind a reference of component org.openhab.core.persistence.manager. The reference is: Reference[name = PersistenceService, interface = org.openhab.core.persistence.PersistenceService, policy = dynamic, cardinality = 0..n, target = null, bind = addPersistenceService, unbind = removePersistenceService]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2016-05-06 15:21:37.366
+!MESSAGE Could not bind a reference of component org.openhab.core.persistence.manager. The reference is: Reference[name = PersistenceService, interface = org.openhab.core.persistence.PersistenceService, policy = dynamic, cardinality = 0..n, target = null, bind = addPersistenceService, unbind = removePersistenceService]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2016-05-06 15:21:52.356
+!MESSAGE Could not bind a reference of component org.openhab.ui.chart. The reference is: Reference[name = ChartProvider, interface = org.openhab.ui.chart.ChartProvider, policy = dynamic, cardinality = 0..n, target = null, bind = addChartProvider, unbind = removeChartProvider]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2016-05-06 15:21:52.358
+!MESSAGE Could not bind a reference of component org.openhab.ui.chart. The reference is: Reference[name = ChartProvider, interface = org.openhab.ui.chart.ChartProvider, policy = dynamic, cardinality = 0..n, target = null, bind = addChartProvider, unbind = removeChartProvider]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2016-05-06 15:21:52.460
+!MESSAGE Could not bind a reference of component org.openhab.ui.chart.defaultprovider. The reference is: Reference[name = PersistenceService, interface = org.openhab.core.persistence.PersistenceService, policy = dynamic, cardinality = 0..n, target = null, bind = addPersistenceService, unbind = removePersistenceService]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2016-05-06 15:21:52.461
+!MESSAGE Could not bind a reference of component org.openhab.ui.chart.defaultprovider. The reference is: Reference[name = PersistenceService, interface = org.openhab.core.persistence.PersistenceService, policy = dynamic, cardinality = 0..n, target = null, bind = addPersistenceService, unbind = removePersistenceService]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2016-05-06 15:21:52.507
+!MESSAGE Could not bind a reference of component org.openhab.ui.webapp.pagerenderer. The reference is: Reference[name = WidgetRenderer, interface = org.openhab.ui.webapp.render.WidgetRenderer, policy = dynamic, cardinality = 0..n, target = null, bind = addWidgetRenderer, unbind = removeWidgetRenderer]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2016-05-06 15:21:52.508
+!MESSAGE Could not bind a reference of component org.openhab.ui.webapp.pagerenderer. The reference is: Reference[name = WidgetRenderer, interface = org.openhab.ui.webapp.render.WidgetRenderer, policy = dynamic, cardinality = 0..n, target = null, bind = addWidgetRenderer, unbind = removeWidgetRenderer]
+
+!ENTRY org.openhab.binding.modbus 4 0 2016-05-06 15:22:16.166
+!MESSAGE [SCR] Component definition XMLs not found in bundle org.openhab.binding.modbus. The component header value is OSGI-INF/modbuspoll.xml
+
+!ENTRY org.openhab.binding.modbus 4 0 2016-05-06 15:22:16.168
+!MESSAGE [SCR] Component definition XMLs not found in bundle org.openhab.binding.modbus. The component header value is OSGI-INF/modbuspoll.xml
+
+!ENTRY org.openhab.binding.modbus 4 0 2016-05-06 15:22:16.169
+!MESSAGE [SCR] Component definition XMLs not found in bundle org.openhab.binding.modbus. The component header value is OSGI-INF/modbusconfiguration.xml
+
+!ENTRY org.openhab.binding.modbus 4 0 2016-05-06 15:22:16.170
+!MESSAGE [SCR] Component definition XMLs not found in bundle org.openhab.binding.modbus. The component header value is OSGI-INF/modbusconfiguration.xml
+
+!ENTRY org.eclipse.equinox.cm 4 0 2016-05-06 15:22:18.110
+!MESSAGE influxdb : The configuration for influxdb is missing fix openhab.cfg
+!STACK 0
+org.osgi.service.cm.ConfigurationException: influxdb : The configuration for influxdb is missing fix openhab.cfg
+	at org.openhab.persistence.influxdb.internal.InfluxDBPersistenceService.updated(InfluxDBPersistenceService.java:212)
+	at org.eclipse.equinox.internal.cm.ManagedServiceTracker$1.run(ManagedServiceTracker.java:183)
+	at org.eclipse.equinox.internal.cm.SerializedTaskQueue$1.run(SerializedTaskQueue.java:36)
+
+!ENTRY org.eclipse.equinox.cm 4 0 2016-05-06 15:22:18.177
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+	at org.openhab.binding.lgtv.internal.LgtvBinding.updated(LgtvBinding.java:314)
+	at org.eclipse.equinox.internal.cm.ManagedServiceTracker$1.run(ManagedServiceTracker.java:183)
+	at org.eclipse.equinox.internal.cm.SerializedTaskQueue$1.run(SerializedTaskQueue.java:36)
+
+!ENTRY org.eclipse.equinox.ds 4 0 2016-05-06 15:22:18.545
+!MESSAGE Could not bind a reference of component org.openhab.binding.withings.binding. The reference is: Reference[name = WithingsApiClient, interface = org.openhab.binding.withings.internal.api.WithingsApiClient, policy = dynamic, cardinality = 0..n, target = null, bind = addWithingsApiClient, unbind = removeWithingsApiClient]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2016-05-06 15:22:18.546
+!MESSAGE Could not bind a reference of component org.openhab.binding.withings.binding. The reference is: Reference[name = WithingsApiClient, interface = org.openhab.binding.withings.internal.api.WithingsApiClient, policy = dynamic, cardinality = 0..n, target = null, bind = addWithingsApiClient, unbind = removeWithingsApiClient]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2016-05-06 15:22:18.906
+!MESSAGE Could not bind a reference of component Dmx Service. The reference is: Reference[name = DmxConnection, interface = org.openhab.binding.dmx.DmxConnection, policy = dynamic, cardinality = 0..1, target = null, bind = setConnection, unbind = unsetConnection]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2016-05-06 15:22:18.907
+!MESSAGE Could not bind a reference of component Dmx Service. The reference is: Reference[name = DmxConnection, interface = org.openhab.binding.dmx.DmxConnection, policy = dynamic, cardinality = 0..1, target = null, bind = setConnection, unbind = unsetConnection]
+
+!ENTRY org.eclipse.equinox.event 4 0 2016-05-06 17:36:06.845
+!MESSAGE Exception while dispatching event org.osgi.service.event.Event [topic=openhab/update/Temperature_GF_Corridor] to handler org.openhab.core.internal.items.ItemUpdater@3440242b
+!STACK 0
+com.db4o.ext.DatabaseClosedException
+	at com.db4o.internal.ObjectContainerBase.checkClosed(ObjectContainerBase.java:303)
+	at com.db4o.internal.ObjectContainerBase.checkTransaction(ObjectContainerBase.java:331)
+	at com.db4o.internal.ObjectContainerBase.rollback(ObjectContainerBase.java:1559)
+	at com.db4o.internal.ExternalObjectContainer.rollback(ExternalObjectContainer.java:119)
+	at org.openhab.persistence.db4o.internal.Db4oPersistenceService.store(Db4oPersistenceService.java:119)
+	at org.openhab.core.persistence.internal.PersistenceManager.handleStateEvent(PersistenceManager.java:227)
+	at org.openhab.core.persistence.internal.PersistenceManager.stateChanged(PersistenceManager.java:206)
+	at org.openhab.core.items.GenericItem.notifyListeners(GenericItem.java:112)
+	at org.openhab.core.items.GenericItem.setState(GenericItem.java:100)
+	at org.openhab.core.internal.items.ItemUpdater.receiveUpdate(ItemUpdater.java:71)
+	at org.openhab.core.events.AbstractEventSubscriber.handleEvent(AbstractEventSubscriber.java:38)
+	at org.eclipse.equinox.internal.event.EventHandlerWrapper.handleEvent(EventHandlerWrapper.java:197)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:197)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:340)
+
+!ENTRY org.eclipse.equinox.event 4 0 2016-05-06 17:36:06.939
+!MESSAGE Exception while dispatching event org.osgi.service.event.Event [topic=openhab/update/Temperature_GF_Toilet] to handler org.openhab.core.internal.items.ItemUpdater@3440242b
+!STACK 0
+com.db4o.ext.DatabaseClosedException
+	at com.db4o.internal.ObjectContainerBase.checkClosed(ObjectContainerBase.java:303)
+	at com.db4o.internal.ObjectContainerBase.checkTransaction(ObjectContainerBase.java:331)
+	at com.db4o.internal.ObjectContainerBase.rollback(ObjectContainerBase.java:1559)
+	at com.db4o.internal.ExternalObjectContainer.rollback(ExternalObjectContainer.java:119)
+	at org.openhab.persistence.db4o.internal.Db4oPersistenceService.store(Db4oPersistenceService.java:119)
+	at org.openhab.core.persistence.internal.PersistenceManager.handleStateEvent(PersistenceManager.java:227)
+	at org.openhab.core.persistence.internal.PersistenceManager.stateChanged(PersistenceManager.java:206)
+	at org.openhab.core.items.GenericItem.notifyListeners(GenericItem.java:112)
+	at org.openhab.core.items.GenericItem.setState(GenericItem.java:100)
+	at org.openhab.core.internal.items.ItemUpdater.receiveUpdate(ItemUpdater.java:71)
+	at org.openhab.core.events.AbstractEventSubscriber.handleEvent(AbstractEventSubscriber.java:38)
+	at org.eclipse.equinox.internal.event.EventHandlerWrapper.handleEvent(EventHandlerWrapper.java:197)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:197)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:340)
+
+!ENTRY org.eclipse.equinox.event 4 0 2016-05-06 17:36:06.944
+!MESSAGE Exception while dispatching event org.osgi.service.event.Event [topic=openhab/update/Temperature_GF_Living] to handler org.openhab.core.internal.items.ItemUpdater@3440242b
+!STACK 0
+com.db4o.ext.DatabaseClosedException
+	at com.db4o.internal.ObjectContainerBase.checkClosed(ObjectContainerBase.java:303)
+	at com.db4o.internal.ObjectContainerBase.checkTransaction(ObjectContainerBase.java:331)
+	at com.db4o.internal.ObjectContainerBase.rollback(ObjectContainerBase.java:1559)
+	at com.db4o.internal.ExternalObjectContainer.rollback(ExternalObjectContainer.java:119)
+	at org.openhab.persistence.db4o.internal.Db4oPersistenceService.store(Db4oPersistenceService.java:119)
+	at org.openhab.core.persistence.internal.PersistenceManager.handleStateEvent(PersistenceManager.java:227)
+	at org.openhab.core.persistence.internal.PersistenceManager.stateChanged(PersistenceManager.java:206)
+	at org.openhab.core.items.GenericItem.notifyListeners(GenericItem.java:112)
+	at org.openhab.core.items.GenericItem.setState(GenericItem.java:100)
+	at org.openhab.core.internal.items.ItemUpdater.receiveUpdate(ItemUpdater.java:71)
+	at org.openhab.core.events.AbstractEventSubscriber.handleEvent(AbstractEventSubscriber.java:38)
+	at org.eclipse.equinox.internal.event.EventHandlerWrapper.handleEvent(EventHandlerWrapper.java:197)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:197)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:340)
+
+!ENTRY org.eclipse.equinox.event 4 0 2016-05-06 17:36:06.948
+!MESSAGE Exception while dispatching event org.osgi.service.event.Event [topic=openhab/update/Temperature_GF_Kitchen] to handler org.openhab.core.internal.items.ItemUpdater@3440242b
+!STACK 0
+com.db4o.ext.DatabaseClosedException
+	at com.db4o.internal.ObjectContainerBase.checkClosed(ObjectContainerBase.java:303)
+	at com.db4o.internal.ObjectContainerBase.checkTransaction(ObjectContainerBase.java:331)
+	at com.db4o.internal.ObjectContainerBase.rollback(ObjectContainerBase.java:1559)
+	at com.db4o.internal.ExternalObjectContainer.rollback(ExternalObjectContainer.java:119)
+	at org.openhab.persistence.db4o.internal.Db4oPersistenceService.store(Db4oPersistenceService.java:119)
+	at org.openhab.core.persistence.internal.PersistenceManager.handleStateEvent(PersistenceManager.java:227)
+	at org.openhab.core.persistence.internal.PersistenceManager.stateChanged(PersistenceManager.java:206)
+	at org.openhab.core.items.GenericItem.notifyListeners(GenericItem.java:112)
+	at org.openhab.core.items.GenericItem.setState(GenericItem.java:100)
+	at org.openhab.core.internal.items.ItemUpdater.receiveUpdate(ItemUpdater.java:71)
+	at org.openhab.core.events.AbstractEventSubscriber.handleEvent(AbstractEventSubscriber.java:38)
+	at org.eclipse.equinox.internal.event.EventHandlerWrapper.handleEvent(EventHandlerWrapper.java:197)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:197)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:340)
+
+!ENTRY org.eclipse.equinox.event 4 0 2016-05-06 17:36:06.953
+!MESSAGE Exception while dispatching event org.osgi.service.event.Event [topic=openhab/update/Temperature_FF_Bath] to handler org.openhab.core.internal.items.ItemUpdater@3440242b
+!STACK 0
+com.db4o.ext.DatabaseClosedException
+	at com.db4o.internal.ObjectContainerBase.checkClosed(ObjectContainerBase.java:303)
+	at com.db4o.internal.ObjectContainerBase.checkTransaction(ObjectContainerBase.java:331)
+	at com.db4o.internal.ObjectContainerBase.rollback(ObjectContainerBase.java:1559)
+	at com.db4o.internal.ExternalObjectContainer.rollback(ExternalObjectContainer.java:119)
+	at org.openhab.persistence.db4o.internal.Db4oPersistenceService.store(Db4oPersistenceService.java:119)
+	at org.openhab.core.persistence.internal.PersistenceManager.handleStateEvent(PersistenceManager.java:227)
+	at org.openhab.core.persistence.internal.PersistenceManager.stateChanged(PersistenceManager.java:206)
+	at org.openhab.core.items.GenericItem.notifyListeners(GenericItem.java:112)
+	at org.openhab.core.items.GenericItem.setState(GenericItem.java:100)
+	at org.openhab.core.internal.items.ItemUpdater.receiveUpdate(ItemUpdater.java:71)
+	at org.openhab.core.events.AbstractEventSubscriber.handleEvent(AbstractEventSubscriber.java:38)
+	at org.eclipse.equinox.internal.event.EventHandlerWrapper.handleEvent(EventHandlerWrapper.java:197)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:197)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:340)
+
+!ENTRY org.eclipse.equinox.event 4 0 2016-05-06 17:36:06.957
+!MESSAGE Exception while dispatching event org.osgi.service.event.Event [topic=openhab/update/Temperature_FF_Office] to handler org.openhab.core.internal.items.ItemUpdater@3440242b
+!STACK 0
+com.db4o.ext.DatabaseClosedException
+	at com.db4o.internal.ObjectContainerBase.checkClosed(ObjectContainerBase.java:303)
+	at com.db4o.internal.ObjectContainerBase.checkTransaction(ObjectContainerBase.java:331)
+	at com.db4o.internal.ObjectContainerBase.rollback(ObjectContainerBase.java:1559)
+	at com.db4o.internal.ExternalObjectContainer.rollback(ExternalObjectContainer.java:119)
+	at org.openhab.persistence.db4o.internal.Db4oPersistenceService.store(Db4oPersistenceService.java:119)
+	at org.openhab.core.persistence.internal.PersistenceManager.handleStateEvent(PersistenceManager.java:227)
+	at org.openhab.core.persistence.internal.PersistenceManager.stateChanged(PersistenceManager.java:206)
+	at org.openhab.core.items.GenericItem.notifyListeners(GenericItem.java:112)
+	at org.openhab.core.items.GenericItem.setState(GenericItem.java:100)
+	at org.openhab.core.internal.items.ItemUpdater.receiveUpdate(ItemUpdater.java:71)
+	at org.openhab.core.events.AbstractEventSubscriber.handleEvent(AbstractEventSubscriber.java:38)
+	at org.eclipse.equinox.internal.event.EventHandlerWrapper.handleEvent(EventHandlerWrapper.java:197)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:197)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:340)
+
+!ENTRY org.eclipse.equinox.event 4 0 2016-05-06 17:36:06.962
+!MESSAGE Exception while dispatching event org.osgi.service.event.Event [topic=openhab/update/Temperature_FF_Child] to handler org.openhab.core.internal.items.ItemUpdater@3440242b
+!STACK 0
+com.db4o.ext.DatabaseClosedException
+	at com.db4o.internal.ObjectContainerBase.checkClosed(ObjectContainerBase.java:303)
+	at com.db4o.internal.ObjectContainerBase.checkTransaction(ObjectContainerBase.java:331)
+	at com.db4o.internal.ObjectContainerBase.rollback(ObjectContainerBase.java:1559)
+	at com.db4o.internal.ExternalObjectContainer.rollback(ExternalObjectContainer.java:119)
+	at org.openhab.persistence.db4o.internal.Db4oPersistenceService.store(Db4oPersistenceService.java:119)
+	at org.openhab.core.persistence.internal.PersistenceManager.handleStateEvent(PersistenceManager.java:227)
+	at org.openhab.core.persistence.internal.PersistenceManager.stateChanged(PersistenceManager.java:206)
+	at org.openhab.core.items.GenericItem.notifyListeners(GenericItem.java:112)
+	at org.openhab.core.items.GenericItem.setState(GenericItem.java:100)
+	at org.openhab.core.internal.items.ItemUpdater.receiveUpdate(ItemUpdater.java:71)
+	at org.openhab.core.events.AbstractEventSubscriber.handleEvent(AbstractEventSubscriber.java:38)
+	at org.eclipse.equinox.internal.event.EventHandlerWrapper.handleEvent(EventHandlerWrapper.java:197)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:197)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:340)
+
+!ENTRY org.eclipse.equinox.event 4 0 2016-05-06 17:36:06.967
+!MESSAGE Exception while dispatching event org.osgi.service.event.Event [topic=openhab/update/Temperature_FF_Bed] to handler org.openhab.core.internal.items.ItemUpdater@3440242b
+!STACK 0
+com.db4o.ext.DatabaseClosedException
+	at com.db4o.internal.ObjectContainerBase.checkClosed(ObjectContainerBase.java:303)
+	at com.db4o.internal.ObjectContainerBase.checkTransaction(ObjectContainerBase.java:331)
+	at com.db4o.internal.ObjectContainerBase.rollback(ObjectContainerBase.java:1559)
+	at com.db4o.internal.ExternalObjectContainer.rollback(ExternalObjectContainer.java:119)
+	at org.openhab.persistence.db4o.internal.Db4oPersistenceService.store(Db4oPersistenceService.java:119)
+	at org.openhab.core.persistence.internal.PersistenceManager.handleStateEvent(PersistenceManager.java:227)
+	at org.openhab.core.persistence.internal.PersistenceManager.stateChanged(PersistenceManager.java:206)
+	at org.openhab.core.items.GenericItem.notifyListeners(GenericItem.java:112)
+	at org.openhab.core.items.GenericItem.setState(GenericItem.java:100)
+	at org.openhab.core.internal.items.ItemUpdater.receiveUpdate(ItemUpdater.java:71)
+	at org.openhab.core.events.AbstractEventSubscriber.handleEvent(AbstractEventSubscriber.java:38)
+	at org.eclipse.equinox.internal.event.EventHandlerWrapper.handleEvent(EventHandlerWrapper.java:197)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:197)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:340)
+!SESSION 2016-05-06 17:36:39.617 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.7.0_79
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=zh_CN
+Command-line arguments:  -console
+
+!ENTRY org.eclipse.equinox.ds 4 0 2016-05-06 17:36:52.722
+!MESSAGE Could not bind a reference of component org.openhab.core.itemregistry. The reference is: Reference[name = ItemProvider, interface = org.openhab.core.items.ItemProvider, policy = dynamic, cardinality = 0..n, target = null, bind = addItemProvider, unbind = removeItemProvider]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2016-05-06 17:36:52.723
+!MESSAGE Could not bind a reference of component org.openhab.core.itemregistry. The reference is: Reference[name = ItemProvider, interface = org.openhab.core.items.ItemProvider, policy = dynamic, cardinality = 0..n, target = null, bind = addItemProvider, unbind = removeItemProvider]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2016-05-06 17:36:52.830
+!MESSAGE Could not bind a reference of component org.openhab.core.persistence.extensions. The reference is: Reference[name = PersistenceService, interface = org.openhab.core.persistence.PersistenceService, policy = dynamic, cardinality = 0..n, target = null, bind = addPersistenceService, unbind = removePersistenceService]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2016-05-06 17:36:52.831
+!MESSAGE Could not bind a reference of component org.openhab.core.persistence.extensions. The reference is: Reference[name = PersistenceService, interface = org.openhab.core.persistence.PersistenceService, policy = dynamic, cardinality = 0..n, target = null, bind = addPersistenceService, unbind = removePersistenceService]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2016-05-06 17:36:55.274
+!MESSAGE Could not bind a reference of component org.openhab.core.persistence.manager. The reference is: Reference[name = PersistenceService, interface = org.openhab.core.persistence.PersistenceService, policy = dynamic, cardinality = 0..n, target = null, bind = addPersistenceService, unbind = removePersistenceService]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2016-05-06 17:36:55.275
+!MESSAGE Could not bind a reference of component org.openhab.core.persistence.manager. The reference is: Reference[name = PersistenceService, interface = org.openhab.core.persistence.PersistenceService, policy = dynamic, cardinality = 0..n, target = null, bind = addPersistenceService, unbind = removePersistenceService]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2016-05-06 17:37:07.852
+!MESSAGE Could not bind a reference of component org.openhab.ui.chart. The reference is: Reference[name = ChartProvider, interface = org.openhab.ui.chart.ChartProvider, policy = dynamic, cardinality = 0..n, target = null, bind = addChartProvider, unbind = removeChartProvider]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2016-05-06 17:37:07.853
+!MESSAGE Could not bind a reference of component org.openhab.ui.chart. The reference is: Reference[name = ChartProvider, interface = org.openhab.ui.chart.ChartProvider, policy = dynamic, cardinality = 0..n, target = null, bind = addChartProvider, unbind = removeChartProvider]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2016-05-06 17:37:07.909
+!MESSAGE Could not bind a reference of component org.openhab.ui.chart.defaultprovider. The reference is: Reference[name = PersistenceService, interface = org.openhab.core.persistence.PersistenceService, policy = dynamic, cardinality = 0..n, target = null, bind = addPersistenceService, unbind = removePersistenceService]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2016-05-06 17:37:07.910
+!MESSAGE Could not bind a reference of component org.openhab.ui.chart.defaultprovider. The reference is: Reference[name = PersistenceService, interface = org.openhab.core.persistence.PersistenceService, policy = dynamic, cardinality = 0..n, target = null, bind = addPersistenceService, unbind = removePersistenceService]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2016-05-06 17:37:07.997
+!MESSAGE Could not bind a reference of component org.openhab.ui.webapp.pagerenderer. The reference is: Reference[name = WidgetRenderer, interface = org.openhab.ui.webapp.render.WidgetRenderer, policy = dynamic, cardinality = 0..n, target = null, bind = addWidgetRenderer, unbind = removeWidgetRenderer]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2016-05-06 17:37:07.997
+!MESSAGE Could not bind a reference of component org.openhab.ui.webapp.pagerenderer. The reference is: Reference[name = WidgetRenderer, interface = org.openhab.ui.webapp.render.WidgetRenderer, policy = dynamic, cardinality = 0..n, target = null, bind = addWidgetRenderer, unbind = removeWidgetRenderer]
+
+!ENTRY org.openhab.binding.modbus 4 0 2016-05-06 17:37:27.040
+!MESSAGE [SCR] Component definition XMLs not found in bundle org.openhab.binding.modbus. The component header value is OSGI-INF/modbuspoll.xml
+
+!ENTRY org.openhab.binding.modbus 4 0 2016-05-06 17:37:27.042
+!MESSAGE [SCR] Component definition XMLs not found in bundle org.openhab.binding.modbus. The component header value is OSGI-INF/modbuspoll.xml
+
+!ENTRY org.openhab.binding.modbus 4 0 2016-05-06 17:37:27.043
+!MESSAGE [SCR] Component definition XMLs not found in bundle org.openhab.binding.modbus. The component header value is OSGI-INF/modbusconfiguration.xml
+
+!ENTRY org.openhab.binding.modbus 4 0 2016-05-06 17:37:27.044
+!MESSAGE [SCR] Component definition XMLs not found in bundle org.openhab.binding.modbus. The component header value is OSGI-INF/modbusconfiguration.xml
+
+!ENTRY org.eclipse.equinox.ds 4 0 2016-05-06 17:37:27.629
+!MESSAGE Could not bind a reference of component Dmx Service. The reference is: Reference[name = DmxConnection, interface = org.openhab.binding.dmx.DmxConnection, policy = dynamic, cardinality = 0..1, target = null, bind = setConnection, unbind = unsetConnection]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2016-05-06 17:37:27.630
+!MESSAGE Could not bind a reference of component Dmx Service. The reference is: Reference[name = DmxConnection, interface = org.openhab.binding.dmx.DmxConnection, policy = dynamic, cardinality = 0..1, target = null, bind = setConnection, unbind = unsetConnection]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2016-05-06 17:37:33.482
+!MESSAGE Could not bind a reference of component org.openhab.binding.withings.binding. The reference is: Reference[name = WithingsApiClient, interface = org.openhab.binding.withings.internal.api.WithingsApiClient, policy = dynamic, cardinality = 0..n, target = null, bind = addWithingsApiClient, unbind = removeWithingsApiClient]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2016-05-06 17:37:33.483
+!MESSAGE Could not bind a reference of component org.openhab.binding.withings.binding. The reference is: Reference[name = WithingsApiClient, interface = org.openhab.binding.withings.internal.api.WithingsApiClient, policy = dynamic, cardinality = 0..n, target = null, bind = addWithingsApiClient, unbind = removeWithingsApiClient]
+
+!ENTRY org.eclipse.equinox.cm 4 0 2016-05-06 17:37:33.985
+!MESSAGE influxdb : The configuration for influxdb is missing fix openhab.cfg
+!STACK 0
+org.osgi.service.cm.ConfigurationException: influxdb : The configuration for influxdb is missing fix openhab.cfg
+	at org.openhab.persistence.influxdb.internal.InfluxDBPersistenceService.updated(InfluxDBPersistenceService.java:212)
+	at org.eclipse.equinox.internal.cm.ManagedServiceTracker$1.run(ManagedServiceTracker.java:183)
+	at org.eclipse.equinox.internal.cm.SerializedTaskQueue$1.run(SerializedTaskQueue.java:36)
+
+!ENTRY org.eclipse.equinox.cm 4 0 2016-05-06 17:37:34.084
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+	at org.openhab.binding.xbmc.internal.XbmcActiveBinding.updated(XbmcActiveBinding.java:358)
+	at org.eclipse.equinox.internal.cm.ManagedServiceTracker$1.run(ManagedServiceTracker.java:183)
+	at org.eclipse.equinox.internal.cm.SerializedTaskQueue$1.run(SerializedTaskQueue.java:36)
+
+!ENTRY org.eclipse.equinox.cm 4 0 2016-05-06 17:37:34.285
+!MESSAGE alarmdecoder:connect : no config!
+!STACK 0
+org.osgi.service.cm.ConfigurationException: alarmdecoder:connect : no config!
+	at org.openhab.binding.alarmdecoder.internal.AlarmDecoderBinding.updated(AlarmDecoderBinding.java:130)
+	at org.eclipse.equinox.internal.cm.ManagedServiceTracker$1.run(ManagedServiceTracker.java:183)
+	at org.eclipse.equinox.internal.cm.SerializedTaskQueue$1.run(SerializedTaskQueue.java:36)
+!SESSION 2016-05-06 20:53:19.734 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.7.0_79
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=zh_CN
+Command-line arguments:  -console
+
+!ENTRY org.eclipse.equinox.ds 4 0 2016-05-06 20:53:29.194
+!MESSAGE Could not bind a reference of component org.openhab.core.itemregistry. The reference is: Reference[name = ItemProvider, interface = org.openhab.core.items.ItemProvider, policy = dynamic, cardinality = 0..n, target = null, bind = addItemProvider, unbind = removeItemProvider]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2016-05-06 20:53:29.196
+!MESSAGE Could not bind a reference of component org.openhab.core.itemregistry. The reference is: Reference[name = ItemProvider, interface = org.openhab.core.items.ItemProvider, policy = dynamic, cardinality = 0..n, target = null, bind = addItemProvider, unbind = removeItemProvider]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2016-05-06 20:53:29.316
+!MESSAGE Could not bind a reference of component org.openhab.core.persistence.extensions. The reference is: Reference[name = PersistenceService, interface = org.openhab.core.persistence.PersistenceService, policy = dynamic, cardinality = 0..n, target = null, bind = addPersistenceService, unbind = removePersistenceService]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2016-05-06 20:53:29.316
+!MESSAGE Could not bind a reference of component org.openhab.core.persistence.extensions. The reference is: Reference[name = PersistenceService, interface = org.openhab.core.persistence.PersistenceService, policy = dynamic, cardinality = 0..n, target = null, bind = addPersistenceService, unbind = removePersistenceService]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2016-05-06 20:53:32.045
+!MESSAGE Could not bind a reference of component org.openhab.core.persistence.manager. The reference is: Reference[name = PersistenceService, interface = org.openhab.core.persistence.PersistenceService, policy = dynamic, cardinality = 0..n, target = null, bind = addPersistenceService, unbind = removePersistenceService]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2016-05-06 20:53:32.046
+!MESSAGE Could not bind a reference of component org.openhab.core.persistence.manager. The reference is: Reference[name = PersistenceService, interface = org.openhab.core.persistence.PersistenceService, policy = dynamic, cardinality = 0..n, target = null, bind = addPersistenceService, unbind = removePersistenceService]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2016-05-06 20:53:43.509
+!MESSAGE Could not bind a reference of component org.openhab.ui.chart. The reference is: Reference[name = ChartProvider, interface = org.openhab.ui.chart.ChartProvider, policy = dynamic, cardinality = 0..n, target = null, bind = addChartProvider, unbind = removeChartProvider]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2016-05-06 20:53:43.510
+!MESSAGE Could not bind a reference of component org.openhab.ui.chart. The reference is: Reference[name = ChartProvider, interface = org.openhab.ui.chart.ChartProvider, policy = dynamic, cardinality = 0..n, target = null, bind = addChartProvider, unbind = removeChartProvider]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2016-05-06 20:53:43.529
+!MESSAGE Could not bind a reference of component org.openhab.ui.chart.defaultprovider. The reference is: Reference[name = PersistenceService, interface = org.openhab.core.persistence.PersistenceService, policy = dynamic, cardinality = 0..n, target = null, bind = addPersistenceService, unbind = removePersistenceService]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2016-05-06 20:53:43.529
+!MESSAGE Could not bind a reference of component org.openhab.ui.chart.defaultprovider. The reference is: Reference[name = PersistenceService, interface = org.openhab.core.persistence.PersistenceService, policy = dynamic, cardinality = 0..n, target = null, bind = addPersistenceService, unbind = removePersistenceService]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2016-05-06 20:53:43.601
+!MESSAGE Could not bind a reference of component org.openhab.ui.webapp.pagerenderer. The reference is: Reference[name = WidgetRenderer, interface = org.openhab.ui.webapp.render.WidgetRenderer, policy = dynamic, cardinality = 0..n, target = null, bind = addWidgetRenderer, unbind = removeWidgetRenderer]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2016-05-06 20:53:43.601
+!MESSAGE Could not bind a reference of component org.openhab.ui.webapp.pagerenderer. The reference is: Reference[name = WidgetRenderer, interface = org.openhab.ui.webapp.render.WidgetRenderer, policy = dynamic, cardinality = 0..n, target = null, bind = addWidgetRenderer, unbind = removeWidgetRenderer]
+
+!ENTRY org.openhab.binding.modbus 4 0 2016-05-06 20:54:03.120
+!MESSAGE [SCR] Component definition XMLs not found in bundle org.openhab.binding.modbus. The component header value is OSGI-INF/modbuspoll.xml
+
+!ENTRY org.openhab.binding.modbus 4 0 2016-05-06 20:54:03.122
+!MESSAGE [SCR] Component definition XMLs not found in bundle org.openhab.binding.modbus. The component header value is OSGI-INF/modbuspoll.xml
+
+!ENTRY org.openhab.binding.modbus 4 0 2016-05-06 20:54:03.123
+!MESSAGE [SCR] Component definition XMLs not found in bundle org.openhab.binding.modbus. The component header value is OSGI-INF/modbusconfiguration.xml
+
+!ENTRY org.openhab.binding.modbus 4 0 2016-05-06 20:54:03.124
+!MESSAGE [SCR] Component definition XMLs not found in bundle org.openhab.binding.modbus. The component header value is OSGI-INF/modbusconfiguration.xml
+
+!ENTRY org.eclipse.equinox.ds 4 0 2016-05-06 20:54:08.679
+!MESSAGE Could not bind a reference of component org.openhab.binding.withings.binding. The reference is: Reference[name = WithingsApiClient, interface = org.openhab.binding.withings.internal.api.WithingsApiClient, policy = dynamic, cardinality = 0..n, target = null, bind = addWithingsApiClient, unbind = removeWithingsApiClient]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2016-05-06 20:54:08.680
+!MESSAGE Could not bind a reference of component org.openhab.binding.withings.binding. The reference is: Reference[name = WithingsApiClient, interface = org.openhab.binding.withings.internal.api.WithingsApiClient, policy = dynamic, cardinality = 0..n, target = null, bind = addWithingsApiClient, unbind = removeWithingsApiClient]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2016-05-06 20:54:08.758
+!MESSAGE Could not bind a reference of component Dmx Service. The reference is: Reference[name = DmxConnection, interface = org.openhab.binding.dmx.DmxConnection, policy = dynamic, cardinality = 0..1, target = null, bind = setConnection, unbind = unsetConnection]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2016-05-06 20:54:08.758
+!MESSAGE Could not bind a reference of component Dmx Service. The reference is: Reference[name = DmxConnection, interface = org.openhab.binding.dmx.DmxConnection, policy = dynamic, cardinality = 0..1, target = null, bind = setConnection, unbind = unsetConnection]
+
+!ENTRY org.eclipse.equinox.cm 4 0 2016-05-06 20:54:09.400
+!MESSAGE Unable to load library 'TelldusCore': Native library (win32-x86-64/TelldusCore.dll) not found in resource path (E:\distribution-1.6.2-runtime\server\plugins\org.eclipse.equinox.launcher_1.3.0.v20120522-1813.jar)
+!STACK 0
+java.lang.UnsatisfiedLinkError: Unable to load library 'TelldusCore': Native library (win32-x86-64/TelldusCore.dll) not found in resource path (E:\distribution-1.6.2-runtime\server\plugins\org.eclipse.equinox.launcher_1.3.0.v20120522-1813.jar)
+	at com.sun.jna.NativeLibrary.loadLibrary(NativeLibrary.java:271)
+	at com.sun.jna.NativeLibrary.getInstance(NativeLibrary.java:398)
+	at com.sun.jna.Library$Handler.<init>(Library.java:147)
+	at com.sun.jna.Native.loadLibrary(Native.java:412)
+	at com.sun.jna.Native.loadLibrary(Native.java:391)
+	at org.openhab.binding.tellstick.internal.JNA$CLibrary.<clinit>(JNA.java:95)
+	at org.openhab.binding.tellstick.internal.TellstickGenericBindingProvider.resetTellstickListener(TellstickGenericBindingProvider.java:157)
+	at org.openhab.binding.tellstick.internal.TellstickBinding.resetTelldusProvider(TellstickBinding.java:98)
+	at org.openhab.binding.tellstick.internal.TellstickBinding.resetTellstick(TellstickBinding.java:366)
+	at org.openhab.binding.tellstick.internal.TellstickBinding.updated(TellstickBinding.java:164)
+	at org.eclipse.equinox.internal.cm.ManagedServiceTracker$1.run(ManagedServiceTracker.java:183)
+	at org.eclipse.equinox.internal.cm.SerializedTaskQueue$1.run(SerializedTaskQueue.java:36)
+
+!ENTRY org.eclipse.equinox.cm 4 0 2016-05-06 20:54:11.410
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+	at org.openhab.binding.lgtv.internal.LgtvBinding.updated(LgtvBinding.java:314)
+	at org.eclipse.equinox.internal.cm.ManagedServiceTracker$1.run(ManagedServiceTracker.java:183)
+	at org.eclipse.equinox.internal.cm.SerializedTaskQueue$1.run(SerializedTaskQueue.java:36)
+!SESSION 2016-05-06 21:16:00.131 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.7.0_79
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=zh_CN
+Command-line arguments:  -console
+
+!ENTRY org.eclipse.equinox.ds 4 0 2016-05-06 21:16:06.643
+!MESSAGE Could not bind a reference of component org.openhab.core.itemregistry. The reference is: Reference[name = ItemProvider, interface = org.openhab.core.items.ItemProvider, policy = dynamic, cardinality = 0..n, target = null, bind = addItemProvider, unbind = removeItemProvider]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2016-05-06 21:16:06.644
+!MESSAGE Could not bind a reference of component org.openhab.core.itemregistry. The reference is: Reference[name = ItemProvider, interface = org.openhab.core.items.ItemProvider, policy = dynamic, cardinality = 0..n, target = null, bind = addItemProvider, unbind = removeItemProvider]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2016-05-06 21:16:06.708
+!MESSAGE Could not bind a reference of component org.openhab.core.persistence.extensions. The reference is: Reference[name = PersistenceService, interface = org.openhab.core.persistence.PersistenceService, policy = dynamic, cardinality = 0..n, target = null, bind = addPersistenceService, unbind = removePersistenceService]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2016-05-06 21:16:06.708
+!MESSAGE Could not bind a reference of component org.openhab.core.persistence.extensions. The reference is: Reference[name = PersistenceService, interface = org.openhab.core.persistence.PersistenceService, policy = dynamic, cardinality = 0..n, target = null, bind = addPersistenceService, unbind = removePersistenceService]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2016-05-06 21:16:08.045
+!MESSAGE Could not bind a reference of component org.openhab.core.persistence.manager. The reference is: Reference[name = PersistenceService, interface = org.openhab.core.persistence.PersistenceService, policy = dynamic, cardinality = 0..n, target = null, bind = addPersistenceService, unbind = removePersistenceService]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2016-05-06 21:16:08.046
+!MESSAGE Could not bind a reference of component org.openhab.core.persistence.manager. The reference is: Reference[name = PersistenceService, interface = org.openhab.core.persistence.PersistenceService, policy = dynamic, cardinality = 0..n, target = null, bind = addPersistenceService, unbind = removePersistenceService]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2016-05-06 21:16:19.572
+!MESSAGE Could not bind a reference of component org.openhab.ui.chart. The reference is: Reference[name = ChartProvider, interface = org.openhab.ui.chart.ChartProvider, policy = dynamic, cardinality = 0..n, target = null, bind = addChartProvider, unbind = removeChartProvider]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2016-05-06 21:16:19.573
+!MESSAGE Could not bind a reference of component org.openhab.ui.chart. The reference is: Reference[name = ChartProvider, interface = org.openhab.ui.chart.ChartProvider, policy = dynamic, cardinality = 0..n, target = null, bind = addChartProvider, unbind = removeChartProvider]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2016-05-06 21:16:19.582
+!MESSAGE Could not bind a reference of component org.openhab.ui.chart.defaultprovider. The reference is: Reference[name = PersistenceService, interface = org.openhab.core.persistence.PersistenceService, policy = dynamic, cardinality = 0..n, target = null, bind = addPersistenceService, unbind = removePersistenceService]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2016-05-06 21:16:19.583
+!MESSAGE Could not bind a reference of component org.openhab.ui.chart.defaultprovider. The reference is: Reference[name = PersistenceService, interface = org.openhab.core.persistence.PersistenceService, policy = dynamic, cardinality = 0..n, target = null, bind = addPersistenceService, unbind = removePersistenceService]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2016-05-06 21:16:19.623
+!MESSAGE Could not bind a reference of component org.openhab.ui.webapp.pagerenderer. The reference is: Reference[name = WidgetRenderer, interface = org.openhab.ui.webapp.render.WidgetRenderer, policy = dynamic, cardinality = 0..n, target = null, bind = addWidgetRenderer, unbind = removeWidgetRenderer]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2016-05-06 21:16:19.624
+!MESSAGE Could not bind a reference of component org.openhab.ui.webapp.pagerenderer. The reference is: Reference[name = WidgetRenderer, interface = org.openhab.ui.webapp.render.WidgetRenderer, policy = dynamic, cardinality = 0..n, target = null, bind = addWidgetRenderer, unbind = removeWidgetRenderer]
+
+!ENTRY org.openhab.binding.modbus 4 0 2016-05-06 21:16:37.900
+!MESSAGE [SCR] Component definition XMLs not found in bundle org.openhab.binding.modbus. The component header value is OSGI-INF/modbuspoll.xml
+
+!ENTRY org.openhab.binding.modbus 4 0 2016-05-06 21:16:37.902
+!MESSAGE [SCR] Component definition XMLs not found in bundle org.openhab.binding.modbus. The component header value is OSGI-INF/modbuspoll.xml
+
+!ENTRY org.openhab.binding.modbus 4 0 2016-05-06 21:16:37.902
+!MESSAGE [SCR] Component definition XMLs not found in bundle org.openhab.binding.modbus. The component header value is OSGI-INF/modbusconfiguration.xml
+
+!ENTRY org.openhab.binding.modbus 4 0 2016-05-06 21:16:37.903
+!MESSAGE [SCR] Component definition XMLs not found in bundle org.openhab.binding.modbus. The component header value is OSGI-INF/modbusconfiguration.xml
+
+!ENTRY org.eclipse.equinox.ds 4 0 2016-05-06 21:16:39.622
+!MESSAGE Could not bind a reference of component Dmx Service. The reference is: Reference[name = DmxConnection, interface = org.openhab.binding.dmx.DmxConnection, policy = dynamic, cardinality = 0..1, target = null, bind = setConnection, unbind = unsetConnection]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2016-05-06 21:16:39.623
+!MESSAGE Could not bind a reference of component Dmx Service. The reference is: Reference[name = DmxConnection, interface = org.openhab.binding.dmx.DmxConnection, policy = dynamic, cardinality = 0..1, target = null, bind = setConnection, unbind = unsetConnection]
+
+!ENTRY org.eclipse.equinox.cm 4 0 2016-05-06 21:16:39.993
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+	at org.openhab.binding.samsungac.internal.SamsungAcBinding.updated(SamsungAcBinding.java:177)
+	at org.eclipse.equinox.internal.cm.ManagedServiceTracker$1.run(ManagedServiceTracker.java:183)
+	at org.eclipse.equinox.internal.cm.SerializedTaskQueue$1.run(SerializedTaskQueue.java:36)
+
+!ENTRY org.eclipse.equinox.cm 4 0 2016-05-06 21:16:40.079
+!MESSAGE alarmdecoder:connect : no config!
+!STACK 0
+org.osgi.service.cm.ConfigurationException: alarmdecoder:connect : no config!
+	at org.openhab.binding.alarmdecoder.internal.AlarmDecoderBinding.updated(AlarmDecoderBinding.java:130)
+	at org.eclipse.equinox.internal.cm.ManagedServiceTracker$1.run(ManagedServiceTracker.java:183)
+	at org.eclipse.equinox.internal.cm.SerializedTaskQueue$1.run(SerializedTaskQueue.java:36)
+
+!ENTRY org.eclipse.equinox.ds 4 0 2016-05-06 21:16:48.877
+!MESSAGE Could not bind a reference of component org.openhab.binding.withings.binding. The reference is: Reference[name = WithingsApiClient, interface = org.openhab.binding.withings.internal.api.WithingsApiClient, policy = dynamic, cardinality = 0..n, target = null, bind = addWithingsApiClient, unbind = removeWithingsApiClient]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2016-05-06 21:16:48.878
+!MESSAGE Could not bind a reference of component org.openhab.binding.withings.binding. The reference is: Reference[name = WithingsApiClient, interface = org.openhab.binding.withings.internal.api.WithingsApiClient, policy = dynamic, cardinality = 0..n, target = null, bind = addWithingsApiClient, unbind = removeWithingsApiClient]

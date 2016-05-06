@@ -72,7 +72,28 @@ sitemap demo label="主菜单"
 		
 		/*门窗控制 */
 		Text label="门窗控制" icon="door-closed" {
-			Switch item=Garage_Door label="车库门"
+			
+			Text item=Shutter_all label="百叶窗情况" icon="rollershutter"{
+				Switch item=Shutter_GF_Kitchen	label="一楼厨房百叶窗"
+				Switch item=Shutter_GF_Living	label="一楼客厅百叶窗"
+				Switch item=Shutter_GF_Toilet	label="一楼卫生间百叶窗"
+				Switch item=Shutter_FF_Bath		label="二楼卫生间百叶窗"
+				Switch item=Shutter_FF_Bed		label="二楼卧室百叶窗"
+				Switch item=Shutter_FF_Office_Door	label="二楼办公室百叶窗"
+			}
+			
+			
+			Text item=Windows 	label="门窗情况 [(%d)]"{
+				Text item=Window_GF_Frontdoor 	label="前门窗户 [MAP(en.map):%s]"		
+				Text item=Window_GF_Kitchen 		label="厨房窗户 [MAP(en.map):%s]"		
+				Text item=Window_GF_Living 		label="客厅窗户[MAP(en.map):%s]"
+				Text item=Window_GF_Toilet 		label="一楼卫生间窗户 [MAP(en.map):%s]"
+				Text item=Window_FF_Bath 			label="二楼卫生间窗户 [MAP(en.map):%s]"
+				Text item=Window_FF_Bed 			label="卧室窗户[MAP(en.map):%s]"
+				Text item=Window_FF_Office_Window label="办公室窗户[MAP(en.map):%s]"
+				Text item=Window_FF_Office_Door 	label="办公室凉台门 [MAP(en.map):%s]"
+				Text item=Garage_Door 			label="车库门 [MAP(en.map):%s]"
+			}
 		}
 		
 		/*温度控制 */
@@ -123,21 +144,6 @@ sitemap demo label="主菜单"
 				Colorpicker item=RGBLight icon="slider"
 				Switch item=DemoShutter
 				Slider item=DemoBlinds
-			}
-		}
-		Text label="多媒体" icon="video" {
-			Frame label="音响控制" {
-				Selection item=Radio_Station mappings=[0=off, 1=HR3, 2=SWR3, 3=FFH]
-				Slider item=Volume
-			}
-			Frame label="多媒体部件" {
-				Image url="http://localhost:8080/images/splash-ipad-h.jpg" label="openHAB" {
-					Text label="http://www.openHAB.org" icon="icon"
-				}
-				//Video url="http://demo.openhab.org/Hue.m4v"
-				//Webview url="http://heise-online.mobi/" height=8
-				Video url="http://www.zaoerck.com/wp-content/uploads/2016/04/a.mp4"
-				Webview url="http://m.heise.de/" height=8
 			}
 		}
 	}
