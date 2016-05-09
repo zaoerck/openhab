@@ -105,19 +105,39 @@ sitemap demo label="主菜单"
 		
 		/*多媒体控制 */
 		Text label="多媒体" icon="video" {
-			Frame label="音响控制" {
+			//Frame label="音响控制" {
+			Text label="音响控制" icon="network" {
 				Selection item=Radio_Station mappings=[0=off, 1=HR3, 2=SWR3, 3=FFH]
 				Slider item=Volume
 			}
-			Frame label="多媒体部件" {
-				Image url="http://localhost:8080/images/splash-ipad-h.jpg" label="openHAB" {
-					Text label="http://www.openHAB.org" icon="icon"
-				}
-				//Video url="http://demo.openhab.org/Hue.m4v"
-				//Webview url="http://heise-online.mobi/" height=8
-				Video url="http://www.zaoerck.com/wp-content/uploads/2016/04/a.mp4"
-				Webview url="http://m.heise.de/" height=8
+			
+			
+			Text label="电视控制" icon="tv" {
+				Switch item=TV_GF_Living_power
+				Slider item=tv_channel	switchSupport 			
+				Slider item=tv_volume	switchSupport 		
+				Switch item=tv_mute
 			}
+						
+			Text label="在线浏览" icon="web" {
+				Frame label="图片浏览" {	
+					Image url="http://localhost:8080/images/splash-ipad-h.jpg" label="openHAB" {
+						Text label="http://www.openHAB.org" icon="icon"
+					}
+				}	
+				
+				Frame label="视频浏览" icon="video" {
+					
+					//Video url="http://demo.openhab.org/Hue.m4v"
+					//Webview url="http://heise-online.mobi/" height=8
+					Video url="http://www.zaoerck.com/wp-content/uploads/2016/04/a.mp4"
+				}
+				
+				Frame label="新闻浏览" icon="web"{
+					//Webview url="http://m.heise.de/" height=8
+					Webview url="http://news.ifeng.com/" height=10
+				}
+			}	
 		}
 		
 	}
