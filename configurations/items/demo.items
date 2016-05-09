@@ -152,7 +152,7 @@ DateTime Weather_LastUpdate		"上次更新 [%1$ta %1$tR]"	<clock>
 
 /* NTP binding demo item */
 //DateTime		Date			"[%1$tA, %1$td.%1$tm.%1$tY]"	<calendar>	{ ntp="Europe/Berlin:de_DE" }
-DateTime    	Date    		"日期[%1$tA, %1$td.%1$tm.%1$tY]"	<calendar>  { ntp="" }
+DateTime    	Date    		"日期[%1$tA, %1$td.%1$tm.%1$tY]"	<calendar>  
 
 /* Demo items */
 Switch DemoSwitch				"开关"

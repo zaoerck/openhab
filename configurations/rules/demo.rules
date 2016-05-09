@@ -68,6 +68,13 @@ rule "Initialize light states"
 		)
 end
 
+rule "Initialize date states"
+	when
+		System started
+	then
+		postUpdate(Date, new DateTimeType())
+end
+
 rule "Initialize heating states"
 	when 
 		System started
