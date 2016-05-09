@@ -2051,3 +2051,471 @@ org.openhab.binding.ehealth.internal.EHealthException: Serial port 'null' could 
 2016-05-09 12:10:00.950 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
 2016-05-09 12:10:01.324 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
 2016-05-09 12:10:01.324 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 12:11:02.272 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 12:11:02.288 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 12:11:02.896 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 12:11:02.896 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 12:12:03.077 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 12:12:03.077 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 12:12:03.685 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 12:12:03.685 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 12:13:03.941 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 12:13:03.941 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 12:13:04.581 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 12:13:04.581 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 12:14:04.575 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 12:14:04.576 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 12:14:05.236 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 12:14:05.237 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 12:14:43.200 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'demo.items'
+2016-05-09 12:14:53.392 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'demo.items'
+2016-05-09 12:15:05.275 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 12:15:05.275 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 12:15:05.634 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 12:15:05.634 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 12:15:43.767 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'demo.items'
+2016-05-09 12:16:06.548 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 12:16:06.549 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 12:16:06.909 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 12:16:06.910 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 12:16:43.988 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'demo.sitemap'
+2016-05-09 12:17:07.946 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 12:17:07.946 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 12:17:08.321 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 12:17:08.321 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 12:18:08.986 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 12:18:08.986 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 12:18:09.361 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 12:18:09.361 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 12:19:10.363 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 12:19:10.363 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 12:19:10.723 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 12:19:10.723 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 12:20:11.362 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 12:20:11.363 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 12:20:11.775 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 12:20:11.777 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 12:21:12.594 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 12:21:12.594 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 12:21:13.086 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 12:21:13.087 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 12:22:13.717 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 12:22:13.718 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 12:22:14.331 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 12:22:14.331 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 12:23:15.247 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 12:23:15.248 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 12:23:15.857 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 12:23:15.859 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 12:24:16.247 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 12:24:16.248 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 12:24:16.713 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 12:24:16.714 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 12:25:17.114 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 12:25:17.116 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 12:25:17.724 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 12:25:17.725 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 12:25:26.535 [WARN ] [i.s.ScaleTransformationService] - Scale transform can only work with numeric values, '-' is not 
+2016-05-09 12:26:18.195 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 12:26:18.196 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 12:26:18.816 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 12:26:18.817 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 12:26:34.272 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'demo.items'
+2016-05-09 12:27:19.357 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 12:27:19.357 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 12:27:19.736 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 12:27:19.737 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 12:28:20.329 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 12:28:20.329 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 12:28:20.691 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 12:28:20.691 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 12:30:07.074 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-09 12:30:07.075 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-09 12:30:07.191 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketException: Connection reset
+2016-05-09 12:30:07.191 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-09 12:31:07.663 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 12:31:07.679 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 12:31:07.866 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 12:31:07.866 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 12:32:08.429 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 12:32:08.430 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 12:32:08.603 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 12:32:08.619 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 12:33:04.709 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'demo.items'
+2016-05-09 12:33:09.036 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 12:33:09.036 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 12:33:09.225 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 12:33:09.225 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 12:33:34.911 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'demo.items'
+2016-05-09 12:34:05.096 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'demo.sitemap'
+2016-05-09 12:34:09.762 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 12:34:09.762 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 12:34:10.060 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 12:34:10.060 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 12:34:25.145 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'demo.items'
+2016-05-09 12:35:10.589 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 12:35:10.589 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 12:35:10.777 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 12:35:10.777 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 12:35:35.340 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'demo.items'
+2016-05-09 12:35:55.504 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'demo.items'
+2016-05-09 12:36:11.360 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 12:36:11.360 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 12:36:11.564 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 12:36:11.564 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 12:37:11.960 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 12:37:11.962 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 12:37:12.149 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 12:37:12.150 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 12:38:17.250 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketTimeoutException: Read timed out
+2016-05-09 12:38:17.251 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-09 12:38:22.275 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketTimeoutException: Read timed out
+2016-05-09 12:38:22.276 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-09 12:39:22.383 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketTimeoutException: Read timed out
+2016-05-09 12:39:22.384 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-09 12:39:27.394 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketTimeoutException: Read timed out
+2016-05-09 12:39:27.394 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-09 12:40:22.699 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 12:40:22.699 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 12:40:27.946 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 12:40:27.946 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 12:41:23.475 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 12:41:23.475 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 12:41:28.689 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 12:41:28.689 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 12:41:56.620 [WARN ] [inding.ntp.internal.NtpBinding] - couldn't establish network connection [host 'ptbtime1.ptb.de'] -> returning current sytem time instead
+2016-05-09 12:42:24.041 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 12:42:24.041 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 12:42:29.267 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 12:42:29.268 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 12:43:25.632 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 12:43:25.632 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 12:43:29.835 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 12:43:29.835 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 12:44:26.395 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 12:44:26.395 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 12:44:30.600 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 12:44:30.600 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 12:45:27.012 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 12:45:27.012 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 12:45:31.229 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 12:45:31.229 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 12:46:27.696 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 12:46:27.696 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 12:46:31.885 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 12:46:31.885 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 12:46:46.025 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'demo.items'
+2016-05-09 12:47:28.431 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 12:47:28.431 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 12:47:32.618 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 12:47:32.618 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 12:48:29.105 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 12:48:29.105 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 12:48:35.243 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 12:48:35.243 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 12:49:29.679 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 12:49:29.679 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 12:49:35.863 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 12:49:35.879 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 12:49:46.278 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'demo.items'
+2016-05-09 12:50:03.007 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-09 12:50:16.429 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'demo.items'
+2016-05-09 12:50:30.291 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 12:50:30.291 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 12:50:36.512 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 12:50:36.513 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 12:51:30.984 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 12:51:30.984 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 12:51:37.351 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 12:51:37.351 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 12:52:31.975 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 12:52:31.975 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 12:52:38.196 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 12:52:38.196 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 12:53:32.657 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 12:53:32.657 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 12:53:38.877 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 12:53:38.877 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 12:54:33.405 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 12:54:33.405 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 12:54:39.606 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 12:54:39.606 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 12:54:56.771 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'demo.sitemap'
+2016-05-09 12:55:26.841 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'demo.sitemap'
+2016-05-09 12:55:32.405 [ERROR] [.r.i.filter.PollingDelayFilter] - null
+2016-05-09 12:55:34.151 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 12:55:34.151 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 12:55:40.395 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 12:55:40.395 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 12:56:26.919 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'demo.sitemap'
+2016-05-09 12:56:34.844 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 12:56:34.844 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 12:56:41.080 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 12:56:41.080 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 12:57:01.624 [WARN ] [inding.ntp.internal.NtpBinding] - couldn't establish network connection [host 'ptbtime1.ptb.de'] -> returning current sytem time instead
+2016-05-09 12:57:06.971 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'demo.items'
+2016-05-09 12:57:17.163 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'demo.items'
+2016-05-09 12:57:27.305 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'demo.items'
+2016-05-09 12:57:35.605 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 12:57:35.605 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 12:57:41.853 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 12:57:41.853 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 12:57:47.494 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'demo.items'
+2016-05-09 12:57:57.678 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'demo.items'
+2016-05-09 12:58:07.830 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'demo.items'
+2016-05-09 12:58:36.368 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 12:58:36.368 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 12:58:37.969 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'demo.items'
+2016-05-09 12:58:42.587 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 12:58:42.587 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 12:59:18.128 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'demo.sitemap'
+2016-05-09 12:59:31.275 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-09 12:59:31.275 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-09 12:59:31.275 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-09 12:59:31.275 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-09 12:59:31.275 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-09 12:59:31.291 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-09 12:59:31.291 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-09 12:59:31.291 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-09 12:59:37.027 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 12:59:37.027 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 12:59:43.225 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 12:59:43.225 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 13:00:37.770 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 13:00:37.771 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 13:00:43.975 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 13:00:43.990 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 13:01:38.477 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 13:01:38.477 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 13:01:46.071 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 13:01:46.071 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 13:02:39.598 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 13:02:39.598 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 13:02:46.802 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 13:02:46.802 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 13:03:40.553 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 13:03:40.553 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 13:03:47.765 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 13:03:47.765 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 13:03:58.383 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'demo.items'
+2016-05-09 13:04:41.262 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 13:04:41.262 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 13:04:48.498 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 13:04:48.498 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 13:05:08.629 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'demo.items'
+2016-05-09 13:05:18.789 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'demo.items'
+2016-05-09 13:05:28.930 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'demo.items'
+2016-05-09 13:05:42.413 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 13:05:42.413 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 13:05:49.650 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 13:05:49.650 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 13:06:29.145 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'demo.items'
+2016-05-09 13:06:43.072 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 13:06:43.072 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 13:06:50.308 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 13:06:50.308 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 13:06:59.296 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'demo.items'
+2016-05-09 13:07:44.038 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 13:07:44.038 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 13:07:51.273 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 13:07:51.273 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 13:07:59.461 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'demo.items'
+2016-05-09 13:08:09.638 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'demo.items'
+2016-05-09 13:08:44.777 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 13:08:44.777 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 13:08:51.999 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 13:08:51.999 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 13:09:19.769 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'demo.items'
+2016-05-09 13:09:45.528 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 13:09:45.528 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 13:09:52.775 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 13:09:52.775 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 13:10:19.898 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'demo.items'
+2016-05-09 13:10:30.102 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'demo.items'
+2016-05-09 13:10:51.132 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketTimeoutException: Read timed out
+2016-05-09 13:10:51.132 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-09 13:10:53.296 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 13:10:53.296 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 13:11:00.202 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'demo.items'
+2016-05-09 13:11:10.278 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'demo.items'
+2016-05-09 13:11:51.982 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 13:11:51.982 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 13:11:54.163 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 13:11:54.163 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 13:12:06.636 [WARN ] [inding.ntp.internal.NtpBinding] - couldn't establish network connection [host 'ptbtime1.ptb.de'] -> returning current sytem time instead
+2016-05-09 13:12:30.406 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'demo.sitemap'
+2016-05-09 13:12:52.571 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 13:12:52.572 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 13:12:54.748 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 13:12:54.749 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 13:13:53.000 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 13:13:53.000 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 13:13:55.192 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 13:13:55.192 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 13:14:53.681 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 13:14:53.697 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 13:14:55.879 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 13:14:55.879 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 13:15:00.518 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'demo.sitemap'
+2016-05-09 13:15:50.593 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'demo.sitemap'
+2016-05-09 13:15:54.469 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 13:15:54.469 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 13:15:56.711 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 13:15:56.711 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 13:16:00.642 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'demo.sitemap'
+2016-05-09 13:16:10.698 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'demo.sitemap'
+2016-05-09 13:16:27.134 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-09 13:16:53.126 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-09 13:16:53.126 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-09 13:16:53.126 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-09 13:16:53.126 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-09 13:16:53.126 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-09 13:16:53.126 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-09 13:16:53.142 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-09 13:16:53.142 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-09 13:16:55.210 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-09 13:16:55.210 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-09 13:16:55.210 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-09 13:16:55.210 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-09 13:16:55.210 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-09 13:16:55.226 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-09 13:16:55.226 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-09 13:16:55.226 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 13:16:55.226 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 13:16:55.226 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-09 13:16:57.422 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 13:16:57.422 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 13:17:21.289 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-09 13:17:55.924 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 13:17:55.924 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 13:17:58.112 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 13:17:58.112 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 13:18:30.822 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'demo.sitemap'
+2016-05-09 13:18:56.718 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 13:18:56.718 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 13:18:58.900 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 13:18:58.900 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 13:19:10.887 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'demo.items'
+2016-05-09 13:19:29.870 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-09 13:19:45.119 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-09 13:19:57.542 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 13:19:57.542 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 13:19:59.726 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 13:19:59.726 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 13:21:03.150 [ERROR] [g.openhab.io.net.http.HttpUtil] - Fatal transport error: java.net.SocketTimeoutException: Read timed out
+2016-05-09 13:21:03.150 [ERROR] [.o.b.http.internal.HttpBinding] - No response received from 'http://weather.yahooapis.com/forecastrss?w=638242&u=c'
+2016-05-09 13:21:03.902 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 13:21:03.902 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 13:21:49.788 [WARN ] [i.s.ScaleTransformationService] - Scale transform can only work with numeric values, '-' is not 
+2016-05-09 13:22:03.461 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 13:22:03.461 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 13:22:04.674 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 13:22:04.675 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 13:22:51.083 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'demo.sitemap'
+2016-05-09 13:23:04.145 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 13:23:04.145 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 13:23:05.322 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 13:23:05.322 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 13:23:09.273 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-09 13:23:09.274 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-09 13:23:09.274 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-09 13:23:09.274 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-09 13:23:09.274 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-09 13:23:09.274 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-09 13:23:09.274 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-09 13:23:09.274 [WARN ] [t.i.s.MapTransformationService] - Could not find a mapping for '-' in the file 'en.map'.
+2016-05-09 13:24:26.999 [INFO ] [.o.core.internal.CoreActivator] - openHAB runtime has been started (v1.6.2).
+2016-05-09 13:24:28.455 [INFO ] [o.o.i.s.i.DiscoveryServiceImpl] - mDNS service has been started
+2016-05-09 13:24:29.708 [INFO ] [o.o.i.s.i.DiscoveryServiceImpl] - Service Discovery initialization completed.
+2016-05-09 13:24:32.183 [INFO ] [penhab.io.rest.RESTApplication] - Started REST API at /rest
+2016-05-09 13:24:32.412 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'http://10.196.212.134:8080/rest/' for the unknown sitemap 'demo'.
+2016-05-09 13:24:32.474 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'http://10.196.212.134:8080/rest/' for the unknown sitemap 'demo'.
+2016-05-09 13:24:32.540 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'http://10.196.212.134:8080/rest/' for the unknown sitemap 'demo'.
+2016-05-09 13:24:32.606 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'http://10.196.212.134:8080/rest/' for the unknown sitemap 'demo'.
+2016-05-09 13:24:32.700 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'http://10.196.212.134:8080/rest/' for the unknown sitemap 'demo'.
+2016-05-09 13:24:32.747 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'http://10.196.212.134:8080/rest/' for the unknown sitemap 'demo'.
+2016-05-09 13:24:32.794 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'http://10.196.212.134:8080/rest/' for the unknown sitemap 'demo'.
+2016-05-09 13:24:37.875 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'demo.sitemap'
+2016-05-09 13:24:38.234 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'demo.script'
+2016-05-09 13:24:38.358 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'db4o.persist'
+2016-05-09 13:24:38.390 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'exec.persist'
+2016-05-09 13:24:38.390 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'logging.persist'
+2016-05-09 13:24:38.405 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'rrd4j.persist'
+2016-05-09 13:24:38.436 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'demo.items'
+2016-05-09 13:24:40.199 [INFO ] [.o.u.w.i.servlet.WebAppServlet] - Started Classic UI at /openhab.app
+2016-05-09 13:24:46.658 [ERROR] [b.b.i.BTDeviceDiscoveryService] - Error while initializing local bluetooth device.
+javax.bluetooth.BluetoothStateException: BlueCove libraries not available
+	at com.intel.bluetooth.BlueCoveImpl.createDetectorOnWindows(BlueCoveImpl.java:963) ~[na:na]
+	at com.intel.bluetooth.BlueCoveImpl.detectStack(BlueCoveImpl.java:477) ~[na:na]
+	at com.intel.bluetooth.BlueCoveImpl.access$500(BlueCoveImpl.java:70) ~[na:na]
+	at com.intel.bluetooth.BlueCoveImpl$1.run(BlueCoveImpl.java:1085) ~[na:na]
+	at java.security.AccessController.doPrivileged(Native Method) ~[na:1.7.0_79]
+	at com.intel.bluetooth.BlueCoveImpl.detectStackPrivileged(BlueCoveImpl.java:1083) ~[na:na]
+	at com.intel.bluetooth.BlueCoveImpl.getBluetoothStack(BlueCoveImpl.java:1076) ~[na:na]
+	at javax.bluetooth.LocalDevice.getLocalDeviceInstance(LocalDevice.java:75) ~[na:na]
+	at javax.bluetooth.LocalDevice.getLocalDevice(LocalDevice.java:95) ~[na:na]
+	at org.openhab.binding.bluetooth.internal.BTDeviceDiscoveryService.run(BTDeviceDiscoveryService.java:113) ~[na:na]
+2016-05-09 13:24:47.126 [INFO ] [rg.openhab.io.cv.CVApplication] - Started Cometvisu API at /services/cv
+2016-05-09 13:24:48.686 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'demo.rules'
+2016-05-09 13:25:07.904 [WARN ] [.o.c.p.e.PersistenceExtensions] - There is no queryable persistence service registered with the name 'rrd4j'
+2016-05-09 13:25:07.904 [ERROR] [m.r.internal.engine.RuleEngine] - Error during the execution of startup rule 'Update max and min temperatures': cannot invoke method public abstract org.openhab.core.types.State org.openhab.core.persistence.HistoricItem.getState() on null
+2016-05-09 13:25:07.951 [INFO ] [.service.AbstractActiveService] - HDanywhere Refresh Service has been started
+2016-05-09 13:25:07.982 [INFO ] [t.AbstractSocketChannelBinding] - The maximum buffer will be set to the default value of 1024
+2016-05-09 13:25:07.982 [INFO ] [t.AbstractSocketChannelBinding] - The interval to retry connection setups will be set to the default value of 5
+2016-05-09 13:25:07.982 [INFO ] [t.AbstractSocketChannelBinding] - The cron job to reset connections will be set to the default value of 0 0 0 * * ?
+2016-05-09 13:25:07.982 [INFO ] [t.AbstractSocketChannelBinding] - The setting to queue write operation until a channel gets connected will be set to the default value of true
+2016-05-09 13:25:07.982 [INFO ] [t.AbstractSocketChannelBinding] - The port to listen for incoming connections will be set to the default value of 0
+2016-05-09 13:25:07.982 [INFO ] [t.AbstractSocketChannelBinding] - The setting to share channels within an Item will be set to the default value of true
+2016-05-09 13:25:07.982 [INFO ] [t.AbstractSocketChannelBinding] - The setting to share channels between the items with the same direction will be set to the default value of true
+2016-05-09 13:25:07.998 [INFO ] [t.AbstractSocketChannelBinding] - The setting to share channels between directions will be set to the default value of true
+2016-05-09 13:25:07.998 [INFO ] [t.AbstractSocketChannelBinding] - The setting to use address masks for incoming connections will be set to the default value of true
+2016-05-09 13:25:07.998 [INFO ] [t.protocol.internal.TCPBinding] - The maximum time out for blocking write operations will be set to the default vaulue of 3000
+2016-05-09 13:25:07.998 [INFO ] [.service.AbstractActiveService] - TCP Refresh Service has been started
+2016-05-09 13:25:07.998 [INFO ] [t.protocol.internal.TCPBinding] - The blocking nature of read/write operations will be set to the default vaulue of false
+2016-05-09 13:25:07.998 [INFO ] [t.protocol.internal.TCPBinding] - The preamble for all write operations will be set to the default vaulue of 
+2016-05-09 13:25:07.998 [INFO ] [t.protocol.internal.TCPBinding] - The postamble for all write operations will be set to the default vaulue of 
+
+2016-05-09 13:25:07.998 [INFO ] [t.protocol.internal.TCPBinding] - Updating states with returned values will be set to the default vaulue of true
+2016-05-09 13:25:07.998 [INFO ] [t.protocol.internal.TCPBinding] - The characterset will be set to the default vaulue of ASCII
+2016-05-09 13:25:08.122 [INFO ] [.service.AbstractActiveService] - FritzBox refresh Service has been started
+2016-05-09 13:25:08.341 [INFO ] [.service.AbstractActiveService] - RME Refresh Service has been started
+2016-05-09 13:25:08.606 [INFO ] [.service.AbstractActiveService] - Sonos Refresh Service has been started
+2016-05-09 13:25:08.684 [INFO ] [.service.AbstractActiveService] - Oceanic Refresh Service has been started
+2016-05-09 13:25:08.793 [INFO ] [.service.AbstractActiveService] - Exec Refresh Service has been started
+2016-05-09 13:25:08.793 [INFO ] [insteonplm.InsteonPLMActivator] - Insteon PLM binding has been started.
+2016-05-09 13:25:09.448 [INFO ] [.o.i.t.xpl.XplTransportService] - xPL Manager source address set to clinique-openhab.openhab
+2016-05-09 13:25:09.464 [INFO ] [.o.i.t.xpl.XplTransportService] - xPL transport has been started
+2016-05-09 13:25:09.480 [INFO ] [.o.i.t.xpl.XplTransportService] - xPL transport configuration
+2016-05-09 13:25:09.495 [INFO ] [.b.sonos.internal.SonosBinding] - Querying the network for any other Sonos device
+2016-05-09 13:25:09.573 [INFO ] [.service.AbstractActiveService] - XBMC Refresh Service has been started
+2016-05-09 13:25:09.651 [INFO ] [.service.AbstractActiveService] - VDR Monitor Service has been started
+2016-05-09 13:25:09.916 [INFO ] [.b.knx.internal.bus.KNXBinding] - Calimero library version 2.2.0-alpha
+2016-05-09 13:25:15.704 [ERROR] [io.gpio.internal.GPIOActivator] - No supported operating system was found, GPIO service won't be available
+2016-05-09 13:25:15.782 [INFO ] [.service.AbstractActiveService] - SNMP Refresh Service has been started
+2016-05-09 13:25:15.987 [INFO ] [g.openhab.model.script.Weather] - Temperature evolved of 0 degrees.
+2016-05-09 13:25:16.019 [ERROR] [o.o.c.s.ScriptExecutionThread ] - Error during the execution of rule 'Compute humidex': Cannot cast org.openhab.core.types.UnDefType to org.openhab.core.library.types.DecimalType
+2016-05-09 13:25:16.065 [INFO ] [.w.i.api.WithingsAuthenticator] - #########################################################################################
+2016-05-09 13:25:16.065 [INFO ] [.w.i.api.WithingsAuthenticator] - # Withings Binding needs authentication.
+2016-05-09 13:25:16.065 [INFO ] [.w.i.api.WithingsAuthenticator] - # Execute 'withings:startAuthentication' on OSGi console.
+2016-05-09 13:25:16.065 [INFO ] [.w.i.api.WithingsAuthenticator] - #########################################################################################
+2016-05-09 13:25:16.315 [INFO ] [o.b.p.internal.PifaceActivator] - Piface binding has been started.
+2016-05-09 13:25:16.627 [INFO ] [.service.AbstractActiveService] - HTTP Refresh Service has been started
+2016-05-09 13:25:16.721 [INFO ] [.b.s.internal.SamsungAcBinding] - active
+2016-05-09 13:25:16.877 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 13:25:16.877 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 13:25:17.251 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 13:25:17.251 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 13:25:18.530 [INFO ] [.b.t.internal.TellstickBinding] - Activate Thread[Component Resolve Thread (Bundle 98),10,main]
+2016-05-09 13:26:18.069 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 13:26:18.069 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 13:26:18.258 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 13:26:18.259 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 13:27:07.999 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'demo.sitemap'
+2016-05-09 13:27:18.812 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 13:27:18.812 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 13:27:18.985 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 13:27:19.001 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 13:28:19.710 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 13:28:19.710 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized
+2016-05-09 13:28:21.208 [WARN ] [.httpclient.HttpMethodDirector] - Unable to respond to any of these challenges: {oauth=OAuth oauth_problem="OST_OAUTH_PARAMETER_ABSENT_ERROR", realm="yahooapis.com"}
+2016-05-09 13:28:21.208 [WARN ] [g.openhab.io.net.http.HttpUtil] - Method failed: HTTP/1.1 401 Unauthorized

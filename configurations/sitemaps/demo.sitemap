@@ -8,7 +8,8 @@ sitemap demo label="主菜单"
 	}
 	
 	Frame label="状态"{
-		Text item=Date label="日期"//日期获取
+		
+		Text item=Date //日期获取
 		
 		Text item=Weather_Temperature valuecolor=[Weather_LastUpdate=="Uninitialized"="lightgray",Weather_LastUpdate>90="lightgray",>25="orange",>15="green",>5="orange",<=5="blue"] {
 			Frame {
@@ -98,9 +99,44 @@ sitemap demo label="主菜单"
 		
 		/*温度控制 */
 		Text label="温度控制" icon="temperature" {
-			Text label="智能温度调节"
-			Text label="各空调温度调节"
-			Text label="各热水器温度调节"
+			Text label="智能温度调节"	icon="temperature"
+			Text label="各空调温度调节"	icon="AC"{
+				Frame label="一楼走廊" {
+					Switch item=AC_GF_Corridor_power
+					Setpoint item=GF_Corridor_Temperature_Setpoint minValue=16 maxValue=30 step=1
+				}
+				
+				Frame label="一楼客厅" {
+					Switch item=AC_GF_Living_power
+					Setpoint item=AC_GF_Living_Temperature_Setpoint minValue=16 maxValue=30 step=1
+				}
+				
+				Frame label="二楼办公室" {
+					Switch item=AC_FF_Office_power
+					Setpoint item=AC_FF_Office_Temperature_Setpoint minValue=16 maxValue=30 step=1
+				}
+				
+				Frame label="二楼儿童卧室" {
+					Switch item=AC_FF_Child_power
+					Setpoint item=AC_FF_Child_Temperature_Setpoint minValue=16 maxValue=30 step=1
+				}
+				
+				Frame label="二楼卧室" {
+					Switch item=AC_FF_Bed_power
+					Setpoint item=AC_FF_Bed_Temperature_Setpoint minValue=16 maxValue=30 step=1
+				}
+			}
+			Text label="各热水器温度调节" icon="heating"{
+				Frame label="一楼卫生间" {
+					Switch item=Heating_GF_Toilet_power
+					Setpoint item=GF_Toilet_Temperature_Setpoint minValue=16 maxValue=30 step=1
+				}
+				
+				Frame label="二楼卫生间" {
+					Switch item=Heating_FF_Bath_power
+					Setpoint item=FF_Bath_Temperature_Setpoint minValue=16 maxValue=30 step=1
+				}
+			}
 		}
 		
 		/*多媒体控制 */
@@ -141,7 +177,7 @@ sitemap demo label="主菜单"
 		}
 		
 	}
-
+	/* 
 	Frame label="Demo" {
 		Text label="Group Demo" icon="firstfloor" {
 			Switch item=Lights mappings=[OFF="All Off"]
@@ -166,5 +202,5 @@ sitemap demo label="主菜单"
 				Slider item=DemoBlinds
 			}
 		}
-	}
+	}*/
 }
